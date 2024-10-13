@@ -1,0 +1,16 @@
+.category-nav {
+  width: 100%;
+  box-shadow: inset 0px -1px 0px var(--border-muted);
+  white-space: nowrap;
+  overflow-x: scroll;
+}
+
+/* hide scrollbar
+.category-nav {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.category-nav::-webkit-scrollbar{
+  display: none;
+}
+*/

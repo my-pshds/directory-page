@@ -13,37 +13,37 @@
         {
           "title":"徐轶青",
           "body":"斯坦福大学政治系 Faculty",
-          "tag":"量化社科｜传播政治学｜中国政治",
+          "tag":"量化社科 | 传播政治学 | 中国政治",
           "url":"https://yiqingxu.org/"
         },
         {
           "title":"佟新",
           "body":"北京大学社会学系 Faculty",
-          "tag":"劳动社会学｜妇女研究",
+          "tag":"劳动社会学 | 妇女研究",
           "url":"http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=326#"
         },
         {
           "title":"何国强",
           "body":"中山大学人类学系 Faculty |《政治人类学通论》作者",
-          "tag":"政治人类学｜中国区域文化",
+          "tag":"政治人类学 | 中国区域文化",
           "url":"https://ssa.sysu.edu.cn/teacher/3591"
         },
         {
           "title":"王裕华",
           "body":"哈佛大学政府系 Faculty",
-          "tag":"中国政治史｜国家理论",
+          "tag":"中国政治史 | 国家理论",
           "url":"https://scholar.harvard.edu/yuhuawang"
         },
         {
-          "title":"刘荣耀｜Glory M. Liu",
+          "title":"刘荣耀 | Glory M. Liu",
           "body":"约翰霍普金斯大学经济与社会中心 Faculty",
-          "tag":"政治思想史｜经济思想史",
+          "tag":"政治思想史 | 经济思想史",
           "url":"https://www.gloryliu.com/"
         },
         {
           "title":"聂辉华",
           "body":"中国人民大学经济学院 Faculty",
-          "tag":"制度经济学｜当代中国政治经济问题",
+          "tag":"制度经济学 | 当代中国政治经济问题",
           "url":"http://www.niehuihua.com/"
         },
         {
@@ -61,25 +61,25 @@
         {
           "title":"陈强",
           "body":"山东大学经济学院 Faculty",
-          "tag":"经济计量理论｜机器学习｜中国经济史",
+          "tag":"经济计量理论 | 机器学习 | 中国经济史",
           "url":"http://econometrics-stata.com/"
         },
         {
           "title":"牟晓生",
           "body":"普林斯顿大学经济系 Faculty－2008 年 IMO 满分",
-          "tag":"高中数竞｜微观经济理论｜机制设计",
+          "tag":"高中数竞 | 微观经济理论 | 机制设计",
           "url":"https://www.xiaoshengmu.com/"
         },
         {
-          "title":"Walter E. Nicholson｜尼科尔森",
-          "body":"Amherst College｜Faculty",
-          "tag":"微观经济教学｜劳动经济学",
+          "title":"Walter E. Nicholson | 尼科尔森",
+          "body":"Amherst College | Faculty",
+          "tag":"微观经济教学 | 劳动经济学",
           "url":"https://wenicholson.people.amherst.edu/"
         },
         {
-          "title":"Ariel Rubinstein｜鲁宾斯坦",
+          "title":"Ariel Rubinstein | 鲁宾斯坦",
           "body":"纽约大学经济系 Faculty",
-          "tag":"微观经济理论｜微观经济教学",
+          "tag":"微观经济理论 | 微观经济教学",
           "url":"https://arielrubinstein.tau.ac.il/"
         },
         {
@@ -109,12 +109,12 @@
         {
           "title":"雷蕾",
           "body":"西南财经大学经济与管理研究院 Faculty",
-          "tag":"家庭、劳动与健康经济学｜家庭金融",
+          "tag":"家庭、劳动与健康经济学 | 家庭金融",
           "url":"https://sites.google.com/view/leileitilburg/home"
         },
         {
           "title":"张力",
-          "body":"UCL CReAM｜PostDoc",
+          "body":"UCL CReAM | PostDoc",
           "tag":"劳动、教育与发展经济学",
           "url":"https://lizhangecon.github.io/"
         },
@@ -133,7 +133,7 @@
         {
           "title":"Zhang Yu",
           "body":"华中师大本科 南京大学硕士 上海交大经管院 PhD",
-          "tag":"政治经济学｜发展经济学｜政治科学",
+          "tag":"政治经济学 | 发展经济学 | 政治科学",
           "url":"https://www.yuzhang.net/"
         },
         {
@@ -151,7 +151,7 @@
         {
           "title":"Bruce E. Hansen",
           "body":"Wisconsin-Madison 经济系 Faculty",
-          "tag":"经济计量理论｜计量经济教学",
+          "tag":"经济计量理论 | 计量经济教学",
           "url":"https://users.ssc.wisc.edu/~bhansen/"
         },
         {
@@ -159,7 +159,81 @@
           "body":"华东师范大学统计学院 Faculty",
           "tag":"本科多元统计和凸优化教学",
           "url":"https://www.slzhang.com/"
+        },
+        {
+          "title":"史震涛",
+          "body":"香港中文大学经济系 Faculty",
+          "tag":"经济计量理论 | 机器学习",
+          "url":"https://zhentaoshi.github.io/"
+        },
+        {
+          "title":"钱军辉",
+          "body":"上海交通大学 经管院 Faculty",
+          "tag":"经济计量理论 | 本科教学 | 国际金融",
+          "url":"https://www.jhqian.org/"
+        },
+        {
+          "title":"莊太量",
+          "body":"香港中文大学经济系 Faculty",
+          "tag":"经济计量理论 | 计量金融",
+          "url":"https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
+        },
+        {
+          "title":"中村信弘 | Nobuhiro Nakamura",
+          "body":"一桥大学经管研究科 Faculty",
+          "tag":"金融计量理论 | 计量金融教学",
+          "url":"https://www.fs.hub.hit-u.ac.jp/staff-research/faculty/000701.php"
         }
+
+      ]
+    },
+    {
+      "title": "数学人",
+      "category": "math",
+      "content": [
+        {
+          "title": "Martin Hairer",
+          "body": "帝国理工数学系 Faculty",
+          "tag": "Stochastic PDEs",
+          "url": "https://hairer.org/"
+        },
+        {
+          "title":"刘思齐",
+          "body":"清华大学数学系 Faculty",
+          "tag":"PDE | Classification Theorems",
+          "url":"http://www.siqiliu.com/"
+        },
+        {
+          "title":"李忠",
+          "body":"北京大学数科学院 Faculty",
+          "tag":"复分析 | 本科微积分教学",
+          "url":"https://www.math.pku.edu.cn/yyhncs/lz/"
+        },
+        {
+          "title":"梅加强",
+          "body":"南京大学数学系 Faculty",
+          "tag":"微分几何 | 微分流形",
+          "url":"http://maths.nju.edu.cn/~meijq/"
+        },
+        {
+          "title":"文再文",
+          "body":"北京大学 BICMR Faculty",
+          "tag":"优化理论和算法 | 本科教学",
+          "url":"http://faculty.bicmr.pku.edu.cn/~wenzw/"
+        },
+        {
+          "title":"李文威",
+          "body":"北京大学 BICMR Faculty",
+          "tag":"群论 | 本科代数教学",
+          "url":"https://www.wwli.asia/"
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        }
+
       ]
     },
     {
@@ -187,18 +261,6 @@
       ]
     },
     {
-      "title": "数学人",
-      "category": "math",
-      "content": [
-        {
-          "title": "Martin Hairer",
-          "body": "帝国理工数学系 Faculty",
-          "tag": "Stochastic PDEs",
-          "url": "https://hairer.org/"
-        }
-      ]
-    },
-    {
       "title": "商科人",
       "category": "pbs",
       "content": [
@@ -219,24 +281,6 @@
           "body":"中欧陆家嘴国际金融研究院 Faculty",
           "tag":"产业经济智库",
           "url":"https://cliif.ceibs.edu/teacher/19806"
-        },
-        {
-          "title":"钱军辉",
-          "body":"上海交通大学 经管院 Faculty",
-          "tag":"经济计量理论｜本科教学｜国际金融",
-          "url":"https://www.jhqian.org/"
-        },
-        {
-          "title":"莊太量",
-          "body":"香港中文大学经济系 Faculty",
-          "tag":"经济计量理论｜计量金融",
-          "url":"https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
-        },
-        {
-          "title":"史震涛",
-          "body":"香港中文大学经济系 Faculty",
-          "tag":"经济计量理论｜机器学习",
-          "url":"https://zhentaoshi.github.io/"
         }
       ]
     },
@@ -247,7 +291,7 @@
         {
           "title":"生姜 Dr Ginger",
           "body":"姜伟生著书配套 bilibili 账号",
-          "tag":"鸢尾花书｜机器学习｜FRM MATLAB",
+          "tag":"鸢尾花书 | 机器学习 | FRM MATLAB",
           "url":"https://space.bilibili.com/513194466/"
         }
       ]

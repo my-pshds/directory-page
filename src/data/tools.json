@@ -162,9 +162,15 @@
       "content":[
         {
           "title":"Anish Athalye",
-          "body":"创业工程师",
+          "body":"CLeanlab CTO",
           "tag":"data-centric AI",
           "url":"https://anish.io/"
+        },
+        {
+          "title":"Jon Gjengset",
+          "body":"Helsing 首席",
+          "tag":"Rust 教学",
+          "url":"https://thesquareplanet.com/"
         }
       ]
     },

@@ -257,7 +257,21 @@
           "body":"MIT CSAIL PhD",
           "tag":"深度神经网络",
           "url":"https://josejg.com/"
+        },
+        {
+          "title":"Eric Matthes",
+          "body":"阿拉斯加某高中数学与科学教师",
+          "tag":"Python 教学",
+          "url":"https://ehmatthes.github.io/"
+        },
+        {
+          "title":"邱锡鹏",
+          "body":"复旦大学 计科院 Faculty",
+          "tag":"NLP | LLM | 神经网络教学",
+          "url":"https://xpqiu.github.io/"
         }
+
+
       ]
     },
     {

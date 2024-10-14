@@ -191,6 +191,24 @@
           "url":"https://zhentaoshi.github.io/"
         }
       ]
+    },
+    {
+      "title":"视频号",
+      "category":"",
+      "content":[
+        {
+          "title":"Visual-ML",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"生姜DrGinger",
+          "body":"姜伟生的著书配套bilibili视频账号",
+          "tag":"鸢尾花书系列 | 图解机器学习 | FRM MATLAB",
+          "url":"https://space.bilibili.com/513194466/"
+        }
+      ]
     }
 
   ]

@@ -7,7 +7,7 @@
         {
           "title": "李明",
           "body": "香港中文大学（深圳）经管学院 Faculty",
-          "tag": "Empirical 当代中国政治经济",
+          "tag": "当代中国政治经济问题",
           "url": "https://sites.google.com/view/mingli1/home"
         },
         {
@@ -43,19 +43,97 @@
         {
           "title":"聂辉华",
           "body":"中国人民大学经济学院 Faculty",
-          "tag":"制度经济学 | 当代中国政治与产业",
+          "tag":"制度经济学 | 当代中国政治经济问题",
           "url":"http://www.niehuihua.com/"
         },
         {
           "title":"A. Colin Cameron",
           "body":"University of California, Davis 经济系 Faculty",
-          "tag":"截面数据计量",
+          "tag":"截面数据计量理论",
           "url":"https://cameron.econ.ucdavis.edu/"
         },
         {
           "title":"Pravin K. Trivedi",
           "body":"Indiana University Bloomington 经济系 Faculty",
-          "tag":"微观计量",
+          "tag":"微观经济计量理论",
+          "url":"https://www.pravinktrivedi.com/"
+        },
+        {
+          "title":"陈强",
+          "body":"山东大学经济学院 Faculty",
+          "tag":"经济计量理论 | 机器学习 | 中国经济史",
+          "url":"http://econometrics-stata.com/"
+        },
+        {
+          "title":"牟晓生",
+          "body":"普林斯顿大学经济系 Faculty",
+          "tag":"高中数竞 | 微观经济理论 | 机制设计",
+          "url":"https://www.xiaoshengmu.com/"
+        },
+        {
+          "title":"史震涛",
+          "body":"香港中文大学经济系 Faculty",
+          "tag":"经济计量理论 | 机器学习",
+          "url":"https://zhentaoshi.github.io/"
+        },
+        {
+          "title":"Walter E. Nicholson | 尼科尔森",
+          "body":"Amherst College | Faculty",
+          "tag":"微观经济教学 | 劳动经济学",
+          "url":"https://wenicholson.people.amherst.edu/"
+        },
+        {
+          "title":"Ariel Rubinstein | 鲁宾斯坦",
+          "body":"纽约大学经济系 Faculty",
+          "tag":"微观经济理论 | 微观经济教学",
+          "url":"https://arielrubinstein.tau.ac.il/"
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
           "url":""
         },
         {

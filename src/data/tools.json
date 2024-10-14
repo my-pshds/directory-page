@@ -147,6 +147,24 @@
           "body":"Wisconsin-Madison 经济系 Faculty",
           "tag":"经济计量理论｜计量经济教学",
           "url":"https://users.ssc.wisc.edu/~bhansen/"
+        },
+        {
+          "title":"张思亮",
+          "body":"华东师范大学统计学院 Faculty",
+          "tag":"本科多元统计和凸优化教学",
+          "url":"https://www.slzhang.com/"
+        }
+      ]
+    },
+    {
+      "title":"ＡＩ人",
+      "category":"ai",
+      "content":[
+        {
+          "title":"Anish Athalye",
+          "body":"创业工程师",
+          "tag":"data-centric AI",
+          "url":"https://anish.io/"
         }
       ]
     },
@@ -204,6 +222,5 @@
         }
       ]
     }
-
   ]
 }

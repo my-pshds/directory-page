@@ -71,12 +71,6 @@
           "url":"https://www.xiaoshengmu.com/"
         },
         {
-          "title":"史震涛",
-          "body":"香港中文大学经济系 Faculty",
-          "tag":"经济计量理论 | 机器学习",
-          "url":"https://zhentaoshi.github.io/"
-        },
-        {
           "title":"Walter E. Nicholson | 尼科尔森",
           "body":"Amherst College | Faculty",
           "tag":"微观经济教学 | 劳动经济学",
@@ -127,6 +121,18 @@
       ]
     },
     {
+      "title":"统计人",
+      "category":"stat",
+      "content":[
+        {
+          "title":"Bruce E. Hansen",
+          "body":"Wisconsin-Madison 经济系 Faculty",
+          "tag":"经济计量理论 | 计量经济教学",
+          "url":"https://users.ssc.wisc.edu/~bhansen/"
+        }
+      ]
+    },
+    {
       "title": "商科人",
       "category": "pbs",
       "content": [
@@ -159,6 +165,12 @@
           "body":"香港中文大学经济系 Faculty",
           "tag":"经济计量理论 | 计量金融",
           "url":"https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
+        },
+        {
+          "title":"史震涛",
+          "body":"香港中文大学经济系 Faculty",
+          "tag":"经济计量理论 | 机器学习",
+          "url":"https://zhentaoshi.github.io/"
         }
       ]
     }

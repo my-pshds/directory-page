@@ -237,6 +237,30 @@
       ]
     },
     {
+      "title": "文学人",
+      "category": "lit",
+      "content": [
+        {
+          "title": "Donna M. Campbell",
+          "body": "华盛顿州立大学 英文系 Faculty",
+          "tag": "美国文学研究与教学",
+          "url": "https://public.wsu.edu/~campbelld/"
+        }
+      ]
+    },
+    {
+      "title": "艺术人",
+      "category": "art",
+      "content": [
+        {
+          "title": "Ethan Reed",
+          "body": "Just Play 玩具设计师",
+          "tag": "玲娜贝儿的创作人",
+          "url": "https://www.ethanreed.net/"
+        }
+      ]
+    },
+    {
       "title":"信科人",
       "category":"ai",
       "content":[
@@ -269,7 +293,21 @@
           "body":"复旦大学 计科院 Faculty",
           "tag":"NLP | LLM | 神经网络教学",
           "url":"https://xpqiu.github.io/"
+        },
+        {
+          "title":"唐松",
+          "body":"Cornell University 信息科学 MPS",
+          "tag":"Python 爬虫教学",
+          "url":"http://www.santostang.com/"
+        },
+        {
+          "title":"方橙",
+          "body":"南京大学 AI 2020级本科生",
+          "tag":"Typst 开发 | 介绍 Typst 到中国",
+          "url":"https://blog.orangex4.workers.dev/"
         }
+
+
 
 
       ]

@@ -1,8 +1,8 @@
 {
   "tools": [
     {
-      "title": "个人站－社科",
-      "category": "art",
+      "title": "个人页－社科",
+      "category": "pss",
       "content": [
         {
           "title": "李明",
@@ -11,6 +11,25 @@
           "url": "https://sites.google.com/view/mingli1/home"
         }
       ]
+    },
+    {
+      "title": "个人页－商科",
+      "category": "pbs",
+      "content": [
+        {
+          "title": "Aswath Damodaran",
+          "body": "纽约大学斯特恩商学院 Faculty",
+          "tag": "Corporate Finance",
+          "url": "https://pages.stern.nyu.edu/~adamodar/"
+        },
+        {
+          "title": "左祥太",
+          "body": "厦门大学 会计系 PhD",
+          "tag": "Stata 和 Python 教学",
+          "url": "https://shutterzor.cn/"
+        }
+      ]
     }
+
   ]
 }

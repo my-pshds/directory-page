@@ -47,18 +47,6 @@
           "url":"http://www.niehuihua.com/"
         },
         {
-          "title":"A. Colin Cameron",
-          "body":"UC－Davis 经济系 Faculty",
-          "tag":"截面数据计量理论",
-          "url":"https://cameron.econ.ucdavis.edu/"
-        },
-        {
-          "title":"Pravin K. Trivedi",
-          "body":"IU-Bloomington 经济系 Faculty",
-          "tag":"微观经济计量理论",
-          "url":"https://www.pravinktrivedi.com/"
-        },
-        {
           "title":"陈强",
           "body":"山东大学经济学院 Faculty",
           "tag":"经济计量理论 | 机器学习 | 中国经济史",
@@ -66,13 +54,13 @@
         },
         {
           "title":"牟晓生",
-          "body":"普林斯顿大学经济系 Faculty－2008 年 IMO 满分",
+          "body":"普林斯顿大学经济系 Faculty | 2008 年 IMO 满分",
           "tag":"高中数竞 | 微观经济理论 | 机制设计",
           "url":"https://www.xiaoshengmu.com/"
         },
         {
-          "title":"Walter E. Nicholson | 尼科尔森",
-          "body":"Amherst College | Faculty",
+          "title":"Walter E. Nicholson | 沃尔特 · 尼科尔森",
+          "body":"Amherst College－Faculty",
           "tag":"微观经济教学 | 劳动经济学",
           "url":"https://wenicholson.people.amherst.edu/"
         },
@@ -114,7 +102,7 @@
         },
         {
           "title":"张力",
-          "body":"UCL CReAM | PostDoc",
+          "body":"UCL CReAM－PostDoc",
           "tag":"劳动、教育与发展经济学",
           "url":"https://lizhangecon.github.io/"
         },
@@ -131,7 +119,7 @@
           "url":"https://www.alicezxu.com/"
         },
         {
-          "title":"Zhang Yu",
+          "title":"Yu Zhang",
           "body":"华中师大本科 南京大学硕士 上海交大经管院 PhD",
           "tag":"政治经济学 | 发展经济学 | 政治科学",
           "url":"https://www.yuzhang.net/"
@@ -183,8 +171,19 @@
           "body":"一桥大学经管研究科 Faculty",
           "tag":"金融计量理论 | 计量金融教学",
           "url":"https://www.fs.hub.hit-u.ac.jp/staff-research/faculty/000701.php"
+        },
+        {
+          "title":"A. Colin Cameron",
+          "body":"UC－Davis 经济系 Faculty",
+          "tag":"截面数据计量理论",
+          "url":"https://cameron.econ.ucdavis.edu/"
+        },
+        {
+          "title":"Pravin K. Trivedi",
+          "body":"IU-Bloomington 经济系 Faculty",
+          "tag":"微观经济计量理论",
+          "url":"https://www.pravinktrivedi.com/"
         }
-
       ]
     },
     {
@@ -217,13 +216,13 @@
         },
         {
           "title":"文再文",
-          "body":"北京大学 BICMR Faculty",
+          "body":"北京大学 BICMR－Faculty",
           "tag":"优化理论和算法 | 本科教学",
           "url":"http://faculty.bicmr.pku.edu.cn/~wenzw/"
         },
         {
           "title":"李文威",
-          "body":"北京大学 BICMR Faculty",
+          "body":"北京大学 BICMR－Faculty",
           "tag":"群论 | 本科代数教学",
           "url":"https://www.wwli.asia/"
         },
@@ -266,25 +265,25 @@
       "content":[
         {
           "title":"Anish Athalye",
-          "body":"MIT CSAIL PhD",
+          "body":"MIT CSAIL－PhD",
           "tag":"程序员工具课程",
           "url":"https://anish.io/"
         },
         {
           "title":"Jon Gjengset",
-          "body":"MIT CSAIL PhD",
+          "body":"MIT CSAIL－PhD",
           "tag":"Rust 教学",
           "url":"https://thesquareplanet.com/"
         },
         {
           "title":"Jose Javier Gonzalez Ortiz",
-          "body":"MIT CSAIL PhD",
+          "body":"MIT CSAIL－PhD",
           "tag":"深度神经网络",
           "url":"https://josejg.com/"
         },
         {
           "title":"Eric Matthes",
-          "body":"阿拉斯加某高中数学与科学教师",
+          "body":"高中数学＆科学－教师",
           "tag":"Python 教学",
           "url":"https://ehmatthes.github.io/"
         },
@@ -302,7 +301,7 @@
         },
         {
           "title":"方橙",
-          "body":"南京大学 AI 2020级本科生",
+          "body":"南京大学 AI－2020级本科生",
           "tag":"Typst 开发 | 介绍 Typst 到中国",
           "url":"https://blog.orangex4.workers.dev/"
         }

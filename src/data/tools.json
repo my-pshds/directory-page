@@ -95,28 +95,10 @@
           "url":"https://eml.berkeley.edu/~enakamura/"
         },
         {
-          "title":"莊太量",
-          "body":"香港中文大学经济系 Faculty",
-          "tag":"经济计量理论 | 计量金融",
-          "url":"https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
-        },
-        {
-          "title":"钱军辉",
-          "body":"上海交通大学 经管院 Faculty",
-          "tag":"经济计量理论 | 国际金融",
-          "url":"https://www.jhqian.org/"
-        },
-        {
           "title":"Jón Steinsson",
           "body":"University of California, Berkeley 经济系 Faculty",
           "tag":"宏观经济学",
           "url":"https://eml.berkeley.edu/~jsteinsson/"
-        },
-        {
-          "title":"",
-          "body":"",
-          "tag":"",
-          "url":""
         },
         {
           "title":"",
@@ -159,6 +141,24 @@
           "body": "厦门大学 会计系 PhD",
           "tag": "Stata 和 Python 教学",
           "url": "https://shutterzor.cn/"
+        },
+        {
+          "title":"裘菊",
+          "body":"中欧陆家嘴国际金融研究院 Faculty",
+          "tag":"产业经济智库",
+          "url":"https://cliif.ceibs.edu/teacher/19806"
+        },
+        {
+          "title":"钱军辉",
+          "body":"上海交通大学 经管院 Faculty",
+          "tag":"经济计量理论 | 国际金融",
+          "url":"https://www.jhqian.org/"
+        },
+        {
+          "title":"莊太量",
+          "body":"香港中文大学经济系 Faculty",
+          "tag":"经济计量理论 | 计量金融",
+          "url":"https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "tools": [
     {
-      "title": "个人页－社科",
+      "title": "社科人",
       "category": "pss",
       "content": [
         {
@@ -33,11 +33,41 @@
           "body":"哈佛大学政府系 Faculty",
           "tag":"中国政治史 | 国家理论",
           "url":"https://scholar.harvard.edu/yuhuawang"
+        },
+        {
+          "title":"刘荣耀 | Glory M. Liu",
+          "body":"约翰霍普金斯大学经济与社会中心 Faculty",
+          "tag":"政治思想史 | 经济思想史",
+          "url":"https://www.gloryliu.com/"
+        },
+        {
+          "title":"聂辉华",
+          "body":"中国人民大学经济学院 Faculty",
+          "tag":"制度经济学 | 当代中国政治与产业",
+          "url":"http://www.niehuihua.com/"
+        },
+        {
+          "title":"A. Colin Cameron",
+          "body":"UC-Davis 经济系 Faculty",
+          "tag":"理论计量经济学",
+          "url":"https://cameron.econ.ucdavis.edu/"
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
+        },
+        {
+          "title":"",
+          "body":"",
+          "tag":"",
+          "url":""
         }
       ]
     },
     {
-      "title": "个人页－商科",
+      "title": "商科人",
       "category": "pbs",
       "content": [
         {

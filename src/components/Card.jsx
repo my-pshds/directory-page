@@ -4,7 +4,7 @@ export default function Card(props) {
   const {href, title, body, tag} = props;
 
   return <li className="link-card">
-    <a href={href}>
+    <a href={href} target="_blank" rel="noopener noreferrer">
       <strong className="nu-c-h6 nu-u-mt-1 nu-u-mb-1">
         {title}
       </strong>

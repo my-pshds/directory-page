@@ -163,7 +163,7 @@
         {
           "title":"Anish Athalye",
           "body":"MIT CSAIL PhD",
-          "tag":"data-centric AI",
+          "tag":"程序员工具课程",
           "url":"https://anish.io/"
         },
         {
@@ -173,10 +173,22 @@
           "url":"https://thesquareplanet.com/"
         },
         {
-          "title":"",
-          "body":"",
-          "tag":"",
-          "url":""
+          "title":"Jose Javier Gonzalez Ortiz",
+          "body":"MIT CSAIL PhD",
+          "tag":"深度神经网络",
+          "url":"https://josejg.com/"
+        }
+      ]
+    },
+    {
+      "title": "数学人",
+      "category": "math",
+      "content": [
+        {
+          "title": "Martin Hairer",
+          "body": "帝国理工数学系",
+          "tag": "Stochastic PDEs",
+          "url": "https://hairer.org/"
         }
       ]
     },

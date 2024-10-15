@@ -5,10 +5,10 @@
       "category": "sss",
       "content": [
         {
-          "title": "momo-study 的知乎专栏",
+          "title": "momo-study 的知乎笔记",
           "body": "momo-study 是金融学在读博士生，对经济类各分支学科都有学习兴趣。",
           "tag": "笔记－金融 | 各种各样经济学",
-          "url": ""
+          "url": "https://zhuanlan.zhihu.com/p/524823847"
         }
       ]
     },
@@ -249,8 +249,25 @@
           "body":"UC－Irvine 数学系 Faculty",
           "tag":"高维概率理论与教学 | 数据科学",
           "url":"https://www.math.uci.edu/~rvershyn/"
+        },
+        {
+          "title":"Michael Levet",
+          "body":"College of Charleston 计算机科学 Faculty",
+          "tag":"计算代数组合 | 复杂性理论",
+          "url":"https://michaellevet.github.io/"
+        },
+        {
+          "title":"Michael Levet",
+          "body":"他在读硕士期间的 Blog，截止至 2018 年",
+          "tag":"计算代数组合 | 微观经济理论",
+          "url":"https://michaellevet.wordpress.com/"
+        },
+        {
+          "title":"Michael Levet",
+          "body":"他在读研期间兼职教学的教师主页",
+          "tag":"本科数学和计算机基础课教学",
+          "url":"https://people.math.sc.edu/mlevet/"
         }
-
       ]
     },
     {
@@ -350,7 +367,14 @@
           "body":"中欧陆家嘴国际金融研究院 Faculty",
           "tag":"产业经济智库",
           "url":"https://cliif.ceibs.edu/teacher/19806"
+        },
+        {
+          "title":"Philip Maymin",
+          "body":"芝加哥大学 金融 PhD",
+          "tag":"金融交易算法",
+          "url":"https://philipmaymin.com/"
         }
+
       ]
     },
     {

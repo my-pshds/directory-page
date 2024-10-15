@@ -295,6 +295,18 @@
       ]
     },
     {
+      "title": "自科人",
+      "category": "pns",
+      "content": [
+        {
+          "title": "Andrew Huberman",
+          "body": "面向学界以外的科普网页",
+          "tag": "脑科学",
+          "url": "https://www.hubermanlab.com/"
+        }
+      ]
+    },
+    {
       "title":"信科人",
       "category":"ai",
       "content":[

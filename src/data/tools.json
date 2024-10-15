@@ -1,6 +1,18 @@
 {
   "tools": [
     {
+      "title": "社科学习",
+      "category": "sss",
+      "content": [
+        {
+          "title": "momo-study 的知乎专栏",
+          "body": "momo-study 是金融学在读博士生，对经济类各分支学科都有学习兴趣。",
+          "tag": "笔记－金融 | 各种各样经济学",
+          "url": ""
+        }
+      ]
+    },
+    {
       "title": "社科人",
       "category": "pss",
       "content": [
@@ -129,6 +141,12 @@
           "body":"长江商学院 Faculty",
           "tag":"应用政治经济学",
           "url":"http://www.xinyufanecon.com/"
+        },
+        {
+          "title":"周飞舟",
+          "body":"北京大学社会学系 Faculty",
+          "tag":"地方发展 | 中国社会传统",
+          "url":"http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=66"
         }
       ]
     },

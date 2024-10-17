@@ -376,11 +376,13 @@
           "body":"南京大学 AI－2020级本科生",
           "tag":"Typst 开发 | 介绍 Typst 到中国",
           "url":"https://blog.orangex4.workers.dev/"
+        },
+        {
+          "title":"Hank | UinIO 电子技术实验室",
+          "body":"不透露就职单位（成都）－电子技术硬件研发",
+          "tag":"电子软硬件开发 | 研发团队管理",
+          "url":"http://www.uinio.com/"
         }
-
-
-
-
       ]
     },
     {
@@ -413,7 +415,7 @@
         },
         {
           "title":"Tom",
-          "body":"自由职业人 | 网络营销技术咨询",
+          "body":"自由职业人（成都） | 网络营销技术咨询",
           "tag":"英文网站运营 | 外贸 | 流量变现",
           "url":"https://tomhello.com/"
         }

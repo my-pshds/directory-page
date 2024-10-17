@@ -1,7 +1,7 @@
 {
   "tools": [
     {
-      "title": "社科学习",
+      "title": "社科",
       "category": "sss",
       "content": [
         {
@@ -18,10 +18,11 @@
       "content": [
         {
           "title": "鸢尾花书",
-          "body": "姜伟生著书开源电子档和代码",
+          "body": "姜伟生著书开源电子档和代码－GitHub 仓库",
           "tag": "工程数学 | 机器学习",
           "url": "https://github.com/Visualize-ML"
         }
+
       ]
     },
     {
@@ -165,6 +166,12 @@
           "body":"复旦大学经济学院 Faculty",
           "tag":"中国经济史 | 中国地方经济",
           "url":"https://www.frankchenshuo.com/"
+        },
+        {
+          "title":"Maya Carlin",
+          "body":"美国安全政策中心分析师 | 智库学者",
+          "tag":"国际关系 | 国家安全 | 军事观察",
+          "url":"https://centerforsecuritypolicy.org/author/maya-carlin/"
         }
       ]
     },
@@ -403,8 +410,13 @@
           "body":"芝加哥大学 金融 PhD",
           "tag":"金融交易算法",
           "url":"https://philipmaymin.com/"
+        },
+        {
+          "title":"Tom",
+          "body":"自由职业人 | 网络营销技术咨询",
+          "tag":"英文网站运营 | 外贸 | 流量变现",
+          "url":"https://tomhello.com/"
         }
-
       ]
     },
     {

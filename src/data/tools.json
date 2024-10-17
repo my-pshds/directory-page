@@ -1,7 +1,6 @@
 {
   "tools": [
-    {
-      "title": "综合",
+    {"title": "综合",
       "category": "combined",
       "content": [
         {
@@ -21,11 +20,28 @@
           "body":"虫部落社区提供的学术搜索聚合",
           "tag":"虫部落 | Scholar",
           "url":"https://scholar.chongbuluo.com/"
+        },
+        {
+          "title":"刘明野的工具箱",
+          "body":"形式与本站有些类似的工具型网站",
+          "tag":"编程 | 图片 | 影音 | 搜索",
+          "url":"https://tools.liumingye.cn/"
+        },
+        {
+          "title": "Andrew Huberman",
+          "body": "面向学界以外的科普网页",
+          "tag": "脑科学",
+          "url": "https://www.hubermanlab.com/"
+        },
+        {
+          "title":"超能搜",
+          "body":"基于爬虫的网盘搜索聚合，但可能面临收费或其他门槛",
+          "tag":"第三方网盘搜索",
+          "url":"http://www.chaonengso.com/"
         }
       ]
     },
-    {
-      "title": "网页程序",
+    {"title": "网页程序",
       "category": "app",
       "content": [
         {
@@ -39,37 +55,123 @@
           "body":"在线生成模仿自己笔记的字体",
           "tag":"手写字体 | AI 定制",
           "url":"https://www.beautifulcarrot.com/"
+        },
+        {
+          "title":"Open Files Online",
+          "body":"梁文森提供的在线打开服务，适合多种格式文件",
+          "tag":"解决你自己设备打不开刁钻格式的问题",
+          "url":"https://openfiles.online/"
+        },
+        {
+          "title":"Pixian.AI",
+          "body":"Cedar Lake 公司提供的自动去除图片背景服务",
+          "tag":"将人像从照片里提出来",
+          "url":"https://pixian.ai/"
+        },
+        {
+          "title":"懒人图云",
+          "body":"创意图片组合可视化工具",
+          "tag":"组合拼图 | 照片墙 | 图标云",
+          "url":"https://www.lanrentuyun.com/"
+        },
+        {
+          "title":"分离人声",
+          "body":"人工智能将人声从器乐中分离出来，得到伴奏和纯人声两条音轨",
+          "tag":"移除歌曲中的人声",
+          "url":"https://vocalremover.org/zh/"
+        },
+        {
+          "title":"图像格式转换器",
+          "body":"Web Converters 提供的图像转换工具",
+          "tag":"格式 | 动画 | PDF | SVG | 裁剪",
+          "url":"https://webconverters.net/cn"
+        },
+        {
+          "title":"比特虫",
+          "body":"在线将其他格式的图片转化为 ico 图标，用于作为缩略的网站标志",
+          "tag":"ico图标转换工具",
+          "url":"https://www.bitbug.net/"
+        },
+        {
+          "title":"Convertio",
+          "body":"超过 300 种不同的文件格式间超过 25600 种不同的转换方式",
+          "tag":"文件转换器",
+          "url":"https://convertio.co/zh/"
+        },
+        {
+          "title":"m3u8 下载工具",
+          "body":"夜雨聆风提供服务，将 m3u8 链接在特定范围、原格式、转码为 MP4 下载",
+          "tag":"m3u8 视频在线提取工具",
+          "url":""
+        },
+        {
+          "title":"Desmos Calculator",
+          "body":"Desmos Studio 提供的免费在线图形计算器",
+          "tag":"图形计算器",
+          "url":"https://www.desmos.com/calculator?lang=zh-CN"
+        },
+        {
+          "title":"rc－recite",
+          "body":"4cite Labs 提供的在线检验工具，检查文章中的引用格式是否完整规范",
+          "tag":"引证检查",
+          "url":"https://reciteworks.com/"
+        },
+        {
+          "title":"Meshcapade Me",
+          "body":"Meshcapade 提供的身形模拟参照，在线调整参数实时预览",
+          "tag":"仅供参考 | 谨防不切实际的身材焦虑",
+          "url":"https://me.meshcapade.com/editor"
+        },
+        {
+          "title":"Integral Calculator",
+          "body":"Calculate integrals online — with steps and graphing!",
+          "tag":"积分计算器",
+          "url":"https://www.integral-calculator.com/"
+        },
+        {
+          "title":"Octave Online",
+          "body":"MATLAB 替代品，开源使用，网页 UI",
+          "tag":"在线 MATLAB",
+          "url":"https://octave-online.net/"
+        },
+        {
+          "title":"可画",
+          "body":"Canva 提供的可在线编辑专业设计工具",
+          "tag":"演示文稿 | 海报 | 印刷品 | ...",
+          "url":""
+        },
+        {
+          "title":"Mathcha",
+          "body":"鼠标在线编辑数学公式与图象排版，可导出为 LaTeX",
+          "tag":"数学式子排版 | 所见即所得",
+          "url":"https://www.mathcha.io/editor"
+        },
+        {
+          "title":"draw.io 绘图",
+          "body":"draw.io 提供的在线绘制流程图，可导出为图片、文档、网页等",
+          "tag":"画流程图",
+          "url":"https://app.diagrams.net/"
         }
-
       ]
     },
-    {
-      "title": "社科",
-      "category": "sss",
+    {"title": "学习",
+      "category": "study",
       "content": [
         {
           "title": "momo-study 的知乎笔记",
           "body": "momo-study 是金融学在读博士生，对经济类各分支学科都有学习兴趣。",
           "tag": "笔记－金融 | 各种各样经济学",
           "url": "https://zhuanlan.zhihu.com/p/524823847"
-        }
-      ]
-    },
-    {
-      "title": "计算",
-      "category": "method",
-      "content": [
+        },
         {
           "title": "鸢尾花书",
           "body": "姜伟生著书开源电子档和代码－GitHub 仓库",
           "tag": "工程数学 | 机器学习",
           "url": "https://github.com/Visualize-ML"
         }
-
       ]
     },
-    {
-      "title": "社科人",
+    {"title": "社科人",
       "category": "pss",
       "content": [
         {
@@ -225,8 +327,7 @@
 
       ]
     },
-    {
-      "title":"统计人",
+    {"title":"统计人",
       "category":"stat",
       "content":[
         {
@@ -279,8 +380,7 @@
         }
       ]
     },
-    {
-      "title": "数学人",
+    {"title": "数学人",
       "category": "math",
       "content": [
         {
@@ -345,8 +445,7 @@
         }
       ]
     },
-    {
-      "title": "文学人",
+    {"title": "文学人",
       "category": "lit",
       "content": [
         {
@@ -357,8 +456,7 @@
         }
       ]
     },
-    {
-      "title": "艺术人",
+    {"title": "艺术人",
       "category": "art",
       "content": [
         {
@@ -369,20 +467,7 @@
         }
       ]
     },
-    {
-      "title": "自科人",
-      "category": "pns",
-      "content": [
-        {
-          "title": "Andrew Huberman",
-          "body": "面向学界以外的科普网页",
-          "tag": "脑科学",
-          "url": "https://www.hubermanlab.com/"
-        }
-      ]
-    },
-    {
-      "title":"信科人",
+    {"title":"信科人",
       "category":"ai",
       "content":[
         {
@@ -435,8 +520,7 @@
         }
       ]
     },
-    {
-      "title": "商科人",
+    {"title": "商科人",
       "category": "pbs",
       "content": [
         {
@@ -471,8 +555,7 @@
         }
       ]
     },
-    {
-      "title":"视频号",
+    {"title":"视频号",
       "category":"",
       "content":[
         {

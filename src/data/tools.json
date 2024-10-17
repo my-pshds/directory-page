@@ -22,7 +22,24 @@
           "tag":"虫部落 | Scholar",
           "url":"https://scholar.chongbuluo.com/"
         }
-
+      ]
+    },
+    {
+      "title": "网页程序",
+      "category": "app",
+      "content": [
+        {
+          "title": "ZoteroBib",
+          "body": "Zotero 提供的网页在线轻量引文生成工具",
+          "tag": "参考文献 | 引证格式",
+          "url": "https://zbib.org/"
+        },
+        {
+          "title":"萝卜工坊",
+          "body":"在线生成模仿自己笔记的字体",
+          "tag":"手写字体 | AI 定制",
+          "url":"https://www.beautifulcarrot.com/"
+        }
 
       ]
     },
@@ -39,8 +56,8 @@
       ]
     },
     {
-      "title": "数学方法",
-      "category": "math",
+      "title": "计算",
+      "category": "method",
       "content": [
         {
           "title": "鸢尾花书",

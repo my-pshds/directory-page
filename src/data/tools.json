@@ -13,6 +13,18 @@
       ]
     },
     {
+      "title": "数学方法",
+      "category": "math",
+      "content": [
+        {
+          "title": "鸢尾花书",
+          "body": "姜伟生著书开源电子档和代码",
+          "tag": "工程数学 | 机器学习",
+          "url": "https://github.com/Visualize-ML"
+        }
+      ]
+    },
+    {
       "title": "社科人",
       "category": "pss",
       "content": [

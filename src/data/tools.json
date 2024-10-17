@@ -5,11 +5,25 @@
       "category": "combined",
       "content": [
         {
-          "title": "虫部落快搜",
-          "body": "虫部落社区提供的搜索聚合",
-          "tag": "古典互联网",
+          "title": "虫部落－快搜",
+          "body": "虫部落社区提供的通俗信息搜索聚合",
+          "tag": "虫部落 | 通俗",
           "url": "https://search.chongbuluo.com/"
+        },
+        {
+          "title":"Giffox",
+          "body":"虫部落社区提供的电子书搜索聚合",
+          "tag":"虫部落 | 书籍",
+          "url":"https://www.giffox.com/"
+        },
+        {
+          "title":"虫部落－学术搜索",
+          "body":"虫部落社区提供的学术搜索聚合",
+          "tag":"虫部落 | Scholar",
+          "url":"https://scholar.chongbuluo.com/"
         }
+
+
       ]
     },
     {
@@ -434,7 +448,7 @@
         },
         {
           "title":"Tom",
-          "body":"自由职业人（成都） | 网络营销技术咨询",
+          "body":"自由职业人（成都）| 网络营销技术咨询",
           "tag":"英文网站运营 | 外贸 | 流量变现",
           "url":"https://tomhello.com/"
         }

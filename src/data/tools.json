@@ -1,6 +1,18 @@
 {
   "tools": [
     {
+      "title": "综合",
+      "category": "combined",
+      "content": [
+        {
+          "title": "虫部落快搜",
+          "body": "虫部落社区提供的搜索聚合",
+          "tag": "古典互联网",
+          "url": "https://search.chongbuluo.com/"
+        }
+      ]
+    },
+    {
       "title": "社科",
       "category": "sss",
       "content": [

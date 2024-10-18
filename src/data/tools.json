@@ -68,6 +68,18 @@
           "body":"查询营养保健品有效与否，引用和循证较完善",
           "tag":"全英文 | 可按物品和功能查询",
           "url":"https://examine.com/"
+        },
+        {
+          "title":"Quick Reference",
+          "body":"软件开发人员的技术栈快速查阅",
+          "tag":"Reference",
+          "url":"https://quickref.cn/"
+        },
+        {
+          "title":"Zotero 中文社区",
+          "body":"由志愿者组成的非官方小组，维护 Zotero 中文文档、中文社区生态",
+          "tag":"百科全书 | 插件下载 | CSL 样式",
+          "url":"https://zotero-chinese.com/"
         }
       ]
     },
@@ -228,6 +240,24 @@
           "body":"Anki 的官方文档的中文翻译",
           "tag":"记忆任务高效安排软件",
           "url":"https://open-spaced-repetition.github.io/anki-manual-zh-CN/"
+        },
+        {
+          "title":"freeCodeCamp",
+          "body":"非盈利组织，提供免费学习编程平台",
+          "tag":"中文版",
+          "url":"https://www.freecodecamp.org/chinese/"
+        },
+        {
+          "title":"计算机教育缺失的一课",
+          "body":"The Missing Semester of Your CS Education 简体中文",
+          "tag":"如何精通工具 | 在线学习材料",
+          "url":"https://missing-semester-cn.github.io/"
+        },
+        {
+          "title":"The Missing Semester of Your CS Education",
+          "body":"计算机教育缺失的一课 英文原版",
+          "tag":"如何精通工具 | 在线学习材料",
+          "url":"https://missing.csail.mit.edu/"
         }
       ]
     },
@@ -388,7 +418,7 @@
       ]
     },
     {"title": "统计人",
-      "category":"stat",
+      "category":"pst",
       "content":[
         {
           "title":"Bruce E. Hansen",
@@ -441,7 +471,7 @@
       ]
     },
     {"title": "数学人",
-      "category": "math",
+      "category": "pmt",
       "content": [
         {
           "title": "Martin Hairer",
@@ -506,7 +536,7 @@
       ]
     },
     {"title": "文学人",
-      "category": "lit",
+      "category": "plt",
       "content": [
         {
           "title": "Donna M. Campbell",
@@ -517,7 +547,7 @@
       ]
     },
     {"title": "艺术人",
-      "category": "art",
+      "category": "pat",
       "content": [
         {
           "title": "Ethan Reed",
@@ -528,7 +558,7 @@
       ]
     },
     {"title": "信科人",
-      "category":"ai",
+      "category":"pis",
       "content":[
         {
           "title":"Anish Athalye",
@@ -567,16 +597,22 @@
           "url":"http://www.santostang.com/"
         },
         {
-          "title":"方橙",
-          "body":"南京大学 AI－2020级本科生",
-          "tag":"Typst 开发 | 介绍 Typst 到中国",
+          "title":"方橙式的博客",
+          "body":"介绍 Typst 到中国 | 南京大学 AI 专业 2020 级本科生",
+          "tag":"Typst 开发 | Web 技术",
           "url":"https://blog.orangex4.workers.dev/"
         },
         {
-          "title":"Hank | UinIO 电子技术实验室",
-          "body":"不透露就职单位（成都）－电子技术硬件研发",
+          "title":"UinIO 电子技术实验室－Hank",
+          "body":"不透露就职单位（成都）",
           "tag":"电子软硬件开发 | 研发团队管理",
           "url":"http://www.uinio.com/"
+        },
+        {
+          "title":"仲殷旻",
+          "body":"北大信科本科 | 北大信科 PhD",
+          "tag":"深度学习 | 大语言模型",
+          "url":"https://www.yinminzhong.com/"
         }
       ]
     },

@@ -142,7 +142,7 @@
         },
         {
           "title":"m3u8 下载工具",
-          "body":"夜雨聆风提供服务，将 m3u8 链接在特定范围、原格式、转码为 MP4 下载",
+          "body":"夜雨聆风提供服务，将 m3u8 链接在原格式或转码为 MP4 下载",
           "tag":"m3u8 视频在线提取工具",
           "url":""
         },
@@ -197,7 +197,7 @@
         {
           "title":"PDDON",
           "body":"不需编程，多功能专业在线画图",
-          "tag":"数据图表 | 流程图 | 思维导图 | 组织结构图",
+          "tag":"数据图表 | 流程图 | 组织结构图",
           "url":"https://pddon.com/"
         },
         {
@@ -205,6 +205,12 @@
           "body":"北京千涧技术发展公司提供的在线 LaTeX 公式编辑器",
           "tag":"模板调用 | 图片识别",
           "url":"https://www.latexlive.com/"
+        },
+        {
+          "title":"Transfonter",
+          "body":"Alexey Ilyaskin 提供的服务，生成整套 font-face 文件夹和 css 语句",
+          "tag":"字体文件转换",
+          "url":"https://transfonter.org/"
         }
       ]
     },

@@ -73,8 +73,9 @@ const { site, title, tagline } = Astro.props;
       </div>
     </header>
     <slot />
-
+    
     <div class="footer">
+      <p>如需搜索，可尝试在「通览」页面 Ctrl+F</p>
       <p>多谢&thinsp;<a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>&thinsp;开发的&thinsp;<a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">Directory</a>&thinsp;模板</p>
     </div>
 
@@ -208,7 +209,7 @@ const { site, title, tagline } = Astro.props;
     }
   }
   .footer p{
-    padding-bottom: var(--spacing-10);
+    padding-bottom: var(--spacing-05);
     text-align: center;
     font-weight: normal;
     font-style: normal;

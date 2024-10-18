@@ -200,8 +200,8 @@
       "category": "study",
       "content": [
         {
-          "title": "momo-study 的知乎笔记",
-          "body": "momo-study 是金融学在读博士生，对经济类各分支学科都有学习兴趣。",
+          "title": "momo 知乎笔记",
+          "body": "momo-study 是中财金融学在读博士生，学习兴趣广泛",
           "tag": "笔记－金融 | 各种各样经济学",
           "url": "https://zhuanlan.zhihu.com/p/524823847"
         },
@@ -216,6 +216,18 @@
           "body":"信科领域最新预印本 AI 推荐",
           "tag":"Powerd by Kimi",
           "url":"https://papers.cool/"
+        },
+        {
+          "title":"CS 自学指南",
+          "body":"仲殷旻编写计算机自学指南，受到北大信科院友强烈反响",
+          "tag":"2021 年已完稿 | 中英双语",
+          "url":"https://csdiy.wiki/"
+        },
+        {
+          "title":"Anki 手册",
+          "body":"Anki 的官方文档的中文翻译",
+          "tag":"记忆任务高效安排软件",
+          "url":"https://open-spaced-repetition.github.io/anki-manual-zh-CN/"
         }
       ]
     },
@@ -375,7 +387,7 @@
 
       ]
     },
-    {"title":"统计人",
+    {"title": "统计人",
       "category":"stat",
       "content":[
         {
@@ -515,7 +527,7 @@
         }
       ]
     },
-    {"title":"信科人",
+    {"title": "信科人",
       "category":"ai",
       "content":[
         {
@@ -603,7 +615,7 @@
         }
       ]
     },
-    {"title":"视频号",
+    {"title": "视频号",
       "category":"",
       "content":[
         {

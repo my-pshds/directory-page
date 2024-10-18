@@ -50,6 +50,24 @@
           "body":"不属任何省级区划 | 处级及以下党员违纪、职务违法、申诉",
           "tag":"纪检监察工作委员会",
           "url":"https://zygjjg.12388.gov.cn/"
+        },
+        {
+          "title":"中国志愿服务网",
+          "body":"共青团信息化支持平台 | 志愿者活动信息发布和展示平台",
+          "tag":"全国站－可切换到各省",
+          "url":"https://chinavolunteer.mca.gov.cn/"
+        },
+        {
+          "title":"医学微视",
+          "body":"北京博彧维康公司提供的临床医学科普平台",
+          "tag":"按科室区分专栏 | 不是无条件免费",
+          "url":"https://www.mvyxws.cn/"
+        },
+        {
+          "title":"Examine",
+          "body":"查询营养保健品有效与否，引用和循证较完善",
+          "tag":"全英文 | 可按物品和功能查询",
+          "url":"https://examine.com/"
         }
       ]
     },
@@ -150,7 +168,7 @@
           "title":"可画",
           "body":"Canva 提供的可在线编辑专业设计工具",
           "tag":"演示文稿 | 海报 | 印刷品 | ...",
-          "url":""
+          "url":"https://www.canva.cn/"
         },
         {
           "title":"Mathcha",
@@ -163,6 +181,18 @@
           "body":"draw.io 提供的在线绘制流程图，可导出为图片、文档、网页等",
           "tag":"画流程图",
           "url":"https://app.diagrams.net/"
+        },
+        {
+          "title":"PDDON",
+          "body":"不需编程，多功能专业在线画图",
+          "tag":"数据图表 | 流程图 | 思维导图 | 组织结构图",
+          "url":"https://pddon.com/"
+        },
+        {
+          "title":"LaTeXLive",
+          "body":"北京千涧技术发展公司提供的在线 LaTeX 公式编辑器",
+          "tag":"模板调用 | 图片识别",
+          "url":"https://www.latexlive.com/"
         }
       ]
     },
@@ -180,6 +210,12 @@
           "body": "姜伟生著书开源电子档和代码－GitHub 仓库",
           "tag": "工程数学 | 机器学习",
           "url": "https://github.com/Visualize-ML"
+        },
+        {
+          "title":"Cool Papers",
+          "body":"信科领域最新预印本 AI 推荐",
+          "tag":"Powerd by Kimi",
+          "url":"https://papers.cool/"
         }
       ]
     },

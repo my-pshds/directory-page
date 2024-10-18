@@ -110,6 +110,12 @@
           "body":"最先进的现代科学计算免费开源语言，没有之一",
           "tag":"下载 | 文档 | 讨论 | 教程",
           "url":"https://cn.julialang.org/"
+        },
+        {
+          "title":"nbviewer",
+          "body":"查看存放在 GitHub 的文件，生成直接浏览 ipynb 或 pdf 等格式的网页",
+          "tag":"法国最大的云服务商免费提供托管服务",
+          "url":"https://nbviewer.org/"
         }
       ]
     },

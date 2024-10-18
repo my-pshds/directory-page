@@ -104,6 +104,12 @@
           "body":"大规模中文字体网络化工具和解决方案－Web Font 形式开源",
           "tag":"免费可商用的 Web 字体文件",
           "url":"https://chinese-font.netlify.app/zh-cn/"
+        },
+        {
+          "title":"Julia 中文社区",
+          "body":"最先进的现代科学计算免费开源语言，没有之一",
+          "tag":"下载 | 文档 | 讨论 | 教程",
+          "url":"https://cn.julialang.org/"
         }
       ]
     },
@@ -321,7 +327,7 @@
         },
         {
           "title":"Quarto 学习笔记",
-          "body":"杜俊宏编写的中文教程 | 面向多编程语言的新一代R Markdown",
+          "body":"杜俊宏编写的中文教程 | 面向多编程语言的新一代 R Markdown",
           "tag":"编辑内容 | 插入组件 | 输出发布",
           "url":"https://djhcod.github.io/Quarto-foundation.github.io/"
         },
@@ -351,9 +357,51 @@
         },
         {
           "title":"Docusaurus 文档",
-          "body":"Markdown 目录结构网站的最先进 Web 前端框架，没有之一，无需编程基础",
-          "tag":"简体中文 | 尚有未翻译的英文部分",
+          "body":"Markdown 目录结构网站的最先进 Web 前端框架，没有之一",
+          "tag":"中英混杂 | 无需编程基础",
           "url":"https://docusaurus.io/zh-CN/"
+        },
+        {
+          "title":"Pandas 中文教程",
+          "body":"耿远昊编写的开源 Joyful Pandas 教程－简体中文",
+          "tag":"注重动手实践 | 智海平台配套免费课",
+          "url":"https://inter.joyfulpandas.datawhale.club/"
+        },
+        {
+          "title":"ISLP Resources",
+          "body":"Introduction to Statistical Learning with Python 配套",
+          "tag":"开源 | 课件 | 图表 | 数据 | 代码",
+          "url":"https://www.statlearning.com/resources-python"
+        },
+        {
+          "title":"Julia 语言入门",
+          "body":"北大数院统计学 Faculty 李东风撰写的在线教程，已有 26 章",
+          "tag":"界面很漂亮 | 可调字体 | 有 PDF",
+          "url":"https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/"
+        },
+        {
+          "title":"现代科学计算",
+          "body":"香港科技大学（广州）计算物理 Faculty 刘金国撰写的知乎专栏",
+          "tag":"Julia 编程语言 | 教材草稿",
+          "url":"https://www.zhihu.com/column/c_1706037360360304641"
+        },
+        {
+          "title":"Algorithms Book",
+          "body":"Mykel J. Kochenderfer 与合作者撰写的三本算法教材",
+          "tag":"优化算法 | 决策算法 | 校验算法",
+          "url":"https://algorithmsbook.com/"
+        },
+        {
+          "title":"Double ML",
+          "body":"Python 与 R 语言双重机器学习程序包「DoubleML」的使用文档",
+          "tag":"依赖 scikit-learn 和 mlr3",
+          "url":"https://docs.doubleml.org/"
+        },
+        {
+          "title":"nbstata",
+          "body":"Wisconsin-Madison 经济 PhD－Tim Huegerich 开发的 Jupyter 内核插件",
+          "tag":"一站式调用 Stata",
+          "url":"https://hugetim.github.io/nbstata/"
         }
       ]
     },

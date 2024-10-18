@@ -29,8 +29,8 @@
         },
         {
           "title": "Andrew Huberman",
-          "body": "面向学界以外的科普网页",
-          "tag": "脑科学",
+          "body": "斯坦福 医学院神经生物 Faculty | 面向学界以外的科普网页",
+          "tag": "脑科学 | 行为科学 | 精神科",
           "url": "https://www.hubermanlab.com/"
         },
         {
@@ -86,6 +86,24 @@
           "body":"Bootstrap 社区提供的 26 个免费 CSS 主题",
           "tag":"提供 CLI 安装和 API 使用",
           "url":"https://bootswatch.com/"
+        },
+        {
+          "title":"Bootstrap Icons",
+          "body":"Bootstrap 社区提供的开源图标库－标签速查",
+          "tag":"嵌入式 | External | Sprite | CSS | SVG",
+          "url":"https://icons.getbootstrap.com/"
+        },
+        {
+          "title":"Icônes",
+          "body":"基于 Iconify 框架的图标速查表 & 搜索器",
+          "tag":"即时模糊搜索 | Mobile Friendly",
+          "url":""
+        },
+        {
+          "title":"中文网字计划",
+          "body":"大规模中文字体网络化工具和解决方案－Web Font 形式开源",
+          "tag":"免费可商用的 Web 字体文件",
+          "url":"https://chinese-font.netlify.app/zh-cn/"
         }
       ]
     },
@@ -229,6 +247,18 @@
           "body":"在线用鼠标创建表格，调整样式，导出为写作语言格式（有广告）",
           "tag":"LaTeX | HTML | Markdown | 纯文本",
           "url":"https://tablesgenerator.com/"
+        },
+        {
+          "title":"在线中国传统颜色拾取器",
+          "body":"AMZ123 提供，# 开头的小写字母十六进制格式",
+          "tag":"从汉白玉到景泰蓝",
+          "url":"https://www.amz123.com/tools-color/chn"
+        },
+        {
+          "title":"世界上最好的 SVG 压缩器",
+          "body":"vecta.io 提供高效无损压缩（这个标题是它的名字，不是我称呼的）",
+          "tag":"网页在线 | 压缩 SVG 至约两成",
+          "url":"https://vecta.io/nano"
         }
       ]
     },
@@ -297,7 +327,7 @@
         },
         {
           "title":" MkDocs 文档开发教程",
-          "body":"MkDocs 曾经是最流行的简约化 Markdown 网站生成器",
+          "body":"MkDocs 曾经是最流行的简约化 Markdown 目录结构网站生成器",
           "tag":"快速入门 | 进阶操作 | 附录",
           "url":"https://mkdocs-like-code.readthedocs.io/zh-cn/latest/"
         },
@@ -306,6 +336,24 @@
           "body":"CeTZ 是用于 Typst 绘图的包",
           "tag":"全英文 | 入门 | 教程 | 文档",
           "url":"https://cetz-package.github.io/docs/"
+        },
+        {
+          "title":"生姜 Dr Ginger",
+          "body":"姜伟生著书配套 bilibili 账号",
+          "tag":"鸢尾花书 | 机器学习 | FRM MATLAB",
+          "url":"https://space.bilibili.com/513194466/"
+        },
+        {
+          "title":"Astro 文档",
+          "body":"内容驱动网站的最先进 Web 前端框架，没有之一，无需编程基础",
+          "tag":"简体中文 | 详细入门教程",
+          "url":"https://docs.astro.build/zh-cn/"
+        },
+        {
+          "title":"Docusaurus 文档",
+          "body":"Markdown 目录结构网站的最先进 Web 前端框架，没有之一，无需编程基础",
+          "tag":"简体中文 | 尚有未翻译的英文部分",
+          "url":"https://docusaurus.io/zh-CN/"
         }
       ]
     },
@@ -379,15 +427,15 @@
           "url":"https://arielrubinstein.tau.ac.il/"
         },
         {
-          "title":"Emi Nakamura",
-          "body":" UC－Berkeley 经济系 Faculty",
-          "tag":"宏观经济学",
+          "title":"中村惠美 | Emi Nakamura",
+          "body":" UC－Berkeley 经济系 Faculty | 日裔加拿大人",
+          "tag":"宏观经济 Empirical | 货币财政",
           "url":"https://eml.berkeley.edu/~enakamura/"
         },
         {
           "title":"Jón Steinsson",
-          "body":"UC－Berkeley 经济系 Faculty",
-          "tag":"宏观经济学",
+          "body":"UC－Berkeley 经济系 Faculty | 美籍冰岛人",
+          "tag":"宏观经济学 Empirical | 货币财政",
           "url":"https://eml.berkeley.edu/~jsteinsson/"
         },
         {
@@ -452,13 +500,13 @@
         },
         {
           "title":"Maya Carlin",
-          "body":"美国安全政策中心分析师 | 智库学者",
+          "body":"美国安全政策中心分析师 | 新闻媒体撰稿人 | 智库学者",
           "tag":"国际关系 | 国家安全 | 军事观察",
           "url":"https://centerforsecuritypolicy.org/author/maya-carlin/"
         },
         {
           "title":"Economics on REAL World",
-          "body":"知乎用户「SpringField」的英文博客",
+          "body":"知乎用户「SpringField」英文博客",
           "tag":"介绍现代马克思主义经济学理论前沿",
           "url":"https://economicsonrealworld.blogspot.com/"
         }
@@ -602,6 +650,12 @@
           "body": "Just Play 玩具设计师",
           "tag": "玲娜贝儿的创作人",
           "url": "https://www.ethanreed.net/"
+        },
+        {
+          "title":"黎云波",
+          "body":"聚味轩酒楼（彭州）总经理 & 总厨",
+          "tag":"四分钟以下竖视频 | 川西平原传统菜",
+          "url":"https://space.bilibili.com/61690678"
         }
       ]
     },
@@ -696,17 +750,6 @@
           "body":"自由职业人（成都）| 网络营销技术咨询",
           "tag":"英文网站运营 | 外贸 | 流量变现",
           "url":"https://tomhello.com/"
-        }
-      ]
-    },
-    {"title": "视频号",
-      "category":"",
-      "content":[
-        {
-          "title":"生姜 Dr Ginger",
-          "body":"姜伟生著书配套 bilibili 账号",
-          "tag":"鸢尾花书 | 机器学习 | FRM MATLAB",
-          "url":"https://space.bilibili.com/513194466/"
         }
       ]
     }

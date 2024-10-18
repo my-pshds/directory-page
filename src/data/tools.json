@@ -71,8 +71,8 @@
         },
         {
           "title":"Quick Reference",
-          "body":"软件开发人员的技术栈快速查阅",
-          "tag":"Reference",
+          "body":"软件开发人员的技术栈快速查阅－是 Reference 的中文版",
+          "tag":"编程 | 前端 | CLI | 数据库 | 工具",
           "url":"https://quickref.cn/"
         },
         {
@@ -80,6 +80,12 @@
           "body":"由志愿者组成的非官方小组，维护 Zotero 中文文档、中文社区生态",
           "tag":"百科全书 | 插件下载 | CSL 样式",
           "url":"https://zotero-chinese.com/"
+        },
+        {
+          "title":"Bootswatch",
+          "body":"Bootstrap 社区提供的 26 个免费 CSS 主题",
+          "tag":"提供 CLI 安装和 API 使用",
+          "url":"https://bootswatch.com/"
         }
       ]
     },
@@ -144,7 +150,7 @@
           "title":"m3u8 下载工具",
           "body":"夜雨聆风提供服务，将 m3u8 链接在原格式或转码为 MP4 下载",
           "tag":"m3u8 视频在线提取工具",
-          "url":""
+          "url":"https://www.yeyulingfeng.com/tools/m3u8-downloader/"
         },
         {
           "title":"Desmos Calculator",
@@ -154,8 +160,8 @@
         },
         {
           "title":"rc－recite",
-          "body":"4cite Labs 提供的在线检验工具，检查文章中的引用格式是否完整规范",
-          "tag":"引证检查",
+          "body":"4cite Labs 提供在线检验工具，检查文章中的引用格式是否完整规范",
+          "tag":"引证检查 | 论文格式",
           "url":"https://reciteworks.com/"
         },
         {
@@ -211,6 +217,18 @@
           "body":"Alexey Ilyaskin 提供的服务，生成整套 font-face 文件夹和 css 语句",
           "tag":"字体文件转换",
           "url":"https://transfonter.org/"
+        },
+        {
+          "title":"在线 Markdown 编辑器",
+          "body":"markdown.com.cn 提供的网页工具，可针对平台生成 richtext",
+          "tag":"知乎 | 微信公众平台 | 稀土掘金",
+          "url":"https://markdown.com.cn/editor/"
+        },
+        {
+          "title":"Tables Generator",
+          "body":"在线用鼠标创建表格，调整样式，导出为写作语言格式（有广告）",
+          "tag":"LaTeX | HTML | Markdown | 纯文本",
+          "url":"https://tablesgenerator.com/"
         }
       ]
     },
@@ -219,7 +237,7 @@
       "content": [
         {
           "title": "momo 知乎笔记",
-          "body": "momo-study 是中财金融学在读博士生，学习兴趣广泛",
+          "body": "momo-study 是中央财经大学金融专业在读博士生，学习兴趣广泛",
           "tag": "笔记－金融 | 各种各样经济学",
           "url": "https://zhuanlan.zhihu.com/p/524823847"
         },
@@ -249,8 +267,8 @@
         },
         {
           "title":"freeCodeCamp",
-          "body":"非盈利组织，提供免费学习编程平台",
-          "tag":"中文版",
+          "body":"Quincy Larson 创办免费学习编程平台，适合入门",
+          "tag":"中文版 | 从前端到 Python",
           "url":"https://www.freecodecamp.org/chinese/"
         },
         {
@@ -264,6 +282,30 @@
           "body":"计算机教育缺失的一课 英文原版",
           "tag":"如何精通工具 | 在线学习材料",
           "url":"https://missing.csail.mit.edu/"
+        },
+        {
+          "title":"Markdown 教程",
+          "body":"自称「Markdown 官方教程」，对新手友好，无广告",
+          "tag":"入门 | 速查 | 语法 | 工具",
+          "url":"https://markdown.com.cn/"
+        },
+        {
+          "title":"Quarto 学习笔记",
+          "body":"杜俊宏编写的中文教程 | 面向多编程语言的新一代R Markdown",
+          "tag":"编辑内容 | 插入组件 | 输出发布",
+          "url":"https://djhcod.github.io/Quarto-foundation.github.io/"
+        },
+        {
+          "title":" MkDocs 文档开发教程",
+          "body":"MkDocs 曾经是最流行的简约化 Markdown 网站生成器",
+          "tag":"快速入门 | 进阶操作 | 附录",
+          "url":"https://mkdocs-like-code.readthedocs.io/zh-cn/latest/"
+        },
+        {
+          "title":"CeTZ Documentation",
+          "body":"CeTZ 是用于 Typst 绘图的包",
+          "tag":"全英文 | 入门 | 教程 | 文档",
+          "url":"https://cetz-package.github.io/docs/"
         }
       ]
     },

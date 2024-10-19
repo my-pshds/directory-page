@@ -158,6 +158,12 @@
           "body":"百度的开源数据可视化库 Echarts 的 Python 实现库",
           "tag":"交互良好 | 图表精巧",
           "url":"https://pyecharts.org/"
+        },
+        {
+          "title":"CVXPY 文档",
+          "body":"Python 场景下做凸优化算法几乎唯一的库",
+          "tag":"有针对凸表达的算式规范要求",
+          "url":"https://www.cvxpy.org/"
         }
       ]
     },

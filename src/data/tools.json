@@ -462,6 +462,18 @@
           "body":"邱锡鹏《神经网络与深度学习》",
           "tag":"PDF | 课件 | 勘误表",
           "url":"https://nndl.github.io/"
+        },
+        {
+          "title":"Neural Networks and Deep Learning",
+          "body":"Michael Nielsen 撰写",
+          "tag":"免费网页书 | 2019 年完稿",
+          "url":"http://neuralnetworksanddeeplearning.com/"
+        },
+        {
+          "title":"《动手学深度学习》",
+          "body":"PyTorch | NumPy/MXNet | TensorFlow | PaddlePaddle",
+          "tag":"网页在线简体中文 | 多种实现 ",
+          "url":"https://zh.d2l.ai/"
         }
       ]
     },

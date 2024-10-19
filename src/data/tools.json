@@ -558,6 +558,12 @@
           "body":"针对经济类学科的 Python 教程，从零基础开始教",
           "tag":"Arthur Turrell 等写的在线网页书",
           "url":"https://aeturrell.github.io/coding-for-economists/"
+        },
+        {
+          "title":"机器学习因果推断教程",
+          "body":"斯坦福 AI Faculty Undral Byambadalai",
+          "tag":"全英文 | Bookdown 在线书",
+          "url":""
         }
       ]
     },

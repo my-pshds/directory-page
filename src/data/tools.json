@@ -5,14 +5,14 @@
       "content": [
         {
           "title": "虫部落－快搜",
-          "body": "虫部落社区提供通俗信息搜索聚合",
-          "tag": "虫部落 | 通俗",
+          "body": "虫部落社区提供搜索引擎聚合",
+          "tag": "虫部落 | 搜索引擎",
           "url": "https://search.chongbuluo.com/"
         },
         {
           "title":"Giffox",
-          "body":"虫部落社区提供的电子书搜索聚合",
-          "tag":"虫部落 | 书籍",
+          "body":"虫部落社区提供电子书搜索聚合",
+          "tag":"虫部落 | 书籍 | 电子档",
           "url":"https://www.giffox.com/"
         },
         {
@@ -23,7 +23,7 @@
         },
         {
           "title":"刘明野的工具箱",
-          "body":"形式与本站有些类似的工具型网站",
+          "body":"形式与本站略类似的工具型网站",
           "tag":"编程 | 图片 | 影音 | 搜索",
           "url":"https://tools.liumingye.cn/"
         },
@@ -119,9 +119,33 @@
         },
         {
           "title":"GitHub Status",
-          "body":"实时公布自身服务状态 | 如异常，问题就大概不是需要你解决的",
+          "body":"实时公布自身服务状态 | 如异常，你的故障不需自己解决",
           "tag":"GitHub | 实时状态 | 故障排查",
           "url":"https://www.githubstatus.com/"
+        },
+        {
+          "title":"IP ADDRESS",
+          "body":"ipaddress.com－查 IP | 查 DNS | 查邮箱 | 查代理 | 查域名",
+          "tag":"IP 地址综合服务",
+          "url":"https://www.ipaddress.com/"
+        },
+        {
+          "title":"PageSpeed Insights",
+          "body":"网站加载速度分析工具，生成网页的实际性能报告",
+          "tag":"桌面端和移动端分开考察",
+          "url":"https://pagespeed.web.dev/"
+        },
+        {
+          "title":"SMS-Active",
+          "body":"俄罗斯网络服务商，在线租用指定地区手机号接收验证码短信",
+          "tag":"虚拟、物理俱全 | 没收到短信不收钱",
+          "url":"https://sms-activate.io/cn/"
+        },
+        {
+          "title":"NameSilo",
+          "body":"功能完善稳定的域名注册管理商之中价格最实惠的，没有之一",
+          "tag":"可批量管理多个域名的网络配置",
+          "url":"https://www.namesilo.com/"
         }
       ]
     },

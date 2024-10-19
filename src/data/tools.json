@@ -146,6 +146,18 @@
           "body":"功能完善稳定的域名注册管理商之中价格最实惠的，没有之一",
           "tag":"可批量管理多个域名的网络配置",
           "url":"https://www.namesilo.com/"
+        },
+        {
+          "title":"DuckDB",
+          "body":"暂时是和 SQL 语言配合最好的 Python 数据分析库",
+          "tag":"采用 Postgre | 上亿条数据无压力",
+          "url":"https://duckdb.org/"
+        },
+        {
+          "title":"pyecharts 文档",
+          "body":"百度的开源数据可视化库 Echarts 的 Python 实现库",
+          "tag":"交互良好 | 图表精巧",
+          "url":"https://pyecharts.org/"
         }
       ]
     },

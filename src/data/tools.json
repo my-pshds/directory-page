@@ -164,6 +164,12 @@
           "body":"美国数学会－学生数学图书馆 | ISSN 1520-9121",
           "tag":"当代数学教材推荐",
           "url":"https://bookstore.ams.org/content?PageName=stml"
+        },
+        {
+          "title":"SuperMemo Wiki",
+          "body":"Piotr Wozniak 创办的 Wiki，创作关于记忆原理和学习方法的内容",
+          "tag":"目前尚仅有极少数翻译成简体中文",
+          "url":"https://supermemo.guru/"
         }
       ]
     },

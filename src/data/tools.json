@@ -5,7 +5,7 @@
       "content": [
         {
           "title": "虫部落－快搜",
-          "body": "虫部落社区提供的通俗信息搜索聚合",
+          "body": "虫部落社区提供通俗信息搜索聚合",
           "tag": "虫部落 | 通俗",
           "url": "https://search.chongbuluo.com/"
         },
@@ -77,7 +77,7 @@
         },
         {
           "title":"Zotero 中文社区",
-          "body":"由志愿者组成的非官方小组，维护 Zotero 中文文档、中文社区生态",
+          "body":"志愿者组成的非官方小组，维护 Zotero 中文文档、中文社区生态",
           "tag":"百科全书 | 插件下载 | CSL 样式",
           "url":"https://zotero-chinese.com/"
         },
@@ -113,9 +113,15 @@
         },
         {
           "title":"nbviewer",
-          "body":"查看存放在 GitHub 的文件，生成直接浏览 ipynb 或 pdf 等格式的网页",
-          "tag":"法国最大的云服务商免费提供托管服务",
+          "body":"查看存放在 GitHub 的文件，生成直接浏览 ipynb 等格式的网页",
+          "tag":"法国最大的云服务商免费托管",
           "url":"https://nbviewer.org/"
+        },
+        {
+          "title":"GitHub Status",
+          "body":"实时公布自身服务状态 | 如异常，问题就大概不是需要你解决的",
+          "tag":"GitHub | 实时状态 | 故障排查",
+          "url":"https://www.githubstatus.com/"
         }
       ]
     },
@@ -137,7 +143,7 @@
         {
           "title":"Open Files Online",
           "body":"梁文森提供的在线打开服务，适合多种格式文件",
-          "tag":"解决你自己设备打不开刁钻格式的问题",
+          "tag":"解决你设备打不开刁钻格式的问题",
           "url":"https://openfiles.online/"
         },
         {
@@ -190,7 +196,7 @@
         },
         {
           "title":"rc－recite",
-          "body":"4cite Labs 提供在线检验工具，检查文章中的引用格式是否完整规范",
+          "body":"4cite Labs 提供在线检验工具，检查文章中的引用是否完整规范",
           "tag":"引证检查 | 论文格式",
           "url":"https://reciteworks.com/"
         },
@@ -226,7 +232,7 @@
         },
         {
           "title":"draw.io 绘图",
-          "body":"draw.io 提供的在线绘制流程图，可导出为图片、文档、网页等",
+          "body":"draw.io 提供在线绘制流程图，可导出为图片、文档、网页等",
           "tag":"画流程图",
           "url":"https://app.diagrams.net/"
         },
@@ -256,19 +262,19 @@
         },
         {
           "title":"Tables Generator",
-          "body":"在线用鼠标创建表格，调整样式，导出为写作语言格式（有广告）",
+          "body":"用鼠标创建表格，调整样式，导出为写作语言格式（有广告）",
           "tag":"LaTeX | HTML | Markdown | 纯文本",
           "url":"https://tablesgenerator.com/"
         },
         {
-          "title":"在线中国传统颜色拾取器",
+          "title":"中国传统颜色拾取器",
           "body":"AMZ123 提供，# 开头的小写字母十六进制格式",
           "tag":"从汉白玉到景泰蓝",
           "url":"https://www.amz123.com/tools-color/chn"
         },
         {
-          "title":"世界上最好的 SVG 压缩器",
-          "body":"vecta.io 提供高效无损压缩（这个标题是它的名字，不是我称呼的）",
+          "title":"世界最好的 SVG 压缩器",
+          "body":"vecta.io 高效无损压缩（这个标题是它的名字，不是我称呼）",
           "tag":"网页在线 | 压缩 SVG 至约两成",
           "url":"https://vecta.io/nano"
         }
@@ -279,7 +285,7 @@
       "content": [
         {
           "title": "momo 知乎笔记",
-          "body": "momo-study 是中央财经大学金融专业在读博士生，学习兴趣广泛",
+          "body": "momo 是中央财经大学金融专业在读博士生，学习兴趣广泛",
           "tag": "笔记－金融 | 各种各样经济学",
           "url": "https://zhuanlan.zhihu.com/p/524823847"
         },
@@ -321,7 +327,7 @@
         },
         {
           "title":"The Missing Semester of Your CS Education",
-          "body":"计算机教育缺失的一课 英文原版",
+          "body":"计算机教育缺失的一课英文原版",
           "tag":"如何精通工具 | 在线学习材料",
           "url":"https://missing.csail.mit.edu/"
         },
@@ -339,7 +345,7 @@
         },
         {
           "title":" MkDocs 文档开发教程",
-          "body":"MkDocs 曾经是最流行的简约化 Markdown 目录结构网站生成器",
+          "body":"MkDocs 曾经是最流行的简约 Markdown 目录结构网站框架",
           "tag":"快速入门 | 进阶操作 | 附录",
           "url":"https://mkdocs-like-code.readthedocs.io/zh-cn/latest/"
         },
@@ -350,7 +356,7 @@
           "url":"https://cetz-package.github.io/docs/"
         },
         {
-          "title":"生姜 Dr Ginger",
+          "title":"生姜 DrGinger",
           "body":"姜伟生著书配套 bilibili 账号",
           "tag":"鸢尾花书 | 机器学习 | FRM MATLAB",
           "url":"https://space.bilibili.com/513194466/"
@@ -399,14 +405,14 @@
         },
         {
           "title":"Double ML",
-          "body":"Python 与 R 语言双重机器学习程序包「DoubleML」的使用文档",
+          "body":"Python & R 语言双重机器学习程序包「DoubleML」使用文档",
           "tag":"依赖 scikit-learn 和 mlr3",
           "url":"https://docs.doubleml.org/"
         },
         {
-          "title":"nbstata",
-          "body":"Wisconsin-Madison 经济 PhD－Tim Huegerich 开发的 Jupyter 内核插件",
-          "tag":"一站式调用 Stata",
+          "title":"nbstata (jupyter)",
+          "body":"Wisconsin-Madison 经济 PhD Tim Huegerich 开发内核插件",
+          "tag":"Jupyter | 一站式调用 Stata",
           "url":"https://hugetim.github.io/nbstata/"
         }
       ]
@@ -481,7 +487,7 @@
           "url":"https://arielrubinstein.tau.ac.il/"
         },
         {
-          "title":"中村惠美 | Emi Nakamura",
+          "title":"中村惠美EmiNakamura",
           "body":" UC－Berkeley 经济系 Faculty | 日裔加拿大人",
           "tag":"宏观经济 Empirical | 货币财政",
           "url":"https://eml.berkeley.edu/~enakamura/"
@@ -559,7 +565,7 @@
           "url":"https://centerforsecuritypolicy.org/author/maya-carlin/"
         },
         {
-          "title":"Economics on REAL World",
+          "title":"Econ on REAL World",
           "body":"知乎用户「SpringField」英文博客",
           "tag":"介绍现代马克思主义经济学理论前沿",
           "url":"https://economicsonrealworld.blogspot.com/"

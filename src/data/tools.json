@@ -154,12 +154,6 @@
           "url":"https://duckdb.org/"
         },
         {
-          "title":"pyecharts 文档",
-          "body":"百度的开源数据可视化库 Echarts 的 Python 实现库",
-          "tag":"交互良好 | 图表精巧",
-          "url":"https://pyecharts.org/"
-        },
-        {
           "title":"CVXPY 文档",
           "body":"Python 场景下做凸优化算法几乎唯一的库",
           "tag":"有针对凸表达的算式规范要求",
@@ -456,6 +450,18 @@
           "body":"Wisconsin-Madison 经济 PhD Tim Huegerich 开发内核插件",
           "tag":"Jupyter | 一站式调用 Stata",
           "url":"https://hugetim.github.io/nbstata/"
+        },
+        {
+          "title":"pyecharts 文档",
+          "body":"百度的开源数据可视化库 Echarts 的 Python 实现库",
+          "tag":"交互良好 | 图表精巧",
+          "url":"https://pyecharts.org/"
+        },
+        {
+          "title":"蒲公英书",
+          "body":"邱锡鹏《神经网络与深度学习》",
+          "tag":"PDF | 课件 | 勘误表",
+          "url":"https://nndl.github.io/"
         }
       ]
     },

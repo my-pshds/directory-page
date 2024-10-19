@@ -170,6 +170,12 @@
           "body":"Piotr Wozniak 创办的 Wiki，创作关于记忆原理和学习方法的内容",
           "tag":"目前尚仅有极少数翻译成简体中文",
           "url":"https://supermemo.guru/"
+        },
+        {
+          "title":"Cambridge Notes",
+          "body":"剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记",
+          "tag":"从大一到研一，几千页",
+          "url":"https://dec41.user.srcf.net/notes/"
         }
       ]
     },
@@ -498,6 +504,12 @@
           "body":"",
           "tag":"还有 Baby Rudin 等其他教材答案",
           "url":"https://linearalgebras.com/"
+        },
+        {
+          "title":"Introduction to Economic Analysis",
+          "body":"出版社将这本书「匿名开源」",
+          "tag":"McAfee, Lewis and Dale",
+          "url":"https://saylordotorg.github.io/text_introduction-to-economic-analysis/"
         }
       ]
     },

@@ -546,6 +546,18 @@
           "body":"出版社将这本书「匿名开源」",
           "tag":"McAfee, Lewis and Dale",
           "url":"https://saylordotorg.github.io/text_introduction-to-economic-analysis/"
+        },
+        {
+          "title":"QuantEcon",
+          "body":"网页学习经济学建模计算工具",
+          "tag":"课程 | 代码 | 书",
+          "url":"https://quantecon.org/"
+        },
+        {
+          "title":"Coding for Economists",
+          "body":"针对经济类学科的 Python 教程，从零基础开始教",
+          "tag":"Arthur Turrell 等写的在线网页书",
+          "url":"https://aeturrell.github.io/coding-for-economists/"
         }
       ]
     },

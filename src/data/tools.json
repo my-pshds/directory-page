@@ -200,6 +200,18 @@
           "body":"美国经典文学作品文本分类分作者收录，特意照顾中小学教师",
           "tag":"有广告 | 有搜索栏",
           "url":"https://americanliterature.com/"
+        },
+        {
+          "title":"里下河文学网",
+          "body":"泰州文联主办－名家名作 | 文学评论 | 特别专栏",
+          "tag":"汉族自己的素幽唯美主义",
+          "url":"http://www.lxhwx.cn/"
+        },
+        {
+          "title":"吴语学堂",
+          "body":"带有地图的多地联合字音查询",
+          "tag":"输入汉字或吴拼",
+          "url":"https://www.wugniu.com/"
         }
       ]
     },
@@ -811,20 +823,15 @@
         }
       ]
     },
-    {"title": "文学人",
-      "category": "plt",
+    {"title": "文艺人",
+      "category": "pla",
       "content": [
         {
           "title": "Donna M. Campbell",
           "body": "华盛顿州立大学 英文系 Faculty",
           "tag": "美国文学研究与教学",
           "url": "https://public.wsu.edu/~campbelld/"
-        }
-      ]
-    },
-    {"title": "艺术人",
-      "category": "pat",
-      "content": [
+        },
         {
           "title": "Ethan Reed",
           "body": "Just Play 玩具设计师",

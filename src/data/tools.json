@@ -176,6 +176,24 @@
           "body":"剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记",
           "tag":"从大一到研一，几千页",
           "url":"https://dec41.user.srcf.net/notes/"
+        },
+        {
+          "title":"上海交通大学飞跃手册",
+          "body":"上海交通大学生存手册的延伸版本，前者很知名",
+          "tag":"2016 级以后暂无更新",
+          "url":"https://survivesjtu.github.io/SJTU-Application/"
+        },
+        {
+          "title":"框框大学",
+          "body":"bilibili「取景框看世界」创建的辞海式学习建议条目聚合",
+          "tag":"有搜索框和条件筛选",
+          "url":"https://www.kkdaxue.com/"
+        },
+        {
+          "title":"手机号段网",
+          "body":"查询中国大陆手机号前七位的运营商和归属地市",
+          "tag":"请注意携号转网只能查到初始归属",
+          "url":"https://telphone.cn/"
         }
       ]
     },

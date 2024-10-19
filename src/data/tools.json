@@ -77,7 +77,7 @@
         },
         {
           "title":"Zotero 中文社区",
-          "body":"志愿者组成的非官方小组，维护 Zotero 中文文档、中文社区生态",
+          "body":"维护 Zotero 中文文档、中文社区生态的志愿者非官方小组",
           "tag":"百科全书 | 插件下载 | CSL 样式",
           "url":"https://zotero-chinese.com/"
         },
@@ -90,7 +90,7 @@
         {
           "title":"Bootstrap Icons",
           "body":"Bootstrap 社区提供的开源图标库－标签速查",
-          "tag":"嵌入式 | External | Sprite | CSS | SVG",
+          "tag":"嵌入式 | 外部 | Sprite | CSS | SVG",
           "url":"https://icons.getbootstrap.com/"
         },
         {
@@ -113,7 +113,7 @@
         },
         {
           "title":"nbviewer",
-          "body":"查看存放在 GitHub 的文件，生成直接浏览 ipynb 等格式的网页",
+          "body":"指定 GitHub 公开库，生成直接浏览 ipynb 等格式的网页",
           "tag":"法国最大的云服务商免费托管",
           "url":"https://nbviewer.org/"
         },
@@ -158,6 +158,12 @@
           "body":"Python 场景下做凸优化算法几乎唯一的库",
           "tag":"有针对凸表达的算式规范要求",
           "url":"https://www.cvxpy.org/"
+        },
+        {
+          "title":"AMS－STML",
+          "body":"美国数学会－学生数学图书馆 | ISSN 1520-9121",
+          "tag":"当代数学教材推荐",
+          "url":"https://bookstore.ams.org/content?PageName=stml"
         }
       ]
     },
@@ -375,7 +381,7 @@
         },
         {
           "title":"Quarto 学习笔记",
-          "body":"杜俊宏编写的中文教程 | 面向多编程语言的新一代 R Markdown",
+          "body":"杜俊宏编写的中文教程 | 面向多编程语言的新一代 Rmarkdown",
           "tag":"编辑内容 | 插入组件 | 输出发布",
           "url":"https://djhcod.github.io/Quarto-foundation.github.io/"
         },
@@ -459,7 +465,7 @@
         },
         {
           "title":"蒲公英书",
-          "body":"邱锡鹏《神经网络与深度学习》",
+          "body":"邱锡鹏《神经网络与深度学习》简称 NNDL",
           "tag":"PDF | 课件 | 勘误表",
           "url":"https://nndl.github.io/"
         },
@@ -474,6 +480,18 @@
           "body":"PyTorch | NumPy / MXNet | TensorFlow | PaddlePaddle",
           "tag":"网页在线简体中文 | 多种实现 ",
           "url":"https://zh.d2l.ai/"
+        },
+        {
+          "title":"Immersive Linear Algebra",
+          "body":"沉浸式线性代数教程",
+          "tag":"网页在线免费 | 交互式动态图像",
+          "url":"https://immersivemath.com/"
+        },
+        {
+          "title":"Solutions to Linear Algebra Done Right 3rd Edition",
+          "body":"",
+          "tag":"还有 Baby Rudin 等其他教材答案",
+          "url":"https://linearalgebras.com/"
         }
       ]
     },

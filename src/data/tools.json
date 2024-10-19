@@ -194,6 +194,12 @@
           "body":"查询中国大陆手机号前七位的运营商和归属地市",
           "tag":"请注意携号转网只能查到初始归属",
           "url":"https://telphone.cn/"
+        },
+        {
+          "title":"AmericanLiterature",
+          "body":"美国经典文学作品文本分类分作者收录，特意照顾中小学教师",
+          "tag":"有广告 | 有搜索栏",
+          "url":"https://americanliterature.com/"
         }
       ]
     },

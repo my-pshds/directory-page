@@ -212,6 +212,12 @@
           "body":"带有地图的多地联合字音查询",
           "tag":"输入汉字或吴拼",
           "url":"https://www.wugniu.com/"
+        },
+        {
+          "title":"TXYZ",
+          "body":"针对学术论文的大语言模型，模型内支持简体中文，但网站没有",
+          "tag":"Path Integral Technology Inc.",
+          "url":"https://app.txyz.ai/"
         }
       ]
     },
@@ -453,13 +459,13 @@
         },
         {
           "title":"Astro 文档",
-          "body":"内容驱动网站的最先进 Web 前端框架，没有之一，无需编程基础",
+          "body":"内容驱动网站最先进 Web 前端框架，没有之一，无需编程基础",
           "tag":"简体中文 | 详细入门教程",
           "url":"https://docs.astro.build/zh-cn/"
         },
         {
           "title":"Docusaurus 文档",
-          "body":"Markdown 目录结构网站的最先进 Web 前端框架，没有之一",
+          "body":"Markdown 目录结构网站最先进 Web 前端框架，没有之一",
           "tag":"中英混杂 | 无需编程基础",
           "url":"https://docusaurus.io/zh-CN/"
         },
@@ -564,6 +570,24 @@
           "body":"斯坦福 AI Faculty Undral Byambadalai",
           "tag":"全英文 | Bookdown 在线书",
           "url":"https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/"
+        },
+        {
+          "title":"Causal Inference The Mixtape",
+          "body":"Scott Cunningham 写的",
+          "tag":"免费全英文 | 中文版纸质收费",
+          "url":"https://mixtape.scunning.com/"
+        },
+        {
+          "title":"Python for Data Analysis, 3E",
+          "body":"Wes McKinney",
+          "tag":"网页开源书 | 有数据和代码",
+          "url":"https://wesmckinney.com/book/"
+        },
+        {
+          "title":"Qwerty Learner",
+          "body":"双手键盘输入背英语单词，练打字速度，可选常用词库",
+          "tag":"有语音提示 | 可选 VSCode 插件版",
+          "url":"https://qwerty.kaiyi.cool/"
         }
       ]
     },

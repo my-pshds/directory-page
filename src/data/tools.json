@@ -224,6 +224,24 @@
           "body":"英文写作辅助工具，整句搜索引擎技术",
           "tag":"翻译 | 重写 | 改句子 | 编辑器 | PDF",
           "url":"https://app.ludwig.guru/"
+        },
+        {
+          "title":"Thesaurus.com",
+          "body":"英语同义词查询、词林 | 英文「小学」常识",
+          "tag":"有广告",
+          "url":"https://www.thesaurus.com/"
+        },
+        {
+          "title":"词根词缀辞典",
+          "body":"高伟东研发的公益 App《词根词缀（记忆）字典》网页版",
+          "tag":"无广告，无收费，不盈利",
+          "url":"https://www.dicts.cn/"
+        },
+        {
+          "title":"QuillBot",
+          "body":"英语写作辅助工具，弱化 AI",
+          "tag":"收费功能定价较高",
+          "url":"https://quillbot.com/"
         }
       ]
     },

@@ -167,7 +167,7 @@
         },
         {
           "title":"SuperMemo Wiki",
-          "body":"Piotr Wozniak 创办的 Wiki，创作关于记忆原理和学习方法的内容",
+          "body":"Piotr Wozniak 创办的 Wiki，创作关于记忆和学习原理的内容",
           "tag":"目前尚仅有极少数翻译成简体中文",
           "url":"https://supermemo.guru/"
         },
@@ -239,9 +239,21 @@
         },
         {
           "title":"QuillBot",
-          "body":"英语写作辅助工具，弱化 AI",
+          "body":"英语写作辅助工具，有较弱的 AI 成分",
           "tag":"收费功能定价较高",
           "url":"https://quillbot.com/"
+        },
+        {
+          "title":"Online Etymology Dictionary",
+          "body":"查询英语词汇的来源和演变",
+          "tag":"业余爱好独立作者的项目",
+          "url":"https://www.etymonline.com/"
+        },
+        {
+          "title":"Online Library of Liberty",
+          "body":"偏重自由主义的网上公开图书馆",
+          "tag":"自由基金会 Liberty Fund",
+          "url":""
         }
       ]
     },

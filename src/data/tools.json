@@ -155,7 +155,7 @@
         },
         {
           "title":"CVXPY 文档",
-          "body":"Python 场景下做凸优化算法几乎唯一的库",
+          "body":"Python 场景下做凸优化算法的库几乎唯一选择",
           "tag":"有针对凸表达的算式规范要求",
           "url":"https://www.cvxpy.org/"
         },

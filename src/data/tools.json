@@ -125,7 +125,7 @@
         },
         {
           "title":"IP ADDRESS",
-          "body":"ipaddress.com－查 IP | 查 DNS | 查邮箱 | 查代理 | 查域名",
+          "body":"查 IP | 查 DNS | 查邮箱 | 查代理 | 查域名 | 几十年老字号",
           "tag":"IP 地址综合服务",
           "url":"https://www.ipaddress.com/"
         },
@@ -138,7 +138,7 @@
         {
           "title":"SMS-Active",
           "body":"俄罗斯网络服务商，在线租用指定地区手机号接收验证码短信",
-          "tag":"虚拟、物理俱全 | 没收到短信不收钱",
+          "tag":"虚拟物理俱全 | 没收到短信不收钱",
           "url":"https://sms-activate.io/cn/"
         },
         {
@@ -290,6 +290,18 @@
           "body":"Institute for the Study of War",
           "tag":"智库 | 国际关系 | 开源军事情报",
           "url":"https://www.understandingwar.org/"
+        },
+        {
+          "title":"中国历史研究院",
+          "body":"实体研究机构，兼职管理，初衷在拨乱，规范史学政治立场",
+          "tag":"2019 年成立",
+          "url":"http://hrczh.cass.cn/"
+        },
+        {
+          "title":"中文马克思主义文库",
+          "body":"传播马克思主义和共产主义历史文献和参考资料 | 2006 年始",
+          "tag":"HTML | PDF | 招募志愿者整理",
+          "url":"https://www.marxists.org/chinese/"
         }
       ]
     },

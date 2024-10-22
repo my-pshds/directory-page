@@ -308,6 +308,18 @@
           "body":"有精校，有粗校，还有在线参与整理",
           "tag":"北大中文系－字节跳动",
           "url":"https://www.shidianguji.com/"
+        },
+        {
+          "title":"谭其骧版地图",
+          "body":"网页浏览，由「古今文字集成」项目提供服务",
+          "tag":"图片大，加载可能慢",
+          "url":"http://ccamc.co/chinese_historical_map/"
+        },
+        {
+          "title":"国家图书馆",
+          "body":"提供众多网址，可跳转到各个书库的网站",
+          "tag":"https://www.nlc.cn/",
+          "url":"文津搜索 | 古籍库"
         }
       ]
     },

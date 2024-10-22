@@ -60,7 +60,7 @@
         {
           "title":"医学微视",
           "body":"北京博彧维康公司提供的临床医学科普平台",
-          "tag":"按科室区分专栏 | 不是无条件免费",
+          "tag":"按科室区分专栏 | 有盈利性质",
           "url":"https://www.mvyxws.cn/"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
           "title":"Julia 中文社区",
-          "body":"最先进的现代科学计算免费开源语言，没有之一",
+          "body":"最先进的现代科学计算开源语言，没有之一",
           "tag":"下载 | 文档 | 讨论 | 教程",
           "url":"https://cn.julialang.org/"
         },
@@ -272,6 +272,24 @@
           "body":"众多编程语言和技能，教程、参考双用",
           "tag":"另有几种主流语言的测验题",
           "url":"https://www.runoob.com/"
+        },
+        {
+          "title":"CICIR | 中国现代国际关系研究院",
+          "body":"行业内简称「现代院」在海淀",
+          "tag":"智库 | 国际关系",
+          "url":"http://www.cicir.ac.cn/"
+        },
+        {
+          "title":"上海国际问题研究院",
+          "body":"行业内简称「上海院」",
+          "tag":"智库 | 国际关系",
+          "url":"https://www.siis.org.cn/"
+        },
+        {
+          "title":"ISW | 美国战争研究所",
+          "body":"Institute for the Study of War",
+          "tag":"智库 | 国际关系 | 开源军事情报",
+          "url":"https://www.understandingwar.org/"
         }
       ]
     },
@@ -364,7 +382,7 @@
         },
         {
           "title":"Octave Online",
-          "body":"MATLAB 替代品，开源使用，网页 UI",
+          "body":"MATLAB 替代品，免费使用，网页 UI",
           "tag":"在线 MATLAB",
           "url":"https://octave-online.net/"
         },
@@ -580,7 +598,7 @@
         {
           "title":"Neural Networks and Deep Learning",
           "body":"Michael Nielsen 撰写",
-          "tag":"免费网页书 | 2019 年完稿",
+          "tag":"开源网页书 | 2019 年完稿",
           "url":"http://neuralnetworksanddeeplearning.com/"
         },
         {
@@ -628,7 +646,7 @@
         {
           "title":"Causal Inference The Mixtape",
           "body":"Scott Cunningham 写的",
-          "tag":"免费全英文 | 中文版纸质收费",
+          "tag":"全英文网页免费 | 中文版纸质收费",
           "url":"https://mixtape.scunning.com/"
         },
         {

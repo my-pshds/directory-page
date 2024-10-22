@@ -797,8 +797,25 @@
           "body":"知乎用户「SpringField」英文博客",
           "tag":"介绍现代马克思主义经济学理论前沿",
           "url":"https://economicsonrealworld.blogspot.com/"
+        },
+        {
+          "title":"侯越",
+          "body":"香港科技大学社科部 政治学 Faculty",
+          "tag":"当代中国政治特征",
+          "url":"https://sites.google.com/view/yuehou/"
+        },
+        {
+          "title":"程思薇",
+          "body":"纽约大学 社会学 Faculty",
+          "tag":"劳动社会学",
+          "url":"https://siwei-cheng.github.io/"
+        },
+        {
+          "title":"曾垚",
+          "body":"沃顿商学院 金融 Faculty",
+          "tag":"资产定价 | 公司财务 | 金融中介",
+          "url":"https://sites.google.com/site/yaozengwebsite/"
         }
-
       ]
     },
     {"title": "统计人",

@@ -39,6 +39,12 @@
           "url":"https://chinavolunteer.mca.gov.cn/"
         },
         {
+          "title":"YAML 前言用法",
+          "body":"ASSEMBLE 框架文档的章节 | 不是 YAML 自己网站的文档",
+          "tag":"有案例代码",
+          "url":"https://assemble.io/docs/YAML-front-matter.html"
+        },
+        {
           "title":"中国疾病预防控制中心",
           "body":"有链接可跳转到相关查询页面",
           "tag":"CDC | 政策法规 | 统计数据",

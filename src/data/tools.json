@@ -39,6 +39,12 @@
           "url":"https://chinavolunteer.mca.gov.cn/"
         },
         {
+          "title":"新型冠状病毒用药冲突查询",
+          "body":"利物浦大学提供",
+          "tag":"新冠药物与联合用药的相互作用",
+          "url":"https://covid19-druginteractions.org/checker"
+        },
+        {
           "title":"YAML 前言用法",
           "body":"ASSEMBLE 框架文档的章节 | 不是 YAML 自己网站的文档",
           "tag":"有案例代码",

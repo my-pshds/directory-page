@@ -1,44 +1,8 @@
 {
   "tools": [
-    {"title": "综合",
-      "category": "combined",
+    {"title": "办事",
+      "category": "admin",
       "content": [
-        {
-          "title": "虫部落－快搜",
-          "body": "虫部落社区提供搜索引擎聚合",
-          "tag": "虫部落 | 搜索引擎",
-          "url": "https://search.chongbuluo.com/"
-        },
-        {
-          "title":"Giffox",
-          "body":"虫部落社区提供电子书搜索聚合",
-          "tag":"虫部落 | 书籍 | 电子档",
-          "url":"https://www.giffox.com/"
-        },
-        {
-          "title":"虫部落－学术搜索",
-          "body":"虫部落社区提供的学术搜索聚合",
-          "tag":"虫部落 | Scholar",
-          "url":"https://scholar.chongbuluo.com/"
-        },
-        {
-          "title":"刘明野的工具箱",
-          "body":"形式与本站略类似的工具型网站",
-          "tag":"编程 | 图片 | 影音 | 搜索",
-          "url":"https://tools.liumingye.cn/"
-        },
-        {
-          "title": "Andrew Huberman",
-          "body": "斯坦福 医学院神经生物 Faculty | 面向学界以外的科普网页",
-          "tag": "脑科学 | 行为科学 | 精神科",
-          "url": "https://www.hubermanlab.com/"
-        },
-        {
-          "title":"超能搜",
-          "body":"基于爬虫的网盘搜索聚合，但可能面临收费或其他门槛",
-          "tag":"第三方网盘搜索",
-          "url":"http://www.chaonengso.com/"
-        },
         {
           "title":"12388－总站",
           "body":"中央纪委国家监委举报总站，请注意属地和级别",
@@ -52,10 +16,81 @@
           "url":"https://zygjjg.12388.gov.cn/"
         },
         {
+          "title":"SMS-Active",
+          "body":"俄罗斯网络服务商，在线租用指定地区手机号接收验证码短信",
+          "tag":"虚拟物理俱全 | 没收到短信不收钱",
+          "url":"https://sms-activate.io/cn/"
+        },
+        {
+          "title":"NameSilo",
+          "body":"功能完善稳定的域名注册管理商之中第一年初始价格最实惠的",
+          "tag":"可批量管理多个域名的网络配置",
+          "url":"https://www.namesilo.com/"
+        }
+      ]
+    },
+    {"title": "查询",
+      "category": "lookfor",
+      "content": [
+        {
           "title":"中国志愿服务网",
           "body":"共青团信息化支持平台 | 志愿者活动信息发布和展示平台",
           "tag":"全国站－可切换到各省",
           "url":"https://chinavolunteer.mca.gov.cn/"
+        },
+        {
+          "title":"不列颠百科全书",
+          "body":"英美文化的一切分支和交叉知识查询",
+          "tag":"大型商业品牌－文化教育巨头",
+          "url":"https://www.britannica.com/"
+        },
+        {
+          "title":"行政区划代码查询",
+          "body":"「速速搜」平台（sususo.com）提供",
+          "tag":"查身份证号前六位 | 有广告",
+          "url":"http://tools.fuwuce.com/idcard/areacode.jsp"
+        },
+        {
+          "title":"中国执行信息公开网",
+          "body":"查询被执行人－针对自然人",
+          "tag":"最高人民法院",
+          "url":"http://zxgk.court.gov.cn/"
+        },
+        {
+          "title":"国家企业信用信息公示系统",
+          "body":"企业异常和失信查询",
+          "tag":"国家市场监督管理总局",
+          "url":"https://www.gsxt.gov.cn/"
+        },
+        {
+          "title":"菜鸟教程",
+          "body":"众多编程语言和技能，教程、参考双用",
+          "tag":"另有几种主流语言的测验题",
+          "url":"https://www.runoob.com/"
+        },
+        {
+          "title":"Online Etymology Dictionary",
+          "body":"查询英语词汇的来源和演变",
+          "tag":"业余爱好独立作者的项目",
+          "url":"https://www.etymonline.com/"
+        },
+        {
+          "title":"Thesaurus.com",
+          "body":"英语同义词查询、词林 | 英文「小学」常识",
+          "tag":"有广告",
+          "url":"https://www.thesaurus.com/"
+        },
+        {
+          "title":"词根词缀辞典",
+          "body":"高伟东研发的公益 App《词根词缀（记忆）字典》网页版",
+          "tag":"无广告，无收费，不盈利",
+          "url":"https://www.dicts.cn/"
+        },
+        {
+          "title":"吴语学堂",
+          "body":"带有地图的多地联合字音查询",
+          "tag":"输入汉字或吴拼",
+          "url":"https://www.wugniu.com/"
         },
         {
           "title":"医学微视",
@@ -97,7 +132,7 @@
           "title":"Icônes",
           "body":"基于 Iconify 框架的图标速查表 & 搜索器",
           "tag":"即时模糊搜索 | Mobile Friendly",
-          "url":""
+          "url":"https://icones.js.org/"
         },
         {
           "title":"中文网字计划",
@@ -110,12 +145,6 @@
           "body":"最先进的现代科学计算开源语言，没有之一",
           "tag":"下载 | 文档 | 讨论 | 教程",
           "url":"https://cn.julialang.org/"
-        },
-        {
-          "title":"nbviewer",
-          "body":"指定 GitHub 公开库，生成直接浏览 ipynb 等格式的网页",
-          "tag":"法国最大的云服务商免费托管",
-          "url":"https://nbviewer.org/"
         },
         {
           "title":"GitHub Status",
@@ -136,48 +165,6 @@
           "url":"https://pagespeed.web.dev/"
         },
         {
-          "title":"SMS-Active",
-          "body":"俄罗斯网络服务商，在线租用指定地区手机号接收验证码短信",
-          "tag":"虚拟物理俱全 | 没收到短信不收钱",
-          "url":"https://sms-activate.io/cn/"
-        },
-        {
-          "title":"NameSilo",
-          "body":"功能完善稳定的域名注册管理商之中第一年初始价格最实惠的",
-          "tag":"可批量管理多个域名的网络配置",
-          "url":"https://www.namesilo.com/"
-        },
-        {
-          "title":"DuckDB",
-          "body":"暂时是和 SQL 语言配合最好的 Python 数据分析库",
-          "tag":"采用 Postgre | 上亿条数据无压力",
-          "url":"https://duckdb.org/"
-        },
-        {
-          "title":"CVXPY 文档",
-          "body":"Python 场景下做凸优化算法的库几乎唯一选择",
-          "tag":"有针对凸表达的算式规范要求",
-          "url":"https://www.cvxpy.org/"
-        },
-        {
-          "title":"AMS－STML",
-          "body":"美国数学会－学生数学图书馆 | ISSN 1520-9121",
-          "tag":"当代数学教材推荐",
-          "url":"https://bookstore.ams.org/content?PageName=stml"
-        },
-        {
-          "title":"SuperMemo Wiki",
-          "body":"Piotr Wozniak 创办的 Wiki，创作关于记忆和学习原理的内容",
-          "tag":"目前尚仅有极少数翻译成简体中文",
-          "url":"https://supermemo.guru/"
-        },
-        {
-          "title":"Cambridge Notes",
-          "body":"剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记",
-          "tag":"从大一到研一，几千页",
-          "url":"https://dec41.user.srcf.net/notes/"
-        },
-        {
           "title":"上海交通大学飞跃手册",
           "body":"上海交通大学生存手册的延伸版本，前者很知名",
           "tag":"2016 级以后暂无更新",
@@ -196,58 +183,45 @@
           "url":"https://telphone.cn/"
         },
         {
-          "title":"AmericanLiterature",
-          "body":"美国经典文学作品文本分类分作者收录，特意照顾中小学教师",
-          "tag":"有广告 | 有搜索栏",
-          "url":"https://americanliterature.com/"
+          "title":"DuckDB",
+          "body":"暂时是和 SQL 语言配合最好的 Python 数据分析库",
+          "tag":"采用 Postgre | 上亿条数据无压力",
+          "url":"https://duckdb.org/"
         },
         {
-          "title":"里下河文学网",
-          "body":"泰州文联主办－与汉地其他区域有明显不同的独特地域文学审美",
-          "tag":"名家名作 | 文学评论 | 特别专栏",
-          "url":"http://www.lxhwx.cn/"
+          "title":"CVXPY 文档",
+          "body":"Python 场景下做凸优化算法的库几乎唯一选择",
+          "tag":"有针对凸表达的算式规范要求",
+          "url":"https://www.cvxpy.org/"
         },
         {
-          "title":"吴语学堂",
-          "body":"带有地图的多地联合字音查询",
-          "tag":"输入汉字或吴拼",
-          "url":"https://www.wugniu.com/"
+          "title":"AMS－STML",
+          "body":"美国数学会－学生数学图书馆 | ISSN 1520-9121",
+          "tag":"当代数学教材推荐",
+          "url":"https://bookstore.ams.org/content?PageName=stml"
+        }
+      ]
+    },
+    {"title": "搜索",
+      "category": "",
+      "content": [
+        {
+          "title": "虫部落－快搜",
+          "body": "虫部落社区提供搜索引擎聚合",
+          "tag": "虫部落 | 搜索引擎",
+          "url": "https://search.chongbuluo.com/"
         },
         {
-          "title":"TXYZ",
-          "body":"针对学术论文的大语言模型，模型内支持简体中文，但网站没有",
-          "tag":"Path Integral Technology Inc.",
-          "url":"https://app.txyz.ai/"
+          "title":"集知盒子",
+          "body":"微信公众号「集知盒子」提供的网址导航",
+          "tag":"境内主流大平台——大网站",
+          "url":"https://www.jizhihezi.com/"
         },
         {
-          "title":"Ludwig",
-          "body":"英文写作辅助工具，整句搜索引擎技术",
-          "tag":"翻译 | 重写 | 改句子 | 编辑器 | PDF",
-          "url":"https://app.ludwig.guru/"
-        },
-        {
-          "title":"Thesaurus.com",
-          "body":"英语同义词查询、词林 | 英文「小学」常识",
-          "tag":"有广告",
-          "url":"https://www.thesaurus.com/"
-        },
-        {
-          "title":"词根词缀辞典",
-          "body":"高伟东研发的公益 App《词根词缀（记忆）字典》网页版",
-          "tag":"无广告，无收费，不盈利",
-          "url":"https://www.dicts.cn/"
-        },
-        {
-          "title":"QuillBot",
-          "body":"英语写作辅助工具，有较弱的 AI 成分",
-          "tag":"收费功能定价较高",
-          "url":"https://quillbot.com/"
-        },
-        {
-          "title":"Online Etymology Dictionary",
-          "body":"查询英语词汇的来源和演变",
-          "tag":"业余爱好独立作者的项目",
-          "url":"https://www.etymonline.com/"
+          "title":"国家图书馆",
+          "body":"提供众多网址，可跳转到各个书库的网站",
+          "tag":"文津搜索 | 古籍库",
+          "url":"https://www.nlc.cn/"
         },
         {
           "title":"Online Library of Liberty",
@@ -256,22 +230,51 @@
           "url":"https://oll.libertyfund.org/"
         },
         {
-          "title":"中国执行信息公开网",
-          "body":"查询被执行人－针对自然人",
-          "tag":"最高人民法院",
-          "url":"http://zxgk.court.gov.cn/"
+          "title":"Giffox",
+          "body":"虫部落社区提供电子书搜索聚合",
+          "tag":"虫部落 | 书籍 | 电子档",
+          "url":"https://www.giffox.com/"
         },
         {
-          "title":"国家企业信用信息公示系统",
-          "body":"企业异常和失信查询",
-          "tag":"国家市场监督管理总局",
-          "url":"https://www.gsxt.gov.cn/"
+          "title":"虫部落－学术搜索",
+          "body":"虫部落社区提供的学术搜索聚合",
+          "tag":"虫部落 | Scholar",
+          "url":"https://scholar.chongbuluo.com/"
         },
         {
-          "title":"菜鸟教程",
-          "body":"众多编程语言和技能，教程、参考双用",
-          "tag":"另有几种主流语言的测验题",
-          "url":"https://www.runoob.com/"
+          "title":"刘明野的工具箱",
+          "body":"形式与本站略类似的工具型网站",
+          "tag":"编程 | 图片 | 影音 | 搜索",
+          "url":"https://tools.liumingye.cn/"
+        },
+        {
+          "title":"超能搜",
+          "body":"基于爬虫的网盘搜索聚合，但可能面临收费或其他门槛",
+          "tag":"第三方网盘搜索",
+          "url":"http://www.chaonengso.com/"
+        }
+      ]
+    },
+    {"title": "阅读",
+      "category": "reading",
+      "content": [
+        {
+          "title": "Andrew Huberman",
+          "body": "斯坦福 医学院神经生物 Faculty | 面向学界以外的科普网页",
+          "tag": "脑科学 | 行为科学 | 精神科",
+          "url": "https://www.hubermanlab.com/"
+        },
+        {
+          "title":"SuperMemo Wiki",
+          "body":"Piotr Wozniak 创办的 Wiki，创作关于记忆和学习原理的内容",
+          "tag":"目前尚仅有极少数翻译成简体中文",
+          "url":"https://supermemo.guru/"
+        },
+        {
+          "title":"里下河文学网",
+          "body":"泰州文联主办－与汉地其他区域有明显不同的独特地域文学审美",
+          "tag":"名家名作 | 文学评论 | 特别专栏",
+          "url":"http://www.lxhwx.cn/"
         },
         {
           "title":"CICIR | 中国现代国际关系研究院",
@@ -316,12 +319,6 @@
           "url":"http://ccamc.co/chinese_historical_map/"
         },
         {
-          "title":"国家图书馆",
-          "body":"提供众多网址，可跳转到各个书库的网站",
-          "tag":"文津搜索 | 古籍库",
-          "url":"https://www.nlc.cn/"
-        },
-        {
           "title":"中国哲学书电子化计划",
           "body":"用 Unicode 字体（尤其是 CJK 扩展 A 区至 D 区的字）显示",
           "tag":"从先秦到民国 | 原典可搜索",
@@ -356,28 +353,10 @@
           "body":"用户输入网页地址，自动保存网页 | 匿名独立个人自费运营",
           "tag":"Archive.today | 网页史料保存",
           "url":"https://archive.ph/"
-        },
-        {
-          "title":"集知盒子",
-          "body":"微信公众号「集知盒子」提供的网址导航",
-          "tag":"境内主流大平台——大网站",
-          "url":"https://www.jizhihezi.com/"
-        },
-        {
-          "title":"不列颠百科全书",
-          "body":"英美文化的一切分支和交叉知识查询",
-          "tag":"大型商业品牌－文化教育巨头",
-          "url":"https://www.britannica.com/"
-        },
-        {
-          "title":"行政区划代码查询",
-          "body":"「速速搜」平台（sususo.com）提供",
-          "tag":"查身份证号前六位 | 有广告",
-          "url":"http://tools.fuwuce.com/idcard/areacode.jsp"
         }
       ]
     },
-    {"title": "网页程序",
+    {"title": "工具",
       "category": "app",
       "content": [
         {
@@ -385,6 +364,30 @@
           "body": "Zotero 提供的网页在线轻量引文生成工具",
           "tag": "参考文献 | 引证格式",
           "url": "https://zbib.org/"
+        },
+        {
+          "title":"QuillBot",
+          "body":"英语写作辅助工具，有较弱的 AI 成分",
+          "tag":"收费功能定价较高",
+          "url":"https://quillbot.com/"
+        },
+        {
+          "title":"TXYZ",
+          "body":"针对学术论文的大语言模型，模型内支持简体中文，但网站没有",
+          "tag":"Path Integral Technology Inc.",
+          "url":"https://app.txyz.ai/"
+        },
+        {
+          "title":"Ludwig",
+          "body":"英文写作辅助工具，整句搜索引擎技术",
+          "tag":"翻译 | 重写 | 改句子 | 编辑器 | PDF",
+          "url":"https://app.ludwig.guru/"
+        },
+        {
+          "title":"nbviewer",
+          "body":"指定 GitHub 公开库，生成直接浏览 ipynb 等格式的网页",
+          "tag":"法国最大的云服务商免费托管",
+          "url":"https://nbviewer.org/"
         },
         {
           "title":"萝卜工坊",
@@ -750,6 +753,18 @@
           "body":"双手键盘输入背英语单词，练打字速度，可选常用词库",
           "tag":"有语音提示 | 可选 VSCode 插件版",
           "url":"https://qwerty.kaiyi.cool/"
+        },
+        {
+          "title":"Cambridge Notes",
+          "body":"剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记",
+          "tag":"从大一到研一，几千页",
+          "url":"https://dec41.user.srcf.net/notes/"
+        },
+        {
+          "title":"AmericanLiterature",
+          "body":"美国经典文学作品文本分类分作者收录，特意照顾中小学教师",
+          "tag":"有广告 | 有搜索栏",
+          "url":"https://americanliterature.com/"
         }
       ]
     },
@@ -761,6 +776,12 @@
           "body": "香港中文大学（深圳）经管学院 Faculty",
           "tag": "当代中国政治经济问题",
           "url": "https://sites.google.com/view/mingli1/home"
+        },
+        {
+          "title":"Sergio Correia",
+          "body":"美联储 金融稳定司 | 杜克 金融 PhD | 在拉丁语族国家教过书",
+          "tag":"计量软件扩展包科普 | 宏观数据",
+          "url":"https://scorreia.com/"
         },
         {
           "title":"徐轶青",

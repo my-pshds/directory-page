@@ -39,6 +39,12 @@
           "url":"https://chinavolunteer.mca.gov.cn/"
         },
         {
+          "title":"Typst 中文社区导航",
+          "body":"尚未完工",
+          "tag":"UI很好看",
+          "url":"https://typst-doc-cn.github.io/guide/"
+        },
+        {
           "title":"高校毕业生到国际组织实习岗位信息",
           "body":"任职信息服务平台",
           "tag":"教育部学生服务与素质发展中心",
@@ -544,6 +550,12 @@
           "body": "momo 是中央财经大学金融专业在读博士生，学习兴趣广泛",
           "tag": "笔记－金融 | 各种各样经济学",
           "url": "https://zhuanlan.zhihu.com/p/524823847"
+        },
+        {
+          "title":"Typst 中文教程",
+          "body":"又称「小蓝书」",
+          "tag":"网页在线版",
+          "url":"https://typst-doc-cn.github.io/tutorial/"
         },
         {
           "title": "鸢尾花书",

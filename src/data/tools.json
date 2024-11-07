@@ -33,6 +33,12 @@
       "category": "lookfor",
       "content": [
         {
+          "title":"KaTeX",
+          "body":"走在前列的轻量快速渲染 LaTeX 语法数学公式插件",
+          "tag":"无任何 dependency",
+          "url":"https://katex.org/"
+        },
+        {
           "title":"中国志愿服务网",
           "body":"共青团信息化支持平台 | 志愿者活动信息发布和展示平台",
           "tag":"全国站－可切换到各省",
@@ -51,7 +57,7 @@
           "url":"https://gj.ncss.cn/job.html"
         },
         {
-          "title":"小木虫论坛研究生招生版",
+          "title":"小木虫论坛研究生招生",
           "body":"几乎仅理工科",
           "tag":"有广告",
           "url":"https://muchong.com/f-430-1"
@@ -69,9 +75,9 @@
           "url":"https://qingshanasd.cn/medical-map/"
         },
         {
-          "title":"新型冠状病毒用药冲突查询",
+          "title":"新冠病毒用药冲突查询",
           "body":"利物浦大学提供",
-          "tag":"新冠药物与联合用药的相互作用",
+          "tag":"新冠药物与同时用药的相互作用",
           "url":"https://covid19-druginteractions.org/checker"
         },
         {
@@ -111,7 +117,7 @@
           "url":"http://zxgk.court.gov.cn/"
         },
         {
-          "title":"国家企业信用信息公示系统",
+          "title":"国家企业信用信息公示",
           "body":"企业异常和失信查询",
           "tag":"国家市场监督管理总局",
           "url":"https://www.gsxt.gov.cn/"
@@ -136,7 +142,7 @@
         },
         {
           "title":"词根词缀辞典",
-          "body":"高伟东研发的公益 App《词根词缀（记忆）字典》网页版",
+          "body":"高伟东研发的公益 App《词根词缀（记忆）字典》",
           "tag":"无广告，无收费，不盈利",
           "url":"https://www.dicts.cn/"
         },
@@ -166,7 +172,7 @@
         },
         {
           "title":"Zotero 中文社区",
-          "body":"维护 Zotero 中文文档、中文社区生态的志愿者非官方小组",
+          "body":"社区生态的志愿者非官方小组 | 维护 Zotero 中文文档",
           "tag":"百科全书 | 插件下载 | CSL 样式",
           "url":"https://zotero-chinese.com/"
         },
@@ -219,21 +225,21 @@
           "url":"https://pagespeed.web.dev/"
         },
         {
-          "title":"上海交通大学飞跃手册",
+          "title":"上海交大飞跃手册",
           "body":"上海交通大学生存手册的延伸版本，前者很知名",
           "tag":"2016 级以后暂无更新",
           "url":"https://survivesjtu.github.io/SJTU-Application/"
         },
         {
           "title":"框框大学",
-          "body":"bilibili「取景框看世界」创建的辞海式学习建议条目聚合",
+          "body":"辞海式学习建议条目聚合－bilibili「取景框看世界」创建",
           "tag":"有搜索框和条件筛选",
           "url":"https://www.kkdaxue.com/"
         },
         {
           "title":"手机号段网",
-          "body":"查询中国大陆手机号前七位的运营商和归属地市",
-          "tag":"请注意携号转网只能查到初始归属",
+          "body":"查询中国大陆手机号前七位的初始运营商和归属地市",
+          "tag":"不适用携号转网",
           "url":"https://telphone.cn/"
         },
         {
@@ -428,7 +434,7 @@
         },
         {
           "title":"比特虫",
-          "body":"在线将其他格式的图片转化为 ico 图标，用于作为缩略的网站标志",
+          "body":"将其他格式的图片转化为 ico 图标，用作网站 logo",
           "tag":"ico图标转换工具",
           "url":"https://www.bitbug.net/"
         },
@@ -511,7 +517,7 @@
           "url":"https://transfonter.org/"
         },
         {
-          "title":"在线 Markdown 编辑器",
+          "title":"Markdown 编辑器",
           "body":"markdown.com.cn 提供的网页工具，可针对平台生成 richtext",
           "tag":"知乎 | 微信公众平台 | 稀土掘金",
           "url":"https://markdown.com.cn/editor/"
@@ -588,9 +594,9 @@
           "url":"https://www.freecodecamp.org/chinese/"
         },
         {
-          "title":"计算机教育缺失的一课",
-          "body":"The Missing Semester of Your CS Education 简体中文",
-          "tag":"如何精通工具 | 在线学习材料",
+          "title":"计算机教育缺失的课",
+          "body":"The Missing Semester of Your CS Education",
+          "tag":"如何精通工具 | 简体中文",
           "url":"https://missing-semester-cn.github.io/"
         },
         {
@@ -625,8 +631,8 @@
         },
         {
           "title":"生姜 DrGinger",
-          "body":"姜伟生著书配套 bilibili 账号",
-          "tag":"鸢尾花书 | 机器学习 | FRM MATLAB",
+          "body":"姜伟生著书配套 bilibili 账号 | 不仅有鸢尾花书",
+          "tag":"机器学习 | FRM MATLAB",
           "url":"https://space.bilibili.com/513194466/"
         },
         {
@@ -661,8 +667,8 @@
         },
         {
           "title":"现代科学计算",
-          "body":"香港科技大学（广州）计算物理 Faculty 刘金国撰写的知乎专栏",
-          "tag":"Julia 编程语言 | 教材草稿",
+          "body":"港科大（广州）计算物理 Faculty 刘金国撰写",
+          "tag":"Julia 编程语言 | 知乎专栏",
           "url":"https://www.zhihu.com/column/c_1706037360360304641"
         },
         {
@@ -739,7 +745,7 @@
         },
         {
           "title":"机器学习因果推断教程",
-          "body":"斯坦福 AI Faculty Undral Byambadalai",
+          "body":"斯坦福 AI Faculty Undral Byambadalai 编写",
           "tag":"全英文 | Bookdown 在线书",
           "url":"https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/"
         },
@@ -785,6 +791,12 @@
           "url": "https://sites.google.com/view/mingli1/home"
         },
         {
+          "title":"连晨",
+          "body":"UC－Berkeley 经济系 Faculty | 北大数院本科",
+          "tag":"行为经济学 | 宏观经济",
+          "url":"https://sites.google.com/view/chenlian/"
+        },
+        {
           "title":"朱志韬",
           "body":"浙江大学经济学院 Faculty",
           "tag":"微观大数据里的政治经济检验",
@@ -804,7 +816,7 @@
         },
         {
           "title":"陈硕",
-          "body":"复旦经济系 Faculty",
+          "body":"复旦大学经济学院经济系 Faculty",
           "tag":"发展和政治经济学 | 中国经济史",
           "url":"https://www.frankchenshuo.com/"
         },
@@ -834,8 +846,8 @@
         },
         {
           "title":"徐轶青",
-          "body":"斯坦福大学政治系 Faculty",
-          "tag":"量化社科 | 传播政治学 | 中国政治",
+          "body":"斯坦福大学政治系 Faculty | 传播政治学",
+          "tag":"量化社科方法",
           "url":"https://yiqingxu.org/"
         },
         {
@@ -857,7 +869,7 @@
           "url":"https://scholar.harvard.edu/yuhuawang"
         },
         {
-          "title":"刘荣耀 | Glory M. Liu",
+          "title":"刘荣耀 Glory M. Liu",
           "body":"约翰霍普金斯大学经济与社会中心 Faculty",
           "tag":"政治思想史 | 经济思想史",
           "url":"https://www.gloryliu.com/"
@@ -870,8 +882,8 @@
         },
         {
           "title":"陈强",
-          "body":"山东大学经济学院 Faculty",
-          "tag":"经济计量理论 | 机器学习 | 中国史",
+          "body":"山东大学经济学院 Faculty | 经济计量理论",
+          "tag":"机器学习 | 中国史",
           "url":"http://econometrics-stata.com/"
         },
         {
@@ -881,14 +893,14 @@
           "url":"https://www.xiaoshengmu.com/"
         },
         {
-          "title":"Walter E. Nicholson | 沃尔特 · 尼科尔森",
-          "body":"Amherst College－Faculty",
+          "title":"Walter E. Nicholson 沃尔特 · 尼科尔森",
+          "body":"Amherst_College Faculty",
           "tag":"微观经济教学 | 劳动经济学",
           "url":"https://wenicholson.people.amherst.edu/"
         },
         {
-          "title":"Ariel Rubinstein | 鲁宾斯坦",
-          "body":"纽约大学经济系 Faculty",
+          "title":"Ariel Rubinstein",
+          "body":"纽约大学经济系 Faculty 鲁宾斯坦",
           "tag":"微观经济理论 | 微观经济教学",
           "url":"https://arielrubinstein.tau.ac.il/"
         },
@@ -918,8 +930,8 @@
         },
         {
           "title":"雷蕾",
-          "body":"西南财经大学经济与管理研究院 Faculty",
-          "tag":"家庭、劳动与健康经济学 | 家庭金融",
+          "body":"西南财经大学经济与管理研究院 Faculty | 家庭金融",
+          "tag":"家庭、劳动与健康经济学",
           "url":"https://sites.google.com/view/leileitilburg/home"
         },
         {
@@ -943,7 +955,7 @@
         {
           "title":"Yu Zhang",
           "body":"华中师大本科 南京大学硕士 上海交大经管院 PhD",
-          "tag":"政治经济学 | 发展经济学 | 政治科学",
+          "tag":"发展和政治经济学 | 政治科学",
           "url":"https://www.yuzhang.net/"
         },
         {
@@ -957,12 +969,6 @@
           "body":"北京大学社会学系 Faculty",
           "tag":"地方发展 | 中国社会传统",
           "url":"http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=66"
-        },
-        {
-          "title":"陈硕",
-          "body":"复旦大学经济学院 Faculty",
-          "tag":"中国经济史 | 中国地方经济",
-          "url":"https://www.frankchenshuo.com/"
         },
         {
           "title":"Maya Carlin",
@@ -1025,8 +1031,8 @@
         },
         {
           "title":"钱军辉",
-          "body":"上海交通大学 经管院 Faculty",
-          "tag":"经济计量理论 | 本科教学 | 国际金融",
+          "body":"上海交通大学 经管院 Faculty | 本科教学",
+          "tag":"经济计量理论 | 国际金融",
           "url":"https://www.jhqian.org/"
         },
         {
@@ -1036,15 +1042,15 @@
           "url":"https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm"
         },
         {
-          "title":"中村信弘 | Nobuhiro Nakamura",
-          "body":"一桥大学经管研究科 Faculty",
+          "title":"中村信弘",
+          "body":"Nobuhiro Nakamura | 一桥大学经管研究科 Faculty",
           "tag":"金融计量理论 | 计量金融教学",
           "url":"https://www.fs.hub.hit-u.ac.jp/staff-research/faculty/000701.php"
         },
         {
           "title":"A. Colin Cameron",
-          "body":"UC－Davis 经济系 Faculty | Microeconometrics Using Stata 作者",
-          "tag":"截面数据计量理论",
+          "body":"UC－Davis 经济系 Faculty | 截面数据计量理论",
+          "tag":"Microeconometrics Using Stata",
           "url":"https://cameron.econ.ucdavis.edu/"
         },
         {
@@ -1138,8 +1144,8 @@
         },
         {
           "title":"黎云波",
-          "body":"聚味轩酒楼（彭州）总经理 & 总厨",
-          "tag":"四分钟以下竖视频 | 川西平原传统菜",
+          "body":"聚味轩酒楼（彭州）总经理 & 总厨 | 四分钟以下竖视频",
+          "tag":"川西平原传统菜",
           "url":"https://space.bilibili.com/61690678"
         }
       ]
@@ -1211,6 +1217,12 @@
           "body": "纽约大学斯特恩商学院 Faculty",
           "tag": "Corporate Finance",
           "url": "https://pages.stern.nyu.edu/~adamodar/"
+        },
+        {
+          "title":"何治国",
+          "body":"斯坦福商学院 金融 Faculty",
+          "tag":"金融市场 | 宏观金融",
+          "url":"https://zhiguohe.net/"
         },
         {
           "title": "左祥太",

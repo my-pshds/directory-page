@@ -996,8 +996,8 @@
         }
       ]
     },
-    {"title": "统计人",
-      "category":"pst",
+    {"title": "理学人",
+      "category":"psc",
       "content":[
         {
           "title":"Bruce E. Hansen",
@@ -1052,12 +1052,7 @@
           "body":"IU-Bloomington 经济系 Faculty",
           "tag":"微观经济计量理论",
           "url":"https://www.pravinktrivedi.com/"
-        }
-      ]
-    },
-    {"title": "数学人",
-      "category": "pmt",
-      "content": [
+        },
         {
           "title": "Martin Hairer",
           "body": "帝国理工数学系 Faculty",
@@ -1149,8 +1144,8 @@
         }
       ]
     },
-    {"title": "信科人",
-      "category":"pis",
+    {"title": "工学人",
+      "category":"egn",
       "content":[
         {
           "title":"Anish Athalye",

@@ -39,6 +39,12 @@
           "url":"https://katex.org/"
         },
         {
+          "title":"清华大学飞跃手册",
+          "body":"校内传帮带的留学经验文档",
+          "tag":"用 MkDocs 做的",
+          "url":"https://feiyue.online/"
+        },
+        {
           "title":"中国志愿服务网",
           "body":"共青团信息化支持平台 | 志愿者活动信息发布和展示平台",
           "tag":"全国站－可切换到各省",

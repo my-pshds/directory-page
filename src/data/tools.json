@@ -564,6 +564,12 @@
           "url": "https://zhuanlan.zhihu.com/p/524823847"
         },
         {
+          "title":"Python 数据科学加速",
+          "body":"鲁蔚征、秦续业等人写的 Python 并行加速教程",
+          "tag":"Data + AI Lab 的中文原版",
+          "url":"https://scale-py.godaai.org/"
+        },
+        {
           "title":"Typst 中文教程",
           "body":"又称「小蓝书」",
           "tag":"网页在线版",

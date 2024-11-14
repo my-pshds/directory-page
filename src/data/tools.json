@@ -570,6 +570,12 @@
           "url": "https://zhuanlan.zhihu.com/p/524823847"
         },
         {
+          "title":"Statology",
+          "body":"应用统计图文教程，从统计学知识入门科普到机器学习和多种统计编程语言",
+          "tag":"Zach Bobbitt 个人主办",
+          "url":"https://www.statology.org/"
+        },
+        {
           "title":"Python 数据科学加速",
           "body":"鲁蔚征、秦续业等人写的 Python 并行加速教程",
           "tag":"Data + AI Lab 的中文原版",
@@ -792,7 +798,7 @@
           "url":"https://dec41.user.srcf.net/notes/"
         },
         {
-          "title":"AmericanLiterature",
+          "title":"American Literature",
           "body":"美国经典文学作品文本分类分作者收录，特意照顾中小学教师",
           "tag":"有广告 | 有搜索栏",
           "url":"https://americanliterature.com/"

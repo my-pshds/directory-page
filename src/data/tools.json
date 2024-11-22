@@ -385,6 +385,12 @@
           "url": "https://zbib.org/"
         },
         {
+          "title":"TeX to Typst",
+          "body":"将 LaTeX 代码转化为 Typst 语言",
+          "tag":"Web App",
+          "url":"https://qwinsi.github.io/tex2typst-webapp/"
+        },
+        {
           "title":"云库工具",
           "body":"几十类在线文件格式转换，每类有几十到两千种不等",
           "tag":"部分功能无限免费，部分功能有限免费",
@@ -833,6 +839,12 @@
           "url": "https://sites.google.com/view/mingli1/home"
         },
         {
+          "title":"林友宏",
+          "body":"厦门大学 经济学 Faculty",
+          "tag":"发展经济学｜计量史学",
+          "url":"https://linyouhong.com/"
+        },
+        {
           "title":"连晨",
           "body":"UC－Berkeley 经济系 Faculty | 北大数院本科",
           "tag":"行为经济学 | 宏观经济",
@@ -1259,6 +1271,12 @@
           "body": "纽约大学斯特恩商学院 Faculty",
           "tag": "Corporate Finance",
           "url": "https://pages.stern.nyu.edu/~adamodar/"
+        },
+        {
+          "title":"刘岩",
+          "body":"武汉大学 金融系 Faculty",
+          "tag":"商业银行｜宏观经济",
+          "url":"http://www.liuyanecon.com/"
         },
         {
           "title":"何治国",

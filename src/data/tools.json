@@ -22,6 +22,12 @@
           "url":"https://sms-activate.io/cn/"
         },
         {
+          "title":"Academic Positions",
+          "body":"从瑞典发源的高校教职招聘平台",
+          "tag":"暂时不支持简体中文",
+          "url":"https://academicpositions.com/"
+        },
+        {
           "title":"NameSilo",
           "body":"功能完善稳定的域名注册管理商之中第一年初始价格最实惠的",
           "tag":"可批量管理多个域名的网络配置",
@@ -37,6 +43,12 @@
           "body":"走在前列的轻量快速渲染 LaTeX 语法数学公式插件",
           "tag":"无任何 dependency",
           "url":"https://katex.org/"
+        },
+        {
+          "title":"Boxicons",
+          "body":"SVG｜CSS｜Web 元素｜NPM｜CDN",
+          "tag":"开源图标库",
+          "url":"https://boxicons.com/"
         },
         {
           "title":"清华大学飞跃手册",
@@ -55,6 +67,12 @@
           "body":"尚未完工",
           "tag":"UI很好看",
           "url":"https://typst-doc-cn.github.io/guide/"
+        },
+        {
+          "title":"daisy UI",
+          "body":"提供海量现成组件，用 npm 或 yarn",
+          "tag":"基于 Tailwind CSS",
+          "url":"https://daisyui.com/"
         },
         {
           "title":"高校毕业生到国际组织实习岗位信息",
@@ -393,7 +411,7 @@
         {
           "title":"云库工具",
           "body":"几十类在线文件格式转换，每类有几十到两千种不等",
-          "tag":"部分功能无限免费，部分功能有限免费",
+          "tag":"有功能无限免费，有功能有限免费",
           "url":"https://libkit.cn/"
         },
         {
@@ -413,6 +431,12 @@
           "body":"英文写作辅助工具，整句搜索引擎技术",
           "tag":"翻译 | 重写 | 改句子 | 编辑器 | PDF",
           "url":"https://app.ludwig.guru/"
+        },
+        {
+          "title":"Astro Themes",
+          "body":"Built At Lightspeed 提供的主题模板列表",
+          "tag":"浏览翻阅比官网更方便",
+          "url":"https://www.astrothemes.dev/"
         },
         {
           "title":"nbviewer",
@@ -529,7 +553,7 @@
           "url":"https://pddon.com/"
         },
         {
-          "title":"LaTeXLive",
+          "title":"LaTeX Live",
           "body":"北京千涧技术发展公司提供的在线 LaTeX 公式编辑器",
           "tag":"模板调用 | 图片识别",
           "url":"https://www.latexlive.com/"

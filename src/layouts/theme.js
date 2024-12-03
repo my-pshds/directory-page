@@ -30,6 +30,22 @@ const reflectPreference = () => {
   document
     .querySelector('#theme-toggle')
     ?.setAttribute('aria-label', theme.value)
+
+    if (theme.value === 'dark') {
+      document.documentElement.style.setProperty('--background', '#21373d');
+      document.documentElement.style.setProperty('--support-info', '#fffef9');
+      document.documentElement.style.setProperty('--text-secondary', '#FFFFFF');
+      document.documentElement.style.setProperty('--text-primary', '#d0deaa');
+      document.documentElement.style.setProperty('--background-secondary', '#15231b');
+      document.documentElement.style.setProperty('--background-selected', '#4b2e2b');
+    } else {
+      document.documentElement.style.setProperty('--background', '#e9f2f1');
+      document.documentElement.style.setProperty('--support-info', '#1e1a71');
+      document.documentElement.style.setProperty('--text-secondary', '#1e2f03');
+      document.documentElement.style.setProperty('--text-primary', '#400000');
+      document.documentElement.style.setProperty('--background-secondary', '#eddcf300');
+      document.documentElement.style.setProperty('--background-selected', '#f3dde5e2');
+    }
 }
 
 const theme = {

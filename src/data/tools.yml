@@ -573,6 +573,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 周晓岚
+        body: 山东大学经济学院 Faculty
+        tag: 产业组织 Empirical
+        url: https://faculty.sdu.edu.cn/zhouxiaolan1/
+      - title: 陈婷
+        body: 香港浸会大学 经济系 Faculty
+        tag: 政治和发展经济学｜计量经济史
+        url: https://www.chenting.info/
       - title: 李明
         body: 香港中文大学（深圳）经管学院 Faculty
         tag: 当代中国政治经济问题
@@ -826,6 +834,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: Vincent Herrmann
+        body: Lugano 大学 IDSIA PhD｜本硕学钢琴 博士学 AI
+        tag: 机器学习｜信息论
+        url: 
       - title: Anish Athalye
         body: MIT CSAIL－PhD
         tag: 程序员工具课程

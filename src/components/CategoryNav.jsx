@@ -1,5 +1,5 @@
 import "./CategoryNav.css";
-import data from "../data/tools.json";
+import data from "../data/tools.yml";
 
 import CategoryNavItem from "./CategoryNavItem";
 

@@ -1,7 +1,7 @@
 import Card from "./Card";
 import "./CardsContainer.css";
 
-import data from "../data/tools.json"
+import data from "../data/tools.yml"
 
 export default function CardsContainer(props) {
   const { filter } = props;

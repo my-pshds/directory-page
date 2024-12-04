@@ -69,12 +69,13 @@ const { site, title, tagline } = Astro.props;
         <h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">
           {title}
         </h1>
-        <p class="nu-c-fs-normal nu-u-text--secondary description-text">{tagline}</p>
+        <p class="nu-c-fs-normal nu-u-text--secondary description-text">{tagline}<br><a 
+          href="/help" style="text-decoration: none;">特别说明</a></p>
       </div>
     </header>
     <slot />
     
-    <div class="footer">
+    <div class="footer" >
       <p>如需搜索，可尝试在「通览」页面 Ctrl+F</p>
       <p>多谢&thinsp;<a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>&thinsp;开发的&thinsp;<a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">Directory</a>&thinsp;模板</p>
     </div>
@@ -215,7 +216,7 @@ const { site, title, tagline } = Astro.props;
     font-style: normal;
     color: var(--text-secondary-alt);
     font-size: var(--desktop-body-sm);
-    line-height: var(--lh-desktop-body);
+    line-height: 1.1em;
   }
 
   @media (max-width: 30rem) {

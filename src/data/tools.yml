@@ -398,6 +398,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: 看见（统计）理论
+        body: 可视化概率统计入门
+        tag: 小学生就能看
+        url: https://seeing-theory.brown.edu/cn.html
       - title: momo 知乎笔记
         body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
         tag: 笔记－金融 | 各种各样经济学

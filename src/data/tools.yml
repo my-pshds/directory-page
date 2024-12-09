@@ -398,6 +398,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: 因果推断实用计量方法
+        body: 邱嘉平写的2020年出版书配套网站
+        tag: 有课件可下载
+        url: https://yinguotuiduan.org
       - title: 看见（统计）理论
         body: 可视化概率统计入门
         tag: 小学生就能看

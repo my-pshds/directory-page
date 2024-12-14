@@ -39,6 +39,8 @@ const reflectPreference = () => {
       document.documentElement.style.setProperty('--background-secondary', '#15231b');
       document.documentElement.style.setProperty('--background-selected', '#4b2e2b');
       document.documentElement.style.setProperty('--text-secondary-alt', '#FFFFFF');
+      document.documentElement.style.setProperty('--link-color', 'Plum');
+      if (logo) logo.src = '/logo-dark.svg';
     } else {
       document.documentElement.style.setProperty('--background', '#e9f2f1');
       document.documentElement.style.setProperty('--support-info', '#1e1a71');
@@ -47,6 +49,8 @@ const reflectPreference = () => {
       document.documentElement.style.setProperty('--background-secondary', '#eddcf300');
       document.documentElement.style.setProperty('--background-selected', '#f3dde5e2');
       document.documentElement.style.setProperty('--text-secondary-alt', '#000000');
+      document.documentElement.style.setProperty('--link-color', 'DarkMagenta');
+      if (logo) logo.src = '/logo.svg';
     }
 }
 

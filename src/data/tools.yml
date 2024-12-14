@@ -263,6 +263,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: Snippet Generator
+        body: Paweł Grzybek 开发的在线工具，代码段转成 snippet 格式
+        tag: VS Code｜Sublime Text｜Atom
+        url: https://snippet-generator.app/
       - title: ZoteroBib
         body: Zotero 提供的网页在线轻量引文生成工具
         tag: 参考文献 | 引证格式
@@ -581,6 +585,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 刁文天
+        body: 上海财经大学经济学院经济史学系 Faculty
+        tag: 中国经济史｜非正式制度
+        url: https://sites.google.com/view/wentiandiao/
+      - title: 田源
+        body: NUS 中国研究系 历史 Faculty
+        tag: 近代微观商业法律史
+        url: https://fass.nus.edu.sg/cs/people/tian-yuan-%E7%94%B0%E6%BA%90/
       - title: 李嘉楠
         body: 厦门大学经济学院经济学系 Faculty
         tag: 发展和国际经济学｜中国近代经济史

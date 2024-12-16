@@ -402,6 +402,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: NLP of Chinese Text Data (with code)
+        body: 昆山杜克大学博士生李佩源提供
+        tag: 一系列网址链接
+        url: https://www.oscarpeiyuanl.com/code
       - title: 因果推断实用计量方法
         body: 邱嘉平写的 2020 年出版书配套网站
         tag: 有课件可下载
@@ -585,6 +589,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 魏宇辰
+        body: 香港大学商学院 经济学博士生
+        tag: 发展经济学 经济史
+        url: https://ycwei99.weebly.com/
       - title: 杨嬛
         body: 上海财经大学 区域＆城市 Faculty
         tag: 历史文化影响现代经济

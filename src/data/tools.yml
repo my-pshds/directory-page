@@ -585,6 +585,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 贾瑞雪
+        body: UCSD 经济学 Faculty
+        tag: 发展和政治经济学｜经济史
+        url: https://www.ruixuejia.com/
       - title: 刁文天
         body: 上海财经大学经济学院经济史学系 Faculty
         tag: 中国经济史｜非正式制度
@@ -862,6 +866,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 郭飞
+        body: 旧式网红 蚂蚁金服 算法岗
+        tag: GitHub 和 知乎
+        url: https://www.guofei.site/
       - title: Vincent Herrmann
         body: Lugano 大学 IDSIA PhD｜本硕学钢琴 博士学 AI
         tag: 机器学习｜信息论

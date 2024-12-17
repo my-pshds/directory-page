@@ -840,6 +840,10 @@ tools:
   - title: 理学人
     category: psc
     content:
+      - title: 黄正华
+        body: 武汉大学 数学与统计学院 信息与计算科学系 Faculty
+        tag: 本科数学基础课教学
+        url: http://aff.whu.edu.cn/huangzh/
       - title: Bruce E. Hansen
         body: Wisconsin-Madison 经济系 Faculty
         tag: 经济计量理论 | 计量经济教学

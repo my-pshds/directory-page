@@ -402,12 +402,20 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: 因果推断：从概念到实践
+        body: Causal Inference for the Brave and True 的中文翻译版
+        tag: 仅 ipynb 格式｜Gitee 和 GitHub 都有
+        url: https://gitee.com/xieliaing/causal-inference-intro-gitee
+      - title: Causal Inference for The Brave and True
+        body: Python 计量经济学网页书
+        tag: Matheus Facure｜另有中文翻译版
+        url: https://matheusfacure.github.io/python-causality-handbook
       - title: NLP of Chinese Text Data (with code)
         body: 昆山杜克大学博士生李佩源提供
         tag: 一系列网址链接
         url: https://www.oscarpeiyuanl.com/code
       - title: 因果推断实用计量方法
-        body: 邱嘉平写的 2020 年出版书配套网站
+        body: 邱嘉平 2020 年出版书配套网站
         tag: 有课件可下载
         url: https://yinguotuiduan.org
       - title: 看见（统计）理论
@@ -589,6 +597,18 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 刘立之
+        body: 乔治城大学 政府系 Faculty
+        tag: 当代发展政治经济学
+        url: https://www.lizhiliu.com/
+      - title: 李莉
+        body: 华东师范大学经济系 Faculty
+        tag: 劳动和发展经济学｜水资源
+        url: https://liliecon.weebly.com/
+      - title: 张俊森
+        body: 香港中文大学经济系 Faculty
+        tag: 发展和家庭经济学
+        url: https://www.cuhk.edu.hk/eco/staff/jszhang/jzhang.htm
       - title: 魏宇辰
         body: 香港大学商学院 经济学博士生
         tag: 发展经济学 经济史

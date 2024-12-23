@@ -597,6 +597,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 杜正贞
+        body: 浙江大学历史学院 Faculty
+        tag: 中国古代历史社会学
+        url: https://person.zju.edu.cn/0005529
       - title: 刘立之
         body: 乔治城大学 政府系 Faculty
         tag: 当代发展政治经济学

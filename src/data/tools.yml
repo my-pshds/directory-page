@@ -402,6 +402,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: QuantStart
+        body: 从衍生品定价发展来的算法交易教程
+        tag: Quantcademy 的入门版本
+        url: https://www.quantstart.com/
       - title: 因果推断：从概念到实践
         body: Causal Inference for the Brave and True 的中文翻译版
         tag: 仅 ipynb 格式｜Gitee 和 GitHub 都有

@@ -406,6 +406,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: The Effect
+        body: Nick C. Huntington-Klein 写的因果研究设计
+        tag: 网页形式｜在线免费
+        url: https://theeffectbook.net/
       - title: QuantStart
         body: 从衍生品定价发展来的算法交易教程
         tag: Quantcademy 的入门版本
@@ -432,10 +436,10 @@ tools:
         url: https://seeing-theory.brown.edu/cn.html
       - title: momo 知乎笔记
         body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
-        tag: 笔记－金融 | 各种各样经济学
+        tag: 笔记－金融｜各种各样经济学
         url: 'https://zhuanlan.zhihu.com/p/524823847'
       - title: 深度学习从入门到面试
-        body: 学习文档
+        body: 学习文档｜网页形式
         tag: 百度飞桨社区提供
         url: 'https://paddlepedia.readthedocs.io/'
       - title: AI－EDU
@@ -605,6 +609,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 何国俊
+        body: 香港大学 经管学院 Faculty
+        tag: 环境和发展经济学
+        url: https://www.guojunhe.com/
+      - title: 曹一鸣
+        body: 香港大学 经管学院 经济系 Faculty
+        tag: 发展和政治经济学
+        url: https://www.yimingcao.com/
       - title: 左雪静
         body: 复旦大学 经济学院 公共经济学系 Faculty
         tag: 劳动经济学｜行为和实验经济学

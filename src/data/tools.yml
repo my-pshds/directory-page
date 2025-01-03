@@ -609,6 +609,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 王绍达
+        body: 芝加哥大学 公共政策学院 Faculty
+        tag: 发展和政治经济学
+        url: http://www.sdwang.org/
       - title: 朱逸飞
         body: 香港大学 社会科学学院 政治系 PhD
         tag: https://sites.google.com/view/frank-yifei/
@@ -998,6 +1002,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 赵世钰
+        body: 西湖大学 工学院 人工智能系 Faculty
+        tag: 机器人系统｜强化学习教学
+        url: https://www.shiyuzhao.net/
       - title: 郭飞
         body: 旧式网红 蚂蚁金服 算法岗
         tag: GitHub＆知乎

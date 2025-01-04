@@ -6,7 +6,8 @@ const onClick = () => {
     ? 'dark'
     : 'light'
 
-  setPreference()
+  setPreference();
+  reflectPreference()
 }
 
 const getColorPreference = () => {
@@ -58,7 +59,10 @@ const theme = {
   value: getColorPreference(),
 }
 
-reflectPreference()
+reflectPreference();
+
+// ...existing code...
+document.querySelector('#theme-toggle')?.addEventListener('click', onClick);
 
 window.onload = () => {
   reflectPreference()

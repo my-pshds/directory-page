@@ -192,6 +192,10 @@ tools:
   - title: 阅读
     category: reading
     content:
+      - title: Polisci Speaker Series
+        body: 有美国背景的若干中国政治学者发起的线上会议交流
+        tag: 也包括政治经济学、政治传播等
+        url: http://polisciworkshopchina.cn/
       - title: CSIS｜美国战略和国际研究院
         body: 从乔治城大学分离出的跨党派智库单位
         tag: 外交政策｜国家安全
@@ -267,6 +271,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: 异体字查询
+        body: 可查单字、注音、汉语拼音、仓颉码、四角号码
+        tag: 中华民国教育部提供
+        url: https://dict.variants.moe.edu.tw/
       - title: Snippet Generator
         body: Paweł Grzybek 开发的在线工具，代码段转成 snippet 格式
         tag: VS Code｜Sublime Text｜Atom
@@ -406,6 +414,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: Speech and Language Processing
+        body: 两位自然语言计算机处理写的教材
+        tag: PDF 格式｜已更新到第三版
+        url: https://web.stanford.edu/~jurafsky/slp3/
       - title: The Effect
         body: Nick C. Huntington-Klein 写的因果研究设计
         tag: 网页形式｜在线免费
@@ -414,9 +426,9 @@ tools:
         body: 从衍生品定价发展来的算法交易教程
         tag: Quantcademy 的入门版本
         url: https://www.quantstart.com/
-      - title: 因果推断：从概念到实践
+      - title: 因果推断-从概念到实践
         body: Causal Inference for the Brave and True 的中文翻译版
-        tag: 仅 ipynb 格式｜Gitee 和 GitHub 都有
+        tag: ipynb 格式｜Gitee 和 GitHub 都有
         url: https://gitee.com/xieliaing/causal-inference-intro-gitee
       - title: Causal Inference for The Brave and True
         body: Python 计量经济学网页书

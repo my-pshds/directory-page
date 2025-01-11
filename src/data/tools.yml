@@ -463,7 +463,7 @@ tools:
         tag: Gabriele Oettingen 团队
         url: 'https://woopmylife.org/zh-hans/home'
       - title: Statology
-        body: 应用统计教程，从统计学知识入门科普到机器学习和多种统计编程语言
+        body: 应用统计教程，从统计入门科普到机器学习和多种统计编程语言
         tag: Zach Bobbitt 个人主办
         url: 'https://www.statology.org/'
       - title: Python 数据科学加速

@@ -621,6 +621,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 张宇
+        body: 北京大学 光华管理学院 Faculty
+        tag: 家庭金融｜宏观金融
+        url: http://www.yu-zhang-econ.com/
       - title: 刘丛
         body: 暨南大学 经济与社会研究院 经济学 Faculty
         tag: 发展｜政治｜中国经济史
@@ -870,7 +874,7 @@ tools:
         tag: 微观经济教学 | 劳动经济学
         url: 'https://wenicholson.people.amherst.edu/'
       - title: Ariel Rubinstein
-        body: 纽约大学 经济系 Faculty 鲁宾斯坦
+        body: 鲁宾斯坦，纽约大学 经济系 Faculty
         tag: 微观经济理论 | 微观经济教学
         url: 'https://arielrubinstein.tau.ac.il/'
       - title: 中村惠美

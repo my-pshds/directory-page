@@ -1136,6 +1136,14 @@ tools:
   - title: 搜索
     category: search
     content:
+      - title: Find Economic Articles with Data
+        body: 搜索经济学论文｜带数据和代码
+        tag: 简洁搜索页面
+        url: https://ejd.econ.mathematik.uni-ulm.de/
+      - title: Replication Wiki
+        body: 社会科学经验分析应用计量研究复现，尤其是经济学
+        tag: 具有 Wiki 标准形式的一切功能
+        url: https://replication.uni-goettingen.de/
       - title: 虫部落－快搜
         body: 虫部落社区提供搜索引擎聚合
         tag: 虫部落 | 搜索引擎

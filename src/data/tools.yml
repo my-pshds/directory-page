@@ -2,6 +2,10 @@ tools:
   - title: 办事
     category: admin
     content:
+      - title: NPM Mirror
+        body: npm 源的中国大陆镜像，可代替官方源
+        tag: 可以直接 web 方式
+        url: https://npmmirror.com/
       - title: 12388－总站
         body: 中央纪委国家监委举报总站，请注意属地和级别
         tag: 违纪 | 职务违法 | 申诉
@@ -192,6 +196,10 @@ tools:
   - title: 阅读
     category: reading
     content:
+      - title: COS｜统计之都
+        body: 旨在推广与应用统计学知识的网站，由志愿者社区维护
+        tag: Capital of Statistics
+        url: https://cosx.org/
       - title: Polisci Speaker Series
         body: 有美国背景的若干中国政治学者发起的线上会议交流
         tag: 也包括政治经济学、政治传播等
@@ -200,10 +208,6 @@ tools:
         body: 从乔治城大学分离出的跨党派智库单位
         tag: 外交政策｜国家安全
         url: https://www.csis.org/
-      - title: Andrew Huberman
-        body: 斯坦福 医学院 神经生物 Faculty | 面向学界以外的科普网页
-        tag: 脑科学 | 行为科学 | 精神科
-        url: https://www.hubermanlab.com/
       - title: CLHM｜华东师大民间记忆与地方文献研究中心
         body: Local History & Memory
         tag: 历史系平台单位之一
@@ -621,6 +625,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 奚锡灿
+        body: 复旦大学 经济学院 Faculty
+        tag: 宏观＆发展＆环境经济学
+        url: https://sites.google.com/site/xicanxi/
       - title: Xinde "James" Ji
         body: 佛罗里达大学 食品和资源经济学系 Faculty｜复旦本科 07 级
         tag: 环境经济学｜地理空间数据
@@ -948,6 +956,10 @@ tools:
   - title: 理学人
     category: psc
     content:
+      - title: 潘建瑜
+        body: 华东师范大学 数学科学学院 Faculty｜页面有很多教学课件和资料可下载
+        tag: 数值代数｜科学计算
+        url: https://math.ecnu.edu.cn/~jypan/
       - title: 陈乐偲
         body: 清华大学交叉信息研究院 PhD
         tag: 最优化算法｜研究＆助教

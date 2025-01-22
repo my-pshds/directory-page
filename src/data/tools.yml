@@ -275,6 +275,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: CloudConvert
+        body: 网页工具，文件转换，两百多种格式
+        tag: 每天 10 次免费
+        url: https://cloudconvert.com/
       - title: 异体字查询
         body: 可查单字、注音、汉语拼音、仓颉码、四角号码
         tag: 中华民国教育部提供

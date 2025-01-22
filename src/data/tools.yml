@@ -956,6 +956,10 @@ tools:
   - title: 理学人
     category: psc
     content:
+      - title: Jollyup
+        body: 中学数学老师的呢喃细语
+        tag: 数学｜艺术｜求是
+        url: https://jollyup.asia/
       - title: 潘建瑜
         body: 华东师范大学 数学科学学院 Faculty｜页面有很多教学课件和资料可下载
         tag: 数值代数｜科学计算

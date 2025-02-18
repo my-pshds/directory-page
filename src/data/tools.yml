@@ -29,6 +29,14 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: FLATICON
+        body: Vector icons and stickers
+        tag: Freepik 提供
+        url: https://www.flaticon.com/
+      - title: Anna’s Archive
+        body: The largest truly open library in human history
+        tag: 解放了一系列影子图书馆
+        url: https://zh.annas-archive.org/
       - title: KaTeX
         body: 走在前列的轻量快速渲染 LaTeX 语法数学公式插件
         tag: 无任何 dependency
@@ -196,6 +204,14 @@ tools:
   - title: 阅读
     category: reading
     content:
+      - title: sssr.su
+        body: 苏联研究
+        tag: 非盈利档案网站
+        url: https://sssr.su/
+      - title: Конструкторское бюро специального машиностроения
+        body: 
+        tag: 原苏联海军炮兵中央设计局
+        url: https://xn--90arht.xn--p1ai/
       - title: COS｜统计之都
         body: 旨在推广与应用统计学知识的网站，由志愿者社区维护
         tag: Capital of Statistics
@@ -275,6 +291,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: 扣子｜Coze
+        body: API 调用大语言模型｜让用户自己搭建应用
+        tag: 字节跳动旗下平台
+        url: https://www.coze.cn/
       - title: CloudConvert
         body: 网页工具，文件转换，两百多种格式
         tag: 每天 10 次免费
@@ -422,6 +442,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: CausalML Book
+        body: 前沿机器学习因果推断体系化教科书
+        tag: 跨国、跨州、跨校、跨科作者合著
+        url: https://causalml-book.org/
       - title: Speech and Language Processing
         body: 两位自然语言计算机处理写的教材
         tag: PDF 格式｜已更新到第三版

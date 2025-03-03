@@ -653,6 +653,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 王润楠
+        body: 武汉大学 经济与管理学院 经济系 Faculty
+        tag: 经济史｜地理＆政治＆发展
+        url: https://sites.google.com/view/rnwang/
+      - title: 白营
+        body: 香港中文大学 经济系 Faculty
+        tag: 发展｜政治｜中国经济史
+        url: https://yingbai.org/
       - title: 魏金霖
         body: 香港科技大学 社会科学部 经济学 Faculty
         tag: 区域空间经济史｜发展经济学
@@ -826,7 +834,7 @@ tools:
         tag: 近代微观商业法律史
         url: https://fass.nus.edu.sg/cs/people/tian-yuan-%E7%94%B0%E6%BA%90/
       - title: 李嘉楠
-        body: 厦门大学 经济学院 经济学系 Faculty
+        body: 厦门大学 经济学院 经济系 Faculty
         tag: 发展和国际经济学｜中国近代经济史
         url: https://faculty.xmu.edu.cn/LJN/zh_CN/index/569565/
       - title: 张晓鸣

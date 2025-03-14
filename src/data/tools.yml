@@ -713,10 +713,6 @@ tools:
         body: 美国西北大学 传播学 Faculty
         tag: 社会计算｜互联网传播
         url: https://yingdanlu.com/
-      - title: 贾瑞雪
-        body: UC－San Diego 经济学 Faculty
-        tag: 发展和政治经济学｜中国古代史
-        url: https://www.ruixuejia.com/
       - title: 王绍达
         body: 芝加哥大学 公共政策学院 Faculty
         tag: 环境和发展中的政治经济学
@@ -773,10 +769,6 @@ tools:
         body: 暨南大学 经济学院 Faculty
         tag: 华侨经济学
         url: https://fanghaochen.github.io/homepage/
-      - title: 白营
-        body: 香港中文大学 经济系 Faculty
-        tag: 中国历史政治经济学
-        url: https://yingbai.org/
       - title: 袁松
         body: 浙江大学 经济学院 Faculty
         tag: 发展和政治经济学｜经济史

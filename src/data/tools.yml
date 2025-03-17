@@ -29,14 +29,14 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: iconify
+        body: Vjacheslav Trushkin 提供的开源图表聚合，旨在将开发者从商业图标的 Vendor Lock-in 中解放出来
+        tag: 独立开发者开发｜开源
+        url: https://icon-sets.iconify.design/
       - title: FLATICON
         body: Vector icons and stickers
         tag: Freepik 提供
         url: https://www.flaticon.com/
-      - title: Anna’s Archive
-        body: The largest truly open library in human history
-        tag: 解放了一系列影子图书馆
-        url: https://zh.annas-archive.org/
       - title: KaTeX
         body: 走在前列的轻量快速渲染 LaTeX 语法数学公式插件
         tag: 无任何 dependency
@@ -653,6 +653,38 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: Yuting Huang
+        body: 新加坡国立大学 统计和数据科学系 Faculty
+        tag: 技术教学｜劳动经济学｜国际贸易
+        url: https://yhuangyt.weebly.com/
+      - title: 胡志安
+        body: 中央财经大学 经济学院 Faculty｜解放後的中国大陆经济政策史
+        tag: 发展经济学｜政治经济学
+        url: https://zhianhu.weebly.com/
+      - title: 滑翔闪
+        body: 发展经济学｜经济增长
+        tag: 混合 Blog
+        url: https://blog.huaxiangshan.com/
+      - title: Finneas
+        body: 中央民族大学 经济学 本科生 2021－2025
+        tag: 混合 Blog
+        url: https://blog.econfinny.com/
+      - title: 王洋
+        body: 上海交通大学 经管院 经济系 Faculty
+        tag: 劳动｜发展｜城市｜区域
+        url: https://sites.google.com/view/econyang/
+      - title: 欧声亮
+        body: 上海交通大学 经管院 经济系 Faculty
+        tag: 货币｜宏观
+        url: https://shengliangou.weebly.com/
+      - title: 郭士祺
+        body: 上海交通大学 经管院 经济系 Faculty
+        tag: 发展＆政治＆环境
+        url: https://sites.google.com/site/stevenshiqiguo/
+      - title: 段伊戈
+        body: 上海交通大学 经管院 经济系 Faculty
+        tag: 劳动＆城市｜通勤＆工资
+        url: https://sites.google.com/view/yige-duan/
       - title: 王润楠
         body: 武汉大学 经济与管理学院 经济系 Faculty
         tag: 经济史｜地理＆政治＆发展
@@ -996,6 +1028,10 @@ tools:
   - title: 理学人
     category: psc
     content:
+      - title: 陶哲轩
+        body: UC－Los Angeles 数学系 Faculty
+        tag: 论文＆说明文＆教学材料
+        url: https://terrytao.wordpress.com/
       - title: Jollyup
         body: 中学数学老师的呢喃细语
         tag: 数学｜艺术｜求是
@@ -1192,6 +1228,10 @@ tools:
   - title: 搜索
     category: search
     content:
+      - title: Anna’s Archive
+        body: The largest truly open library in human history
+        tag: 解放了一系列影子图书馆
+        url: https://zh.annas-archive.org/
       - title: Find Economic Articles with Data
         body: 搜索经济学论文｜带数据和代码
         tag: 简洁搜索页面

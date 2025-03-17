@@ -1146,6 +1146,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: SunMaple
+        body: 独立前端开发者｜2024 年创作了 Astro 最完整的中文主题
+        tag: 2026 年应届高考
+        url: https://www.saroprock.com/
       - title: 赵世钰
         body: 西湖大学 工学院 人工智能系 Faculty
         tag: 机器人系统｜强化学习教学

@@ -442,6 +442,10 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: Palmer Penguins
+        body: 用企鹅数据集快速入门 Stata 可视化操作
+        tag: Rios-Avila 提供
+        url: https://friosavila.github.io/stataviz/stataviz5.html
       - title: Using Quarto for Stata dynamic documents
         body: sysuse auto 案例
         tag: 基于 Jupyter 和 nbstata

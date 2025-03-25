@@ -442,12 +442,20 @@ tools:
   - title: 学习
     category: study
     content:
+      - title: Using Quarto for Stata dynamic documents
+        body: sysuse auto 案例
+        tag: 基于 Jupyter 和 nbstata
+        url: https://friosavila.github.io/playingwithstata/quarto/dynstat
+      - title: Treatment Effects
+        body: Francis J. DiTraglia 提供的处置效应课程材料
+        tag: 讲义｜幻灯片｜代码教学
+        url: https://www.treatment-effects.com/
       - title: CausalML Book
         body: 前沿机器学习因果推断体系化教科书
         tag: 跨国、跨州、跨校、跨科作者合著
         url: https://causalml-book.org/
       - title: Speech and Language Processing
-        body: 两位自然语言计算机处理写的教材
+        body: 自然语言计算机处理教材
         tag: PDF 格式｜已更新到第三版
         url: https://web.stanford.edu/~jurafsky/slp3/
       - title: The Effect
@@ -653,6 +661,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: Fernando Rios-Avila
+        body: Levy Economics Institute of Bard College 智库
+        tag: 应用计量软件操作技术教学
+        url: https://friosavila.github.io/
+      - title: Francis J. DiTraglia
+        body: 牛津大学 经济系 Faculty
+        tag: 应用计量教学｜联储智库
+        url: https://ditraglia.com/
       - title: Yuting Huang
         body: 新加坡国立大学 统计和数据科学系 Faculty
         tag: 技术教学｜劳动经济学｜国际贸易

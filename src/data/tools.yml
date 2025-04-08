@@ -614,7 +614,7 @@ tools:
         body: Michael Nielsen 撰写
         tag: 开源网页书 | 2019 年完稿
         url: http://neuralnetworksanddeeplearning.com/
-      - title: 《动手学深度学习》
+      - title: 动手学深度学习
         body: PyTorch | NumPy / MXNet | TensorFlow | PaddlePaddle
         tag: 网页在线简体中文 | 多种实现 
         url: https://zh.d2l.ai/
@@ -978,8 +978,8 @@ tools:
         tag: 制度经济学 | 当代中国政治经济问题
         url: http://www.niehuihua.com/
       - title: 陈强
-        body: 山东大学 经济学院 Faculty | 经济计量理论
-        tag: 机器学习 | 中国史
+        body: 山东大学 经济学院 Faculty
+        tag: 经济计量理论｜机器学习 | 中国史
         url: http://econometrics-stata.com/
       - title: 牟晓生
         body: 普林斯顿大学 经济系 Faculty | 2008 年 IMO 满分

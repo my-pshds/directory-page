@@ -291,6 +291,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: CN Zoomer Values
+        body: 专为简中互联网上玩网小登设计的意识形态测试
+        tag: 并不文雅
+        url: https://cnzv.github.io/
       - title: 扣子｜Coze
         body: API 调用大语言模型｜让用户自己搭建应用
         tag: 字节跳动旗下平台

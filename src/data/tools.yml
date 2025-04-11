@@ -204,6 +204,10 @@ tools:
   - title: 阅读
     category: reading
     content:
+      - title: AiDocZh
+        body: 类别｜介绍｜工具名称｜中文文档｜英文文档｜Github｜星标
+        tag: AI 工具中文文档库
+        url: https://www.aidoczh.com/
       - title: sssr.su
         body: 苏联研究
         tag: 非盈利档案网站

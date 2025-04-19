@@ -29,6 +29,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: AiDocZh
+        body: 类别｜介绍｜工具名称｜中文文档｜英文文档｜Github｜星标
+        tag: AI 工具中文文档库
+        url: https://www.aidoczh.com/
       - title: iconify
         body: Vjacheslav Trushkin 提供的开源图表聚合，旨在将开发者从商业图标的 Vendor Lock-in 中解放出来
         tag: 独立开发者开发｜开源
@@ -204,10 +208,10 @@ tools:
   - title: 阅读
     category: reading
     content:
-      - title: AiDocZh
-        body: 类别｜介绍｜工具名称｜中文文档｜英文文档｜Github｜星标
-        tag: AI 工具中文文档库
-        url: https://www.aidoczh.com/
+      - title: Macro Book
+        body: 写给学硕或直博一年级学生的宏观教材
+        tag: 数据驱动｜最新版本修订
+        url: https://phdmacrobook.org/
       - title: sssr.su
         body: 苏联研究
         tag: 非盈利档案网站
@@ -224,8 +228,8 @@ tools:
         body: 有美国背景的若干中国政治学者发起的线上会议交流
         tag: 也包括政治经济学、政治传播等
         url: http://polisciworkshopchina.cn/
-      - title: CSIS｜美国战略和国际研究院
-        body: 从乔治城大学分离出的跨党派智库单位
+      - title: 美国战略和国际研究院
+        body: CSIS｜从乔治城大学分离出的跨党派智库单位
         tag: 外交政策｜国家安全
         url: https://www.csis.org/
       - title: CLHM｜华东师大民间记忆与地方文献研究中心

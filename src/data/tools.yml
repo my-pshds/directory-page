@@ -259,7 +259,7 @@ tools:
         body: 仲殷旻编写计算机自学指南，受到北大信科院友强烈反响
         tag: 2021 年已完稿 | 中英双语
         url: https://csdiy.wiki/
-      - title: 因果推断-从概念到实践
+      - title: 因果推断－从概念到实践
         body: Causal Inference for the Brave and True 的中文翻译版
         tag: ipynb 格式｜Gitee 和 GitHub 都有
         url: https://gitee.com/xieliaing/causal-inference-intro-gitee
@@ -536,10 +536,6 @@ tools:
         body: 英文写作辅助工具，整句搜索引擎技术
         tag: 翻译 | 重写 | 改句子 | 编辑器 | PDF
         url: https://app.ludwig.guru/
-      - title: Astro Themes
-        body: Built At Lightspeed 提供的主题模板列表
-        tag: 浏览翻阅比官网更方便
-        url: https://www.astrothemes.dev/
       - title: nbviewer
         body: 指定 GitHub 公开库，生成直接浏览 ipynb 等格式的网页
         tag: 法国最大的云服务商免费托管
@@ -1159,7 +1155,7 @@ tools:
       - title: Vincent Herrmann
         body: Lugano 大学 IDSIA PhD｜本硕学钢琴 博士学 AI
         tag: 机器学习｜信息论
-        url: 
+        url: https://vincentherrmann.github.io/
       - title: Anish Athalye
         body: MIT CSAIL－PhD
         tag: 程序员工具课程
@@ -1278,9 +1274,13 @@ tools:
         body: 基于爬虫的网盘搜索聚合，但可能面临收费或其他门槛
         tag: 第三方网盘搜索
         url: http://www.chaonengso.com/
-  - title: 前端库
+  - title: 前端
     category: fr
     content:
+      - title: Astro Themes
+        body: Built At Lightspeed 提供的主题模板列表
+        tag: 浏览翻阅比官网更方便
+        url: https://www.astrothemes.dev/
       - title: Transfonter
         body: Alexey Ilyaskin 提供的服务，生成整套 font-face 文件夹和 css 语句
         tag: 字体文件转换

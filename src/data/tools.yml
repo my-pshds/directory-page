@@ -26,29 +26,80 @@ tools:
         body: 功能完善稳定的域名注册管理商之中第一年初始价格最实惠的
         tag: 可批量管理多个域名的网络配置
         url: https://www.namesilo.com/
-  - title: 查询
-    category: lookfor
+  - title: 文档
+    category: doc
     content:
       - title: AiDocZh
         body: 类别｜介绍｜工具名称｜中文文档｜英文文档｜Github｜星标
         tag: AI 工具中文文档库
         url: https://www.aidoczh.com/
-      - title: iconify
-        body: Vjacheslav Trushkin 提供的开源图表聚合，旨在将开发者从商业图标的 Vendor Lock-in 中解放出来
-        tag: 独立开发者开发｜开源
-        url: https://icon-sets.iconify.design/
-      - title: FLATICON
-        body: Vector icons and stickers
-        tag: Freepik 提供
-        url: https://www.flaticon.com/
       - title: KaTeX
         body: 走在前列的轻量快速渲染 LaTeX 语法数学公式插件
         tag: 无任何 dependency
         url: https://katex.org/
-      - title: Boxicons
-        body: SVG｜CSS｜Web 元素｜NPM｜CDN
-        tag: 开源图标库
-        url: https://boxicons.com/
+      - title: Typst 中文社区导航
+        body: 尚未完工
+        tag: UI很好看
+        url: https://typst-doc-cn.github.io/guide/
+      - title: Zotero 中文社区
+        body: 社区生态的志愿者非官方小组 | 维护 Zotero 中文文档
+        tag: 百科全书 | 插件下载 | CSL 样式
+        url: https://zotero-chinese.com/
+      - title: Julia 中文社区
+        body: 最先进的现代科学计算开源语言，没有之一
+        tag: 下载 | 文档 | 讨论 | 教程
+        url: https://cn.julialang.org/
+      - title: YAML 前言用法
+        body: ASSEMBLE 框架文档的章节 | 不是 YAML 自己网站的文档
+        tag: 有案例代码
+        url: https://assemble.io/docs/YAML-front-matter.html
+      - title: DuckDB
+        body: 暂时是和 SQL 语言配合最好的 Python 数据分析库
+        tag: 采用 Postgre | 上亿条数据无压力
+        url: https://duckdb.org/
+      - title: CVXPY 文档
+        body: Python 场景下做凸优化算法的库几乎唯一选择
+        tag: 有针对凸表达的算式规范要求
+        url: https://www.cvxpy.org/
+      - title: Anki 手册
+        body: Anki 的官方文档的中文翻译
+        tag: 记忆任务高效安排软件
+        url: https://open-spaced-repetition.github.io/anki-manual-zh-CN/
+      - title: CeTZ Documentation
+        body: CeTZ 是用于 Typst 绘图的包
+        tag: 全英文 | 入门 | 教程 | 文档
+        url: https://cetz-package.github.io/docs/
+      - title: Astro 文档
+        body: 内容驱动网站最先进 Web 前端框架，没有之一，无需编程基础
+        tag: 简体中文 | 详细入门教程
+        url: https://docs.astro.build/zh-cn/
+      - title: Docusaurus 文档
+        body: Markdown 目录结构网站最先进 Web 前端框架，没有之一
+        tag: 中英混杂 | 无需编程基础
+        url: https://docusaurus.io/zh-CN/
+      - title: Double ML
+        body: Python & R 语言双重机器学习程序包「DoubleML」使用文档
+        tag: 依赖 scikit-learn 和 mlr3
+        url: https://docs.doubleml.org/
+      - title: nbstata (jupyter)
+        body: Wisconsin-Madison 经济 PhD Tim Huegerich 开发内核插件
+        tag: Jupyter | 一站式调用 Stata
+        url: https://hugetim.github.io/nbstata/
+      - title: pyecharts 文档
+        body: 百度的开源数据可视化库 Echarts 的 Python 实现库
+        tag: 交互良好 | 图表精巧
+        url: https://pyecharts.org/
+  - title: 查询
+    category: lookfor
+    content:
+      - title: American Literature
+        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
+        tag: 有广告 | 有搜索栏
+        url: https://americanliterature.com/
+      - title: Cool Papers
+        body: 信科领域最新预印本 AI 推荐
+        tag: Powerd by Kimi
+        url: https://papers.cool/
       - title: 清华大学飞跃手册
         body: 校内传帮带的留学经验文档
         tag: 用 MkDocs 做的
@@ -57,14 +108,6 @@ tools:
         body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台
         tag: 全国站－可切换到各省
         url: https://chinavolunteer.mca.gov.cn/
-      - title: Typst 中文社区导航
-        body: 尚未完工
-        tag: UI很好看
-        url: https://typst-doc-cn.github.io/guide/
-      - title: daisy UI
-        body: 提供海量现成组件，用 npm 或 yarn
-        tag: 基于 Tailwind CSS
-        url: https://daisyui.com/
       - title: 高校毕业生到国际组织实习岗位信息
         body: 任职信息服务平台
         tag: 教育部学生服务与素质发展中心
@@ -85,10 +128,6 @@ tools:
         body: 利物浦大学提供
         tag: 新冠药物与同时用药的相互作用
         url: https://covid19-druginteractions.org/checker
-      - title: YAML 前言用法
-        body: ASSEMBLE 框架文档的章节 | 不是 YAML 自己网站的文档
-        tag: 有案例代码
-        url: https://assemble.io/docs/YAML-front-matter.html
       - title: 中国疾病预防控制中心
         body: 有链接可跳转到相关查询页面
         tag: CDC | 政策法规 | 统计数据
@@ -113,16 +152,12 @@ tools:
         body: 企业异常和失信查询
         tag: 国家市场监督管理总局
         url: https://www.gsxt.gov.cn/
-      - title: 菜鸟教程
-        body: 众多编程语言和技能，教程、参考双用
-        tag: 另有几种主流语言的测验题
-        url: https://www.runoob.com/
       - title: Online Etymology Dictionary
         body: 查询英语词汇的来源和演变
         tag: 业余爱好独立作者的项目
         url: https://www.etymonline.com/
       - title: Thesaurus.com
-        body: 英语同义词查询、词林 | 英文「小学」常识
+        body: 英语同义词查询、词林｜英文「小学」常识
         tag: 有广告
         url: https://www.thesaurus.com/
       - title: 词根词缀辞典
@@ -141,34 +176,6 @@ tools:
         body: 查询营养保健品有效与否，引用和循证较完善
         tag: 全英文 | 可按物品和功能查询
         url: https://examine.com/
-      - title: Quick Reference
-        body: 软件开发人员的技术栈快速查阅－是 Reference 的中文版
-        tag: 编程 | 前端 | CLI | 数据库 | 工具
-        url: https://quickref.cn/
-      - title: Zotero 中文社区
-        body: 社区生态的志愿者非官方小组 | 维护 Zotero 中文文档
-        tag: 百科全书 | 插件下载 | CSL 样式
-        url: https://zotero-chinese.com/
-      - title: Bootswatch
-        body: Bootstrap 社区提供的 26 个免费 CSS 主题
-        tag: 提供 CLI 安装和 API 使用
-        url: https://bootswatch.com/
-      - title: Bootstrap Icons
-        body: Bootstrap 社区提供的开源图标库－标签速查
-        tag: 嵌入式 | 外部 | Sprite | CSS | SVG
-        url: https://icons.getbootstrap.com/
-      - title: Icônes
-        body: 基于 Iconify 框架的图标速查表 & 搜索器
-        tag: 即时模糊搜索 | Mobile Friendly
-        url: https://icones.js.org/
-      - title: 中文网字计划
-        body: 大规模中文字体网络化工具和解决方案－Web Font 形式开源
-        tag: 免费可商用的 Web 字体文件
-        url: https://chinese-font.netlify.app/zh-cn/
-      - title: Julia 中文社区
-        body: 最先进的现代科学计算开源语言，没有之一
-        tag: 下载 | 文档 | 讨论 | 教程
-        url: https://cn.julialang.org/
       - title: GitHub Status
         body: 实时公布自身服务状态 | 如异常，你的故障不需自己解决
         tag: GitHub | 实时状态 | 故障排查
@@ -193,25 +200,207 @@ tools:
         body: 查询中国大陆手机号前七位的初始运营商和归属地市
         tag: 不适用携号转网
         url: https://telphone.cn/
-      - title: DuckDB
-        body: 暂时是和 SQL 语言配合最好的 Python 数据分析库
-        tag: 采用 Postgre | 上亿条数据无压力
-        url: https://duckdb.org/
-      - title: CVXPY 文档
-        body: Python 场景下做凸优化算法的库几乎唯一选择
-        tag: 有针对凸表达的算式规范要求
-        url: https://www.cvxpy.org/
       - title: AMS－STML
         body: 美国数学会－学生数学图书馆 | ISSN 1520-9121
         tag: 当代数学教材推荐
         url: https://bookstore.ams.org/content?PageName=stml
-  - title: 阅读
-    category: reading
+  - title: 教材
+    category: textbook
     content:
+      - title: Cambridge Notes
+        body: 剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记
+        tag: 从大一到研一，几千页
+        url: https://dec41.user.srcf.net/notes/
+      - title: 机器学习因果推断教程
+        body: 斯坦福 AI Faculty Undral Byambadalai 编写
+        tag: 全英文 | Bookdown 在线书
+        url: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/
+      - title: Causal Inference The Mixtape
+        body: Scott Cunningham 写的
+        tag: 全英文网页免费 | 中文版纸质收费
+        url: https://mixtape.scunning.com/
+      - title: Python for Data Analysis, 3E
+        body: Wes McKinney
+        tag: 网页开源书 | 有数据和代码
+        url: https://wesmckinney.com/book/
+      - title: Algorithms Book
+        body: Mykel J. Kochenderfer 与合作者撰写的三本算法教材
+        tag: 优化算法 | 决策算法 | 校验算法
+        url: https://algorithmsbook.com/
+      - title: 蒲公英书
+        body: 邱锡鹏《神经网络与深度学习》简称 NNDL
+        tag: PDF | 课件 | 勘误表
+        url: https://nndl.github.io/
+      - title: Neural Networks and Deep Learning
+        body: Michael Nielsen 撰写
+        tag: 开源网页书 | 2019 年完稿
+        url: http://neuralnetworksanddeeplearning.com/
+      - title: 动手学深度学习
+        body: PyTorch | NumPy / MXNet | TensorFlow | PaddlePaddle
+        tag: 网页在线简体中文 | 多种实现 
+        url: https://zh.d2l.ai/
+      - title: Immersive Linear Algebra
+        body: 沉浸式线性代数教程
+        tag: 网页在线免费 | 交互式动态图像
+        url: https://immersivemath.com/
+      - title: Solutions to Linear Algebra Done Right 3rd Edition
+        body: 
+        tag: 还有 Baby Rudin 等其他教材答案
+        url: https://linearalgebras.com/
+      - title: Introduction to Economic Analysis
+        body: 出版社将这本书「匿名开源」
+        tag: McAfee, Lewis and Dale
+        url: https://saylordotorg.github.io/text_introduction-to-economic-analysis/
+      - title: ISLP Resources
+        body: Introduction to Statistical Learning with Python 配套
+        tag: 开源 | 课件 | 图表 | 数据 | 代码
+        url: https://www.statlearning.com/resources-python
+      - title: CS 自学指南
+        body: 仲殷旻编写计算机自学指南，受到北大信科院友强烈反响
+        tag: 2021 年已完稿 | 中英双语
+        url: https://csdiy.wiki/
+      - title: 因果推断-从概念到实践
+        body: Causal Inference for the Brave and True 的中文翻译版
+        tag: ipynb 格式｜Gitee 和 GitHub 都有
+        url: https://gitee.com/xieliaing/causal-inference-intro-gitee
       - title: Macro Book
         body: 写给学硕或直博一年级学生的宏观教材
         tag: 数据驱动｜最新版本修订
         url: https://phdmacrobook.org/
+      - title: CausalML Book
+        body: 前沿机器学习因果推断体系化教科书
+        tag: 跨国、跨州、跨校、跨科作者合著
+        url: https://causalml-book.org/
+      - title: Speech and Language Processing
+        body: 自然语言计算机处理教材
+        tag: PDF 格式｜已更新到第三版
+        url: https://web.stanford.edu/~jurafsky/slp3/
+      - title: The Effect
+        body: Nick C. Huntington-Klein 写的因果研究设计
+        tag: 网页形式｜在线免费
+        url: https://theeffectbook.net/
+      - title: Treatment Effects
+        body: Francis J. DiTraglia 提供的处置效应课程材料
+        tag: 讲义｜幻灯片｜代码教学
+        url: https://www.treatment-effects.com/
+      - title: 鸢尾花书
+        body: 姜伟生著书开源电子档和代码－GitHub 仓库
+        tag: 工程数学 | 机器学习
+        url: https://github.com/Visualize-ML
+      - title: 因果推断实用计量方法
+        body: 邱嘉平 2020 年出版书配套网站
+        tag: 有课件可下载
+        url: https://yinguotuiduan.org
+  - title: 教程
+    category: tutorial
+    content:
+      - title: Quick Reference
+        body: 软件开发人员的技术栈快速查阅－是 Reference 的中文版
+        tag: 编程 | 前端 | CLI | 数据库 | 工具
+        url: https://quickref.cn/
+      - title: 菜鸟教程
+        body: 众多编程语言和技能，教程、参考双用
+        tag: 另有几种主流语言的测验题
+        url: https://www.runoob.com/
+      - title: freeCodeCamp
+        body: Quincy Larson 创办免费学习编程平台，适合入门
+        tag: 中文版 | 从前端到 Python
+        url: https://www.freecodecamp.org/chinese/
+      - title: QuantEcon
+        body: 网页学习经济学建模计算工具
+        tag: 课程 | 代码 | 书 | 偏重金融
+        url: https://quantecon.org/
+      - title: Coding for Economists
+        body: 针对经济类学科的 Python 教程，从零基础开始教
+        tag: Arthur Turrell 等写的在线网页书
+        url: https://aeturrell.github.io/coding-for-economists/
+      - title: Julia 语言入门
+        body: 北大数院统计学 Faculty 李东风撰写的在线教程，已有 26 章
+        tag: 界面很漂亮 | 可调字体 | 有 PDF
+        url: https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/
+      - title: 现代科学计算
+        body: 港科大（广州）计算物理 Faculty 刘金国撰写
+        tag: Julia 编程语言 | 知乎专栏
+        url: https://www.zhihu.com/column/c_1706037360360304641
+      - title: Pandas 中文教程
+        body: 耿远昊编写的开源 Joyful Pandas 教程－简体中文
+        tag: 注重动手实践 | 智海平台配套免费课
+        url: https://inter.joyfulpandas.datawhale.club/
+      - title: 计算机教育缺失的课
+        body: The Missing Semester of Your CS Education
+        tag: 如何精通工具 | 简体中文
+        url: https://missing-semester-cn.github.io/
+      - title: The Missing Semester of Your CS Education
+        body: 计算机教育缺失的一课英文原版
+        tag: 如何精通工具 | 在线学习材料
+        url: https://missing.csail.mit.edu/
+      - title: Markdown 教程
+        body: 自称「Markdown 官方教程」，对新手友好，无广告
+        tag: 入门 | 速查 | 语法 | 工具
+        url: https://markdown.com.cn/
+      - title: Quarto 学习笔记
+        body: 杜俊宏编写的中文教程 | 面向多编程语言的新一代 Rmarkdown
+        tag: 编辑内容 | 插入组件 | 输出发布
+        url: https://djhcod.github.io/Quarto-foundation.github.io/
+      - title:  MkDocs 文档开发教程
+        body: MkDocs 曾经是最流行的简约 Markdown 目录结构网站框架
+        tag: 快速入门 | 进阶操作 | 附录
+        url: https://mkdocs-like-code.readthedocs.io/zh-cn/latest/
+      - title: Woop My Life 中文
+        body: Wish－Outcome－Obstacle－Plan
+        tag: Gabriele Oettingen 团队
+        url: https://woopmylife.org/zh-hans/home
+      - title: Statology
+        body: 应用统计教程，从统计入门科普到机器学习和多种统计编程语言
+        tag: Zach Bobbitt 个人主办
+        url: https://www.statology.org/
+      - title: Python 数据科学加速
+        body: 鲁蔚征、秦续业等人写的 Python 并行加速教程
+        tag: Data + AI Lab 的中文原版
+        url: https://scale-py.godaai.org/
+      - title: momo 知乎笔记
+        body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
+        tag: 笔记－金融｜各种各样经济学
+        url: https://zhuanlan.zhihu.com/p/524823847
+      - title: AI－EDU
+        body: 微软亚洲研究院的公益性质人工智能学习网站，偏重神经网络
+        tag: 基础教程｜实践案例
+        url: https://microsoft.github.io/ai-edu/
+      - title: NLP of Chinese Text Data (with code)
+        body: 昆山杜克大学博士生李佩源提供
+        tag: 一系列网址链接
+        url: https://www.oscarpeiyuanl.com/code
+      - title: QuantStart
+        body: 从衍生品定价发展来的算法交易教程
+        tag: Quantcademy 的入门版本
+        url: https://www.quantstart.com/
+      - title: 深度学习从入门到面试
+        body: 学习文档｜网页形式
+        tag: 百度飞桨社区提供
+        url: https://paddlepedia.readthedocs.io/
+      - title: Typst 中文教程
+        body: 又称「小蓝书」
+        tag: 网页在线版
+        url: https://typst-doc-cn.github.io/tutorial/
+      - title: Palmer Penguins
+        body: 用企鹅数据集快速入门 Stata 可视化操作
+        tag: Rios-Avila 提供
+        url: https://friosavila.github.io/stataviz/stataviz5.html
+      - title: Using Quarto for Stata dynamic documents
+        body: sysuse auto 案例
+        tag: 基于 Jupyter 和 nbstata
+        url: https://friosavila.github.io/playingwithstata/quarto/dynstat
+      - title: Causal Inference for The Brave and True
+        body: Python 计量经济学网页书
+        tag: Matheus Facure｜另有中文翻译版
+        url: https://matheusfacure.github.io/python-causality-handbook
+  - title: 阅读
+    category: reading
+    content:
+      - title: 看见（统计）理论
+        body: 可视化概率统计入门
+        tag: 小学生就能看
+        url: https://seeing-theory.brown.edu/cn.html
       - title: sssr.su
         body: 苏联研究
         tag: 非盈利档案网站
@@ -299,6 +488,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: Qwerty Learner
+        body: 双手键盘输入背英语单词，练打字速度，可选常用词库
+        tag: 有语音提示 | 可选 VSCode 插件版
+        url: https://qwerty.kaiyi.cool/
       - title: CN Zoomer Values
         body: 专为简中互联网上玩网小登设计的意识形态测试
         tag: 并不文雅
@@ -375,10 +568,6 @@ tools:
         body: Web Converters 提供的图像转换工具
         tag: 格式 | 动画 | PDF | SVG | 裁剪
         url: https://webconverters.net/cn
-      - title: 比特虫
-        body: 将其他格式的图片转化为 ico 图标，用作网站 logo
-        tag: ico图标转换工具
-        url: https://www.bitbug.net/
       - title: Convertio
         body: 超过 300 种不同的文件格式间超过 25600 种不同的转换方式
         tag: 文件转换器
@@ -427,10 +616,6 @@ tools:
         body: 北京千涧技术发展公司提供的在线 LaTeX 公式编辑器
         tag: 模板调用 | 图片识别
         url: https://www.latexlive.com/
-      - title: Transfonter
-        body: Alexey Ilyaskin 提供的服务，生成整套 font-face 文件夹和 css 语句
-        tag: 字体文件转换
-        url: https://transfonter.org/
       - title: Markdown 编辑器
         body: markdown.com.cn 提供的网页工具，可针对平台生成 richtext
         tag: 知乎 | 微信公众平台 | 稀土掘金
@@ -439,241 +624,10 @@ tools:
         body: 用鼠标创建表格，调整样式，导出为写作语言格式（有广告）
         tag: LaTeX | HTML | Markdown | 纯文本
         url: https://tablesgenerator.com/
-      - title: 中国传统颜色拾取器
-        body: AMZ123 提供，# 开头的小写字母十六进制格式
-        tag: 从汉白玉到景泰蓝
-        url: https://www.amz123.com/tools-color/chn
-      - title: 世界最好的 SVG 压缩器
-        body: vecta.io 高效无损压缩（这个标题是它的名字，不是我称呼）
-        tag: 网页在线 | 压缩 SVG 至约两成
-        url: https://vecta.io/nano
       - title: PicPicAI
         body: AI 图片编辑工具 | 多个系列的多种工具，一平台通用
         tag: 五角人民币一个积分
         url: https://picpicai.com/zh
-  - title: 学习
-    category: study
-    content:
-      - title: Palmer Penguins
-        body: 用企鹅数据集快速入门 Stata 可视化操作
-        tag: Rios-Avila 提供
-        url: https://friosavila.github.io/stataviz/stataviz5.html
-      - title: Using Quarto for Stata dynamic documents
-        body: sysuse auto 案例
-        tag: 基于 Jupyter 和 nbstata
-        url: https://friosavila.github.io/playingwithstata/quarto/dynstat
-      - title: Treatment Effects
-        body: Francis J. DiTraglia 提供的处置效应课程材料
-        tag: 讲义｜幻灯片｜代码教学
-        url: https://www.treatment-effects.com/
-      - title: CausalML Book
-        body: 前沿机器学习因果推断体系化教科书
-        tag: 跨国、跨州、跨校、跨科作者合著
-        url: https://causalml-book.org/
-      - title: Speech and Language Processing
-        body: 自然语言计算机处理教材
-        tag: PDF 格式｜已更新到第三版
-        url: https://web.stanford.edu/~jurafsky/slp3/
-      - title: The Effect
-        body: Nick C. Huntington-Klein 写的因果研究设计
-        tag: 网页形式｜在线免费
-        url: https://theeffectbook.net/
-      - title: QuantStart
-        body: 从衍生品定价发展来的算法交易教程
-        tag: Quantcademy 的入门版本
-        url: https://www.quantstart.com/
-      - title: 因果推断-从概念到实践
-        body: Causal Inference for the Brave and True 的中文翻译版
-        tag: ipynb 格式｜Gitee 和 GitHub 都有
-        url: https://gitee.com/xieliaing/causal-inference-intro-gitee
-      - title: Causal Inference for The Brave and True
-        body: Python 计量经济学网页书
-        tag: Matheus Facure｜另有中文翻译版
-        url: https://matheusfacure.github.io/python-causality-handbook
-      - title: NLP of Chinese Text Data (with code)
-        body: 昆山杜克大学博士生李佩源提供
-        tag: 一系列网址链接
-        url: https://www.oscarpeiyuanl.com/code
-      - title: 因果推断实用计量方法
-        body: 邱嘉平 2020 年出版书配套网站
-        tag: 有课件可下载
-        url: https://yinguotuiduan.org
-      - title: 看见（统计）理论
-        body: 可视化概率统计入门
-        tag: 小学生就能看
-        url: https://seeing-theory.brown.edu/cn.html
-      - title: momo 知乎笔记
-        body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
-        tag: 笔记－金融｜各种各样经济学
-        url: https://zhuanlan.zhihu.com/p/524823847
-      - title: 深度学习从入门到面试
-        body: 学习文档｜网页形式
-        tag: 百度飞桨社区提供
-        url: https://paddlepedia.readthedocs.io/
-      - title: AI－EDU
-        body: 微软亚洲研究院的公益性质人工智能学习网站，偏重神经网络
-        tag: 基础教程｜实践案例
-        url: https://microsoft.github.io/ai-edu/
-      - title: Woop My Life 中文
-        body: Wish－Outcome－Obstacle－Plan
-        tag: Gabriele Oettingen 团队
-        url: https://woopmylife.org/zh-hans/home
-      - title: Statology
-        body: 应用统计教程，从统计入门科普到机器学习和多种统计编程语言
-        tag: Zach Bobbitt 个人主办
-        url: https://www.statology.org/
-      - title: Python 数据科学加速
-        body: 鲁蔚征、秦续业等人写的 Python 并行加速教程
-        tag: Data + AI Lab 的中文原版
-        url: https://scale-py.godaai.org/
-      - title: Typst 中文教程
-        body: 又称「小蓝书」
-        tag: 网页在线版
-        url: https://typst-doc-cn.github.io/tutorial/
-      - title: 鸢尾花书
-        body: 姜伟生著书开源电子档和代码－GitHub 仓库
-        tag: 工程数学 | 机器学习
-        url: https://github.com/Visualize-ML
-      - title: Cool Papers
-        body: 信科领域最新预印本 AI 推荐
-        tag: Powerd by Kimi
-        url: https://papers.cool/
-      - title: CS 自学指南
-        body: 仲殷旻编写计算机自学指南，受到北大信科院友强烈反响
-        tag: 2021 年已完稿 | 中英双语
-        url: https://csdiy.wiki/
-      - title: Anki 手册
-        body: Anki 的官方文档的中文翻译
-        tag: 记忆任务高效安排软件
-        url: https://open-spaced-repetition.github.io/anki-manual-zh-CN/
-      - title: freeCodeCamp
-        body: Quincy Larson 创办免费学习编程平台，适合入门
-        tag: 中文版 | 从前端到 Python
-        url: https://www.freecodecamp.org/chinese/
-      - title: 计算机教育缺失的课
-        body: The Missing Semester of Your CS Education
-        tag: 如何精通工具 | 简体中文
-        url: https://missing-semester-cn.github.io/
-      - title: The Missing Semester of Your CS Education
-        body: 计算机教育缺失的一课英文原版
-        tag: 如何精通工具 | 在线学习材料
-        url: https://missing.csail.mit.edu/
-      - title: Markdown 教程
-        body: 自称「Markdown 官方教程」，对新手友好，无广告
-        tag: 入门 | 速查 | 语法 | 工具
-        url: https://markdown.com.cn/
-      - title: Quarto 学习笔记
-        body: 杜俊宏编写的中文教程 | 面向多编程语言的新一代 Rmarkdown
-        tag: 编辑内容 | 插入组件 | 输出发布
-        url: https://djhcod.github.io/Quarto-foundation.github.io/
-      - title:  MkDocs 文档开发教程
-        body: MkDocs 曾经是最流行的简约 Markdown 目录结构网站框架
-        tag: 快速入门 | 进阶操作 | 附录
-        url: https://mkdocs-like-code.readthedocs.io/zh-cn/latest/
-      - title: CeTZ Documentation
-        body: CeTZ 是用于 Typst 绘图的包
-        tag: 全英文 | 入门 | 教程 | 文档
-        url: https://cetz-package.github.io/docs/
-      - title: 生姜 DrGinger
-        body: 姜伟生著书配套 bilibili 账号 | 不仅有鸢尾花书
-        tag: 机器学习 | FRM MATLAB
-        url: https://space.bilibili.com/513194466/
-      - title: Astro 文档
-        body: 内容驱动网站最先进 Web 前端框架，没有之一，无需编程基础
-        tag: 简体中文 | 详细入门教程
-        url: https://docs.astro.build/zh-cn/
-      - title: Docusaurus 文档
-        body: Markdown 目录结构网站最先进 Web 前端框架，没有之一
-        tag: 中英混杂 | 无需编程基础
-        url: https://docusaurus.io/zh-CN/
-      - title: Pandas 中文教程
-        body: 耿远昊编写的开源 Joyful Pandas 教程－简体中文
-        tag: 注重动手实践 | 智海平台配套免费课
-        url: https://inter.joyfulpandas.datawhale.club/
-      - title: ISLP Resources
-        body: Introduction to Statistical Learning with Python 配套
-        tag: 开源 | 课件 | 图表 | 数据 | 代码
-        url: https://www.statlearning.com/resources-python
-      - title: Julia 语言入门
-        body: 北大数院统计学 Faculty 李东风撰写的在线教程，已有 26 章
-        tag: 界面很漂亮 | 可调字体 | 有 PDF
-        url: https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/
-      - title: 现代科学计算
-        body: 港科大（广州）计算物理 Faculty 刘金国撰写
-        tag: Julia 编程语言 | 知乎专栏
-        url: https://www.zhihu.com/column/c_1706037360360304641
-      - title: Algorithms Book
-        body: Mykel J. Kochenderfer 与合作者撰写的三本算法教材
-        tag: 优化算法 | 决策算法 | 校验算法
-        url: https://algorithmsbook.com/
-      - title: Double ML
-        body: Python & R 语言双重机器学习程序包「DoubleML」使用文档
-        tag: 依赖 scikit-learn 和 mlr3
-        url: https://docs.doubleml.org/
-      - title: nbstata (jupyter)
-        body: Wisconsin-Madison 经济 PhD Tim Huegerich 开发内核插件
-        tag: Jupyter | 一站式调用 Stata
-        url: https://hugetim.github.io/nbstata/
-      - title: pyecharts 文档
-        body: 百度的开源数据可视化库 Echarts 的 Python 实现库
-        tag: 交互良好 | 图表精巧
-        url: https://pyecharts.org/
-      - title: 蒲公英书
-        body: 邱锡鹏《神经网络与深度学习》简称 NNDL
-        tag: PDF | 课件 | 勘误表
-        url: https://nndl.github.io/
-      - title: Neural Networks and Deep Learning
-        body: Michael Nielsen 撰写
-        tag: 开源网页书 | 2019 年完稿
-        url: http://neuralnetworksanddeeplearning.com/
-      - title: 动手学深度学习
-        body: PyTorch | NumPy / MXNet | TensorFlow | PaddlePaddle
-        tag: 网页在线简体中文 | 多种实现 
-        url: https://zh.d2l.ai/
-      - title: Immersive Linear Algebra
-        body: 沉浸式线性代数教程
-        tag: 网页在线免费 | 交互式动态图像
-        url: https://immersivemath.com/
-      - title: Solutions to Linear Algebra Done Right 3rd Edition
-        body: 
-        tag: 还有 Baby Rudin 等其他教材答案
-        url: https://linearalgebras.com/
-      - title: Introduction to Economic Analysis
-        body: 出版社将这本书「匿名开源」
-        tag: McAfee, Lewis and Dale
-        url: https://saylordotorg.github.io/text_introduction-to-economic-analysis/
-      - title: QuantEcon
-        body: 网页学习经济学建模计算工具
-        tag: 课程 | 代码 | 书 | 偏重金融
-        url: https://quantecon.org/
-      - title: Coding for Economists
-        body: 针对经济类学科的 Python 教程，从零基础开始教
-        tag: Arthur Turrell 等写的在线网页书
-        url: https://aeturrell.github.io/coding-for-economists/
-      - title: 机器学习因果推断教程
-        body: 斯坦福 AI Faculty Undral Byambadalai 编写
-        tag: 全英文 | Bookdown 在线书
-        url: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/
-      - title: Causal Inference The Mixtape
-        body: Scott Cunningham 写的
-        tag: 全英文网页免费 | 中文版纸质收费
-        url: https://mixtape.scunning.com/
-      - title: Python for Data Analysis, 3E
-        body: Wes McKinney
-        tag: 网页开源书 | 有数据和代码
-        url: https://wesmckinney.com/book/
-      - title: Qwerty Learner
-        body: 双手键盘输入背英语单词，练打字速度，可选常用词库
-        tag: 有语音提示 | 可选 VSCode 插件版
-        url: https://qwerty.kaiyi.cool/
-      - title: Cambridge Notes
-        body: 剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记
-        tag: 从大一到研一，几千页
-        url: https://dec41.user.srcf.net/notes/
-      - title: American Literature
-        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
-        tag: 有广告 | 有搜索栏
-        url: https://americanliterature.com/
   - title: 社科人
     category: pss
     content:
@@ -1245,6 +1199,10 @@ tools:
   - title: 商科人
     category: pbs
     content:
+      - title: 生姜 DrGinger
+        body: 姜伟生著书配套 bilibili 账号 | 不仅有鸢尾花书
+        tag: 机器学习 | FRM MATLAB
+        url: https://space.bilibili.com/513194466/
       - title: Aswath Damodaran
         body: 纽约大学 斯特恩商学院 Faculty
         tag: Corporate Finance
@@ -1320,3 +1278,54 @@ tools:
         body: 基于爬虫的网盘搜索聚合，但可能面临收费或其他门槛
         tag: 第三方网盘搜索
         url: http://www.chaonengso.com/
+  - title: 前端库
+    category: fr
+    content:
+      - title: Transfonter
+        body: Alexey Ilyaskin 提供的服务，生成整套 font-face 文件夹和 css 语句
+        tag: 字体文件转换
+        url: https://transfonter.org/
+      - title: 中国传统颜色拾取器
+        body: AMZ123 提供，# 开头的小写字母十六进制格式
+        tag: 从汉白玉到景泰蓝
+        url: https://www.amz123.com/tools-color/chn
+      - title: 世界最好的 SVG 压缩器
+        body: vecta.io 高效无损压缩（这个标题是它的名字，不是我称呼）
+        tag: 网页在线 | 压缩 SVG 至约两成
+        url: https://vecta.io/nano
+      - title: 比特虫
+        body: 将其他格式的图片转化为 ico 图标，用作网站 logo
+        tag: ico图标转换工具
+        url: https://www.bitbug.net/
+      - title: daisy UI
+        body: 提供海量现成组件，用 npm 或 yarn
+        tag: 基于 Tailwind CSS
+        url: https://daisyui.com/
+      - title: iconify
+        body: 旨在从商业图标 Vendor Lock-in 中救出开发者的开源图表聚合
+        tag: Vjacheslav Trushkin 提供
+        url: https://icon-sets.iconify.design/
+      - title: FLATICON
+        body: Vector icons and stickers
+        tag: Freepik 提供
+        url: https://www.flaticon.com/
+      - title: Boxicons
+        body: SVG｜CSS｜Web 元素｜NPM｜CDN
+        tag: 开源图标库
+        url: https://boxicons.com/
+      - title: Bootswatch
+        body: Bootstrap 社区提供的 26 个免费 CSS 主题
+        tag: 提供 CLI 安装和 API 使用
+        url: https://bootswatch.com/
+      - title: Bootstrap Icons
+        body: Bootstrap 社区提供的开源图标库－标签速查
+        tag: 嵌入式 | 外部 | Sprite | CSS | SVG
+        url: https://icons.getbootstrap.com/
+      - title: Icônes
+        body: 基于 Iconify 框架的图标速查表 & 搜索器
+        tag: 即时模糊搜索 | Mobile Friendly
+        url: https://icones.js.org/
+      - title: 中文网字计划
+        body: 大规模中文字体网络化工具和解决方案－Web Font 形式开源
+        tag: 免费可商用的 Web 字体文件
+        url: https://chinese-font.netlify.app/zh-cn/

@@ -29,6 +29,10 @@ tools:
   - title: 文档
     category: doc
     content:
+      - title: EconML
+        body: 微软提供的机器学习因果效应估计包
+        tag: 技术文档
+        url: https://econml.azurewebsites.net/
       - title: AiDocZh
         body: 类别｜介绍｜工具名称｜中文文档｜英文文档｜Github｜星标
         tag: AI 工具中文文档库
@@ -89,6 +93,25 @@ tools:
         body: 百度的开源数据可视化库 Echarts 的 Python 实现库
         tag: 交互良好 | 图表精巧
         url: https://pyecharts.org/
+  - title: 平台
+    category: platform
+    content:
+      - title: Quick Reference
+        body: 软件开发人员的技术栈快速查阅－是 Reference 的中文版
+        tag: 编程 | 前端 | CLI | 数据库 | 工具
+        url: https://quickref.cn/
+      - title: 菜鸟教程
+        body: 众多编程语言和技能，教程、参考双用
+        tag: 另有几种主流语言的测验题
+        url: https://www.runoob.com/
+      - title: freeCodeCamp
+        body: Quincy Larson 创办免费学习编程平台，适合入门
+        tag: 中文版 | 从前端到 Python
+        url: https://www.freecodecamp.org/chinese/
+      - title: Datawhale
+        body: 非盈利组织｜人工智能学习资料
+        tag: 提供课程认证
+        url: https://www.datawhale.cn/
   - title: 查询
     category: lookfor
     content:
@@ -294,18 +317,6 @@ tools:
   - title: 教程
     category: tutorial
     content:
-      - title: Quick Reference
-        body: 软件开发人员的技术栈快速查阅－是 Reference 的中文版
-        tag: 编程 | 前端 | CLI | 数据库 | 工具
-        url: https://quickref.cn/
-      - title: 菜鸟教程
-        body: 众多编程语言和技能，教程、参考双用
-        tag: 另有几种主流语言的测验题
-        url: https://www.runoob.com/
-      - title: freeCodeCamp
-        body: Quincy Larson 创办免费学习编程平台，适合入门
-        tag: 中文版 | 从前端到 Python
-        url: https://www.freecodecamp.org/chinese/
       - title: QuantEcon
         body: 网页学习经济学建模计算工具
         tag: 课程 | 代码 | 书 | 偏重金融
@@ -326,7 +337,7 @@ tools:
         body: 耿远昊编写的开源 Joyful Pandas 教程－简体中文
         tag: 注重动手实践 | 智海平台配套免费课
         url: https://inter.joyfulpandas.datawhale.club/
-      - title: 计算机教育缺失的课
+      - title: 计算机教育缺失一课
         body: The Missing Semester of Your CS Education
         tag: 如何精通工具 | 简体中文
         url: https://missing-semester-cn.github.io/
@@ -1140,6 +1151,14 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 周靖宇
+        body: 上海交通大学 人工智能 本科生 2023级
+        tag: 博客网站「Kinnari's Blog」
+        url: https://kinnari-blog.vercel.app/
+      - title: 周靖宇
+        body: 上海交通大学 人工智能 本科生 2023级
+        tag: 正式网站「Kinnari's Site」
+        url: https://kinnariyamamatanha.github.io/
       - title: SunMaple
         body: 独立前端开发者｜2024 年创作了 Astro 最完整的中文主题
         tag: 2026 年应届高考

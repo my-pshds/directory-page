@@ -115,6 +115,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: 异体字查询
+        body: 可查单字、注音、汉语拼音、仓颉码、四角号码
+        tag: 中华民国教育部提供
+        url: https://dict.variants.moe.edu.tw/
       - title: American Literature
         body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
         tag: 有广告 | 有搜索栏
@@ -515,10 +519,6 @@ tools:
         body: 网页工具，文件转换，两百多种格式
         tag: 每天 10 次免费
         url: https://cloudconvert.com/
-      - title: 异体字查询
-        body: 可查单字、注音、汉语拼音、仓颉码、四角号码
-        tag: 中华民国教育部提供
-        url: https://dict.variants.moe.edu.tw/
       - title: Snippet Generator
         body: Paweł Grzybek 开发的在线工具，代码段转成 snippet 格式
         tag: VS Code｜Sublime Text｜Atom

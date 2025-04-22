@@ -1,5 +1,5 @@
 tools:
-  - title: 说明文档
+  - title: 技术文档
     category: doc
     content:
       - title: EconML
@@ -15,7 +15,7 @@ tools:
         tag: 无任何 dependency
         url: https://katex.org/
       - title: Typst 中文社区导航
-        body: 尚未完工
+        body: 言简意赅
         tag: UI很好看
         url: https://typst-doc-cn.github.io/guide/
       - title: Zotero 中文社区
@@ -73,18 +73,6 @@ tools:
         body: 可查单字、注音、汉语拼音、仓颉码、四角号码
         tag: 中华民国教育部提供
         url: https://dict.variants.moe.edu.tw/
-      - title: American Literature
-        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
-        tag: 有广告 | 有搜索栏
-        url: https://americanliterature.com/
-      - title: Cool Papers
-        body: 信科领域最新预印本 AI 推荐
-        tag: Powerd by Kimi
-        url: https://papers.cool/
-      - title: 清华大学飞跃手册
-        body: 校内传帮带的留学经验文档
-        tag: 用 MkDocs 做的
-        url: https://feiyue.online/
       - title: ASD 就诊地图
         body: 青衫 Aspie 提供
         tag: 分省查询
@@ -101,10 +89,6 @@ tools:
         body: 品名和责任单位名
         tag: 国家疾病预防控制局
         url: https://credit.jdzx.net.cn/xdcp/loginPage.do
-      - title: 不列颠百科全书
-        body: 英美文化的一切分支和交叉知识查询
-        tag: 大型商业品牌－文化教育巨头
-        url: https://www.britannica.com/
       - title: 行政区划代码查询
         body: 「速速搜」平台（sususo.com）提供
         tag: 查身份证号前六位 | 有广告
@@ -117,14 +101,6 @@ tools:
         body: 企业异常和失信查询
         tag: 国家市场监督管理总局
         url: https://www.gsxt.gov.cn/
-      - title: Online Etymology Dictionary
-        body: 查询英语词汇的来源和演变
-        tag: 业余爱好独立作者的项目
-        url: https://www.etymonline.com/
-      - title: Thesaurus.com
-        body: 英语同义词查询、词林｜英文「小学」常识
-        tag: 有广告
-        url: https://www.thesaurus.com/
       - title: 词根词缀辞典
         body: 高伟东研发的公益 App《词根词缀（记忆）字典》
         tag: 无广告，无收费，不盈利
@@ -133,42 +109,10 @@ tools:
         body: 带有地图的多地联合字音查询
         tag: 输入汉字或吴拼
         url: https://www.wugniu.com/
-      - title: 医学微视
-        body: 北京博彧维康公司提供的临床医学科普平台
-        tag: 按科室区分专栏 | 有盈利性质
-        url: https://www.mvyxws.cn/
-      - title: Examine
-        body: 查询营养保健品有效与否，引用和循证较完善
-        tag: 全英文 | 可按物品和功能查询
-        url: https://examine.com/
-      - title: GitHub Status
-        body: 实时公布自身服务状态 | 如异常，你的故障不需自己解决
-        tag: GitHub | 实时状态 | 故障排查
-        url: https://www.githubstatus.com/
-      - title: IP ADDRESS
-        body: 查 IP | 查 DNS | 查邮箱 | 查代理 | 查域名 | 几十年老字号
-        tag: IP 地址综合服务
-        url: https://www.ipaddress.com/
-      - title: PageSpeed Insights
-        body: 网站加载速度分析工具，生成网页的实际性能报告
-        tag: 桌面端和移动端分开考察
-        url: https://pagespeed.web.dev/
-      - title: 上海交大飞跃手册
-        body: 上海交通大学生存手册的延伸版本，前者很知名
-        tag: 2016 级以后暂无更新
-        url: https://survivesjtu.github.io/SJTU-Application/
-      - title: 框框大学
-        body: 辞海式学习建议条目聚合－bilibili「取景框看世界」创建
-        tag: 有搜索框和条件筛选
-        url: https://www.kkdaxue.com/
       - title: 手机号段网
         body: 查询中国大陆手机号前七位的初始运营商和归属地市
         tag: 不适用携号转网
         url: https://telphone.cn/
-      - title: AMS－STML
-        body: 美国数学会－学生数学图书馆 | ISSN 1520-9121
-        tag: 当代数学教材推荐
-        url: https://bookstore.ams.org/content?PageName=stml
   - title: 工具
     category: app
     content:
@@ -589,7 +533,7 @@ tools:
         url: https://gabriel-zucman.eu/
       - title: 刘鹏
         body: 华东师范大学 经管学院 Faculty
-        tag: 机制设计
+        tag: 机制设计研究｜微观理论教学
         url: https://pengliusmu.weebly.com/
       - title: Sergio Correia
         body: 美联储 金融稳定司 | 杜克 金融 PhD | Stata 命令 reghdfe 作者 
@@ -695,10 +639,37 @@ tools:
         body: 纽约大学 社会学 Faculty
         tag: 劳动社会学
         url: https://siwei-cheng.github.io/
-      - title: 曾垚
-        body: 沃顿商学院 金融 Faculty
-        tag: 资产定价 | 公司财务 | 金融中介
-        url: https://sites.google.com/site/yaozengwebsite/
+  - title: 社科机构
+    category: iss
+    content:
+      - title: Polisci Speaker Series
+        body: 有美国背景的若干中国政治学者发起的线上会议交流
+        tag: 也包括政治经济学、政治传播等
+        url: http://polisciworkshopchina.cn/
+      - title: 美国战略和国际研究院
+        body: CSIS｜从乔治城大学分离出的跨党派智库单位
+        tag: 外交政策｜国家安全
+        url: https://www.csis.org/
+      - title: CLHM｜华东师大民间记忆与地方文献研究中心
+        body: Local History & Memory
+        tag: 历史系平台单位之一
+        url: http://www.clhm.ecnu.edu.cn/
+      - title: CICIR | 中国现代国际关系研究院
+        body: 行业内简称「现代院」在海淀
+        tag: 智库 | 国际关系
+        url: http://www.cicir.ac.cn/
+      - title: 上海国际问题研究院
+        body: 行业内简称「上海院」
+        tag: 智库 | 国际关系
+        url: https://www.siis.org.cn/
+      - title: ISW | 美国战争研究所
+        body: Institute for the Study of War
+        tag: 智库 | 国际关系 | 开源军事情报
+        url: https://www.understandingwar.org/
+      - title: 中国历史研究院
+        body: 实体研究机构，兼职管理，初衷在拨乱，规范史学政治立场
+        tag: 2019 年成立
+        url: http://hrczh.cass.cn/
   - title: 理学人
     category: psc
     content:
@@ -738,18 +709,6 @@ tools:
         body: 香港中文大学 经济系 Faculty
         tag: 经济计量理论 | 机器学习
         url: https://zhentaoshi.github.io/
-      - title: 钱军辉
-        body: 上海交通大学 经管院 Faculty | 本科教学
-        tag: 经济计量理论 | 国际金融
-        url: https://www.jhqian.org/
-      - title: 莊太量
-        body: 香港中文大学 经济系 Faculty
-        tag: 经济计量理论 | 计量金融
-        url: https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm
-      - title: 中村信弘
-        body: Nobuhiro Nakamura | 一桥大学经管研究科 Faculty
-        tag: 金融计量理论 | 计量金融教学
-        url: https://www.fs.hub.hit-u.ac.jp/staff-research/faculty/000701.php
       - title: A. Colin Cameron
         body: UC－Davis 经济系 Faculty | 截面数据计量理论
         tag: Microeconometrics Using Stata
@@ -802,21 +761,6 @@ tools:
         body: 他在读研期间兼职教学的教师主页
         tag: 本科数学和计算机基础课教学
         url: https://people.math.sc.edu/mlevet/
-  - title: 文艺人
-    category: pla
-    content:
-      - title: Donna M. Campbell
-        body: 华盛顿州立大学 英文系 Faculty
-        tag: 美国文学研究与教学
-        url: https://public.wsu.edu/~campbelld/
-      - title: Ethan Reed
-        body: Just Play 玩具设计师
-        tag: 玲娜贝儿的创作人
-        url: https://www.ethanreed.net/
-      - title: 黎云波
-        body: 聚味轩酒楼（彭州）总经理 & 总厨 | 四分钟以下竖视频
-        tag: 川西平原传统菜
-        url: https://space.bilibili.com/61690678
   - title: 工学人
     category: egn
     content:
@@ -880,9 +824,91 @@ tools:
         body: 北大信科本科 | 北京大学 信息科学技术学院 PhD
         tag: 深度学习 | 大语言模型
         url: https://www.yinminzhong.com/
+  - title: 理工机构
+    category: isc
+    content:
+      - title: Конструкторское бюро специального машиностроения
+        body: 
+        tag: 原苏联海军炮兵中央设计局
+        url: https://xn--90arht.xn--p1ai/
+      - title: 小木虫论坛研究生招生
+        body: 几乎仅理工科
+        tag: 有广告
+        url: https://muchong.com/f-430-1
+      - title: Statology
+        body: 应用统计教程，从统计入门科普到机器学习和多种统计编程语言
+        tag: Zach Bobbitt 个人主办
+        url: https://www.statology.org
+      - title: freeCodeCamp
+        body: Quincy Larson 创办免费学习编程平台，适合入门
+        tag: 中文版 | 从前端到 Python
+        url: https://www.freecodecamp.org/chinese/
+      - title: Datawhale
+        body: 非盈利组织｜人工智能学习资料
+        tag: 提供课程认证
+        url: https://www.datawhale.cn/
+      - title: QuantStart
+        body: 从衍生品定价发展来的算法交易教程
+        tag: Quantcademy 的入门版本
+        url: https://www.quantstart.com/
+      - title: Quick Reference
+        body: 软件开发人员的技术栈快速查阅－是 Reference 的中文版
+        tag: 编程 | 前端 | CLI | 数据库 | 工具
+        url: https://quickref.cn/
+      - title: 菜鸟教程
+        body: 众多编程语言和技能，教程、参考双用
+        tag: 另有几种主流语言的测验题
+        url: https://www.runoob.com/
+      - title: COS｜统计之都
+        body: 旨在推广与应用统计学知识的网站，由志愿者社区维护
+        tag: Capital of Statistics
+        url: https://cosx.org/
+      - title: SuperMemo Wiki
+        body: Piotr Wozniak 创办的 Wiki，创作关于记忆和学习原理的内容
+        tag: 目前尚仅有极少数翻译成简体中文
+        url: https://supermemo.guru/
+  - title: 文学＆艺术
+    category: la
+    content:
+      - title: Donna M. Campbell
+        body: 华盛顿州立大学 英文系 Faculty
+        tag: 美国文学研究与教学
+        url: https://public.wsu.edu/~campbelld/
+      - title: Ethan Reed
+        body: Just Play 玩具设计师
+        tag: 玲娜贝儿的创作人
+        url: https://www.ethanreed.net/
+      - title: 黎云波
+        body: 聚味轩酒楼（彭州）总经理 & 总厨 | 四分钟以下竖视频
+        tag: 川西平原传统菜
+        url: https://space.bilibili.com/61690678
+      - title: 里下河文学网
+        body: 泰州文联主办－与汉地其他区域有明显不同的独特地域文学审美
+        tag: 名家名作 | 文学评论 | 特别专栏
+        url: http://www.lxhwx.cn/
+      - title: American Literature
+        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
+        tag: 有广告 | 有搜索栏
+        url: https://americanliterature.com/
   - title: 商科人
     category: pbs
     content:
+      - title: 钱军辉
+        body: 上海交通大学 经管院 Faculty | 本科教学
+        tag: 经济计量理论 | 国际金融
+        url: https://www.jhqian.org/
+      - title: 莊太量
+        body: 香港中文大学 经济系 Faculty
+        tag: 经济计量理论 | 计量金融
+        url: https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm
+      - title: 中村信弘
+        body: Nobuhiro Nakamura | 一桥大学经管研究科 Faculty
+        tag: 金融计量理论 | 计量金融教学
+        url: https://www.fs.hub.hit-u.ac.jp/staff-research/faculty/000701.php
+      - title: 曾垚
+        body: 沃顿商学院 金融 Faculty
+        tag: 资产定价 | 公司财务 | 金融中介
+        url: https://sites.google.com/site/yaozengwebsite/
       - title: 生姜 DrGinger
         body: 姜伟生著书配套 bilibili 账号 | 不仅有鸢尾花书
         tag: 机器学习 | FRM MATLAB
@@ -915,9 +941,30 @@ tools:
         body: 自由职业人（成都）| 网络营销技术咨询
         tag: 英文网站运营 | 外贸 | 流量变现
         url: https://tomhello.com/
-  - title: 前端
-    category: fr
+  - title: Web 开发
+    category: web-dev
     content:
+      - title: NameSilo
+        body: 功能完善稳定的域名注册管理商之中第一年初始价格最实惠的
+        tag: 可批量管理多个域名的网络配置
+        url: https://www.namesilo.com/
+      - title: NPM Mirror
+        body: npm 源的中国大陆镜像，可代替官方源
+        tag: 可以直接 web 方式
+        url: https://npmmirror.com/
+      - title: GitHub Status
+        body: 实时公布自身服务状态 | 如异常，你的故障不需自己解决
+        tag: GitHub | 实时状态 | 故障排查
+        url: https://www.githubstatus.com/
+      - title: IP ADDRESS
+        body: 查 IP | 查 DNS | 查邮箱 | 查代理 | 查域名 | 几十年老字号
+        tag: IP 地址综合服务
+        url: https://www.ipaddress.com/
+      - title: PageSpeed Insights
+        body: 网站加载速度分析工具，生成网页的实际性能报告
+        tag: 桌面端和移动端分开考察
+        url: https://pagespeed.web.dev/
+
       - title: Astro Themes
         body: Built At Lightspeed 提供的主题模板列表
         tag: 浏览翻阅比官网更方便
@@ -970,9 +1017,49 @@ tools:
         body: 大规模中文字体网络化工具和解决方案－Web Font 形式开源
         tag: 免费可商用的 Web 字体文件
         url: https://chinese-font.netlify.app/zh-cn/
+  - title: 事务综合
+    category: iga
+    content:
+      - title: 中国志愿服务网
+        body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台
+        tag: 全国站－可切换到各省
+        url: https://chinavolunteer.mca.gov.cn/
+      - title: 高校毕业生到国际组织实习岗位信息
+        body: 任职信息服务平台
+        tag: 教育部学生服务与素质发展中心
+        url: https://gj.ncss.cn/job.html
+      - title: 中国公共招聘网
+        body: 可跳转到各省招聘网
+        tag: 人力资源和社会保障部
+        url: http://job.mohrss.gov.cn/
+      - title: 12388－总站
+        body: 中央纪委国家监委举报总站，请注意属地和级别
+        tag: 违纪 | 职务违法 | 申诉
+        url: https://www.12388.gov.cn/
+      - title: 12388－中央国家机关
+        body: 不属任何省级区划 | 处级及以下党员违纪、职务违法、申诉
+        tag: 纪检监察工作委员会
+        url: https://zygjjg.12388.gov.cn/
+      - title: SMS-Active
+        body: 俄罗斯网络服务商，在线租用指定地区手机号接收验证码短信
+        tag: 虚拟物理俱全 | 没收到短信不收钱
+        url: https://sms-activate.io/cn/
+      - title: Academic Positions
+        body: 从瑞典发源的高校教职招聘平台
+        tag: 暂时不支持简体中文
+        url: https://academicpositions.com/
   - title: 网页书
     category: web-book
     content:
+
+      - title: 清华大学飞跃手册
+        body: 校内传帮带的留学经验文档
+        tag: 用 MkDocs 做的
+        url: https://feiyue.online/
+      - title: 上海交大飞跃手册
+        body: 上海交通大学生存手册的延伸版本，前者很知名
+        tag: 2016 级以后暂无更新
+        url: https://survivesjtu.github.io/SJTU-Application/
 
       - title: 深度学习从入门到面试
         body: 学习文档｜网页形式
@@ -1025,8 +1112,8 @@ tools:
         url: https://inter.joyfulpandas.datawhale.club
 
       - title: 计算机教育缺失一课
-        body: The Missing Semester of Your CS Education
-        tag: 如何精通工具 | 简体中文
+        body: The Missing Semester of Your CS Education 中文翻译
+        tag: 如何精通工具 | 在线学习材料
         url: https://missing-semester-cn.github.io
 
       - title: The Missing Semester of Your CS Education
@@ -1176,9 +1263,13 @@ tools:
         body: Causal Inference for the Brave and True 的中文翻译版
         tag: ipynb 格式｜Gitee 和 GitHub 都有
         url: https://gitee.com/xieliaing/causal-inference-intro-gitee
-  - title: 链接集
+  - title: 条目集
     category: link-sets
     content:
+      - title: AMS－STML
+        body: 美国数学会－学生数学图书馆 | ISSN 1520-9121
+        tag: 当代数学教材推荐
+        url: https://bookstore.ams.org/content?PageName=stml
 
       - title: 虫部落－快搜
         body: 虫部落社区提供搜索引擎聚合
@@ -1209,108 +1300,55 @@ tools:
         url: http://www.chaonengso.com/
 
       - title: NLP of Chinese Text Data (with code)
-        body: 昆山杜克大学 Faculty 李佩源提供
+        body: 昆山杜克 Faculty 李佩源提供
         tag: 一系列网址链接
         url: https://www.oscarpeiyuanl.com/code
-  - title: 平台
-    category: platform
+  - title: 论文库
+    category: paperbase
     content:
-      - title: 中国志愿服务网
-        body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台
-        tag: 全国站－可切换到各省
-        url: https://chinavolunteer.mca.gov.cn/
-      - title: 高校毕业生到国际组织实习岗位信息
-        body: 任职信息服务平台
-        tag: 教育部学生服务与素质发展中心
-        url: https://gj.ncss.cn/job.html
-      - title: 小木虫论坛研究生招生
-        body: 几乎仅理工科
-        tag: 有广告
-        url: https://muchong.com/f-430-1
-      - title: 中国公共招聘网
-        body: 可跳转到各省招聘网
-        tag: 人力资源和社会保障部
-        url: http://job.mohrss.gov.cn/
-      - title: NPM Mirror
-        body: npm 源的中国大陆镜像，可代替官方源
-        tag: 可以直接 web 方式
-        url: https://npmmirror.com/
-      - title: 12388－总站
-        body: 中央纪委国家监委举报总站，请注意属地和级别
-        tag: 违纪 | 职务违法 | 申诉
-        url: https://www.12388.gov.cn/
-      - title: 12388－中央国家机关
-        body: 不属任何省级区划 | 处级及以下党员违纪、职务违法、申诉
-        tag: 纪检监察工作委员会
-        url: https://zygjjg.12388.gov.cn/
-      - title: SMS-Active
-        body: 俄罗斯网络服务商，在线租用指定地区手机号接收验证码短信
-        tag: 虚拟物理俱全 | 没收到短信不收钱
-        url: https://sms-activate.io/cn/
-      - title: Academic Positions
-        body: 从瑞典发源的高校教职招聘平台
-        tag: 暂时不支持简体中文
-        url: https://academicpositions.com/
-      - title: NameSilo
-        body: 功能完善稳定的域名注册管理商之中第一年初始价格最实惠的
-        tag: 可批量管理多个域名的网络配置
-        url: https://www.namesilo.com/
-      - title: 看见（统计）理论
-        body: 可视化概率统计入门
-        tag: 小学生就能看
-        url: https://seeing-theory.brown.edu/cn.html
+      - title: Cool Papers
+        body: 信科领域最新预印本 AI 推荐
+        tag: Powerd by Kimi
+        url: https://papers.cool/
+  - title: 资料库
+    category: material
+    content:
+      - title: American Literature
+        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
+        tag: 有广告 | 有搜索栏
+        url: https://americanliterature.com/
       - title: sssr.su
         body: 苏联研究
         tag: 非盈利档案网站
         url: https://sssr.su/
-      - title: Конструкторское бюро специального машиностроения
-        body: 
-        tag: 原苏联海军炮兵中央设计局
-        url: https://xn--90arht.xn--p1ai/
-      - title: COS｜统计之都
-        body: 旨在推广与应用统计学知识的网站，由志愿者社区维护
-        tag: Capital of Statistics
-        url: https://cosx.org/
-      - title: Polisci Speaker Series
-        body: 有美国背景的若干中国政治学者发起的线上会议交流
-        tag: 也包括政治经济学、政治传播等
-        url: http://polisciworkshopchina.cn/
-      - title: 美国战略和国际研究院
-        body: CSIS｜从乔治城大学分离出的跨党派智库单位
-        tag: 外交政策｜国家安全
-        url: https://www.csis.org/
-      - title: CLHM｜华东师大民间记忆与地方文献研究中心
-        body: Local History & Memory
-        tag: 历史系平台单位之一
-        url: http://www.clhm.ecnu.edu.cn/
-      - title: SuperMemo Wiki
-        body: Piotr Wozniak 创办的 Wiki，创作关于记忆和学习原理的内容
-        tag: 目前尚仅有极少数翻译成简体中文
-        url: https://supermemo.guru/
-      - title: 里下河文学网
-        body: 泰州文联主办－与汉地其他区域有明显不同的独特地域文学审美
-        tag: 名家名作 | 文学评论 | 特别专栏
-        url: http://www.lxhwx.cn/
-      - title: CICIR | 中国现代国际关系研究院
-        body: 行业内简称「现代院」在海淀
-        tag: 智库 | 国际关系
-        url: http://www.cicir.ac.cn/
-      - title: 上海国际问题研究院
-        body: 行业内简称「上海院」
-        tag: 智库 | 国际关系
-        url: https://www.siis.org.cn/
-      - title: ISW | 美国战争研究所
-        body: Institute for the Study of War
-        tag: 智库 | 国际关系 | 开源军事情报
-        url: https://www.understandingwar.org/
-      - title: 中国历史研究院
-        body: 实体研究机构，兼职管理，初衷在拨乱，规范史学政治立场
-        tag: 2019 年成立
-        url: http://hrczh.cass.cn/
-      - title: 中文马克思主义文库
-        body: 传播马克思主义和共产主义历史文献和参考资料 | 2006 年始
-        tag: HTML | PDF | 招募志愿者整理
-        url: https://www.marxists.org/chinese/
+      - title: 互联网档案馆
+        body: 一切互联网站点数字形式文物的存档馆，不局限于网页
+        tag: 全英文 | Internet Archive
+        url: https://archive.org/
+      - title: 网页存档
+        body: 用户输入网页地址，自动保存网页 | 匿名独立个人自费运营
+        tag: Archive.today | 网页史料保存
+        url: https://archive.ph/
+      - title: 国家图书馆
+        body: 提供众多网址，可跳转到各个书库的网站
+        tag: 文津搜索 | 古籍库
+        url: https://www.nlc.cn/
+      - title: Online Library of Liberty
+        body: 偏重自由主义的网上公开图书馆
+        tag: 自由基金会 Liberty Fund
+        url: https://oll.libertyfund.org/
+      - title: Anna’s Archive
+        body: The largest truly open library in human history
+        tag: 解放了一系列影子图书馆
+        url: https://zh.annas-archive.org/
+      - title: Find Economic Articles with Data
+        body: 搜索经济学论文｜带数据和代码
+        tag: 简洁搜索页面
+        url: https://ejd.econ.mathematik.uni-ulm.de/
+      - title: Replication Wiki
+        body: 社会科学经验分析应用计量研究复现，尤其是经济学
+        tag: 具有 Wiki 标准形式的一切功能
+        url: https://replication.uni-goettingen.de/
       - title: 识典古籍
         body: 有精校，有粗校，还有在线参与整理
         tag: 北大中文系－字节跳动
@@ -1323,78 +1361,50 @@ tools:
         body: 用 Unicode 字体（尤其是 CJK 扩展 A 区至 D 区的字）显示
         tag: 从先秦到民国 | 原典可搜索
         url: https://ctext.org/zhs
-      - title: 中国川剧文化实景地图
-        body: Firefox 内核浏览器显示效果比 Chrome 内核浏览器好
-        tag: 「成都全景网络」公司
-        url: http://zgcj.cd168.cn/Map
-      - title: 绵阳市政协网上文史馆
-        body: 书是图片扫描本，无目录，网页在线翻阅，无 OCR
-        tag: 分书籍和帖子两部分
-        url: http://zx.my.gov.cn/lib/
+      - title: 中文马克思主义文库
+        body: 传播马克思主义和共产主义历史文献和参考资料 | 2006 年始
+        tag: HTML | PDF | 招募志愿者整理
+        url: https://www.marxists.org/chinese/
       - title: 绵阳日报数字报
         body: 原有日历查询功能因不明原因消失，只能更改网址中的日期跳转
         tag: 点击版面分区跳出电子文字页面
         url: http://epaper.myrb.net/
-      - title: 互联网档案馆
-        body: 一切互联网站点数字形式文物的存档馆，不局限于网页
-        tag: 全英文 | Internet Archive
-        url: https://archive.org/
-      - title: 网页存档
-        body: 用户输入网页地址，自动保存网页 | 匿名独立个人自费运营
-        tag: Archive.today | 网页史料保存
-        url: https://archive.ph/
-
-      - title: 国家图书馆
-        body: 提供众多网址，可跳转到各个书库的网站
-        tag: 文津搜索 | 古籍库
-        url: https://www.nlc.cn/
-
-      - title: Online Library of Liberty
-        body: 偏重自由主义的网上公开图书馆
-        tag: 自由基金会 Liberty Fund
-        url: https://oll.libertyfund.org/
-
-      - title: Anna’s Archive
-        body: The largest truly open library in human history
-        tag: 解放了一系列影子图书馆
-        url: https://zh.annas-archive.org/
-
-      - title: Find Economic Articles with Data
-        body: 搜索经济学论文｜带数据和代码
-        tag: 简洁搜索页面
-        url: https://ejd.econ.mathematik.uni-ulm.de/
-
-      - title: Replication Wiki
-        body: 社会科学经验分析应用计量研究复现，尤其是经济学
-        tag: 具有 Wiki 标准形式的一切功能
-        url: https://replication.uni-goettingen.de/
-
-      - title: Statology
-        body: 应用统计教程，从统计入门科普到机器学习和多种统计编程语言
-        tag: Zach Bobbitt 个人主办
-        url: https://www.statology.org
-
-      - title: freeCodeCamp
-        body: Quincy Larson 创办免费学习编程平台，适合入门
-        tag: 中文版 | 从前端到 Python
-        url: https://www.freecodecamp.org/chinese/
-
-      - title: Datawhale
-        body: 非盈利组织｜人工智能学习资料
-        tag: 提供课程认证
-        url: https://www.datawhale.cn/
-
-      - title: QuantStart
-        body: 从衍生品定价发展来的算法交易教程
-        tag: Quantcademy 的入门版本
-        url: https://www.quantstart.com/
-
-      - title: Quick Reference
-        body: 软件开发人员的技术栈快速查阅－是 Reference 的中文版
-        tag: 编程 | 前端 | CLI | 数据库 | 工具
-        url: https://quickref.cn/
-
-      - title: 菜鸟教程
-        body: 众多编程语言和技能，教程、参考双用
-        tag: 另有几种主流语言的测验题
-        url: https://www.runoob.com/
+      - title: 绵阳市政协网上文史馆
+        body: 书是图片扫描本，无目录，网页在线翻阅，无 OCR
+        tag: 分书籍和帖子两部分
+        url: http://zx.my.gov.cn/lib/
+  - title: 知识普及
+    category: childedu
+    content:
+      - title: 看见（统计）理论
+        body: 可视化概率统计入门
+        tag: 小学生就能看
+        url: https://seeing-theory.brown.edu/cn.html
+      - title: 中国川剧文化实景地图
+        body: Firefox 内核浏览器显示效果比 Chrome 内核浏览器好
+        tag: 「成都全景网络」公司
+        url: http://zgcj.cd168.cn/Map
+      - title: 框框大学
+        body: 辞海式学习建议条目聚合－bilibili「取景框看世界」创建
+        tag: 有搜索框和条件筛选
+        url: https://www.kkdaxue.com/
+      - title: 不列颠百科全书
+        body: 英美文化的一切分支和交叉知识查询
+        tag: 大型商业品牌－文化教育巨头
+        url: https://www.britannica.com/
+      - title: Online Etymology Dictionary
+        body: 查询英语词汇的来源和演变
+        tag: 业余爱好独立作者的项目
+        url: https://www.etymonline.com/
+      - title: Thesaurus.com
+        body: 英语同义词查询、词林｜英文「小学」常识
+        tag: 有广告
+        url: https://www.thesaurus.com/
+      - title: 医学微视
+        body: 北京博彧维康公司提供的临床医学科普平台
+        tag: 按科室区分专栏 | 有盈利性质
+        url: https://www.mvyxws.cn/
+      - title: Examine
+        body: 查询营养保健品有效与否，引用和循证较完善
+        tag: 全英文 | 可按物品和功能查询
+        url: https://examine.com/

@@ -2,6 +2,22 @@ tools:
   - title: 办事
     category: admin
     content:
+      - title: 中国志愿服务网
+        body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台
+        tag: 全国站－可切换到各省
+        url: https://chinavolunteer.mca.gov.cn/
+      - title: 高校毕业生到国际组织实习岗位信息
+        body: 任职信息服务平台
+        tag: 教育部学生服务与素质发展中心
+        url: https://gj.ncss.cn/job.html
+      - title: 小木虫论坛研究生招生
+        body: 几乎仅理工科
+        tag: 有广告
+        url: https://muchong.com/f-430-1
+      - title: 中国公共招聘网
+        body: 可跳转到各省招聘网
+        tag: 人力资源和社会保障部
+        url: http://job.mohrss.gov.cn/
       - title: NPM Mirror
         body: npm 源的中国大陆镜像，可代替官方源
         tag: 可以直接 web 方式
@@ -131,22 +147,6 @@ tools:
         body: 校内传帮带的留学经验文档
         tag: 用 MkDocs 做的
         url: https://feiyue.online/
-      - title: 中国志愿服务网
-        body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台
-        tag: 全国站－可切换到各省
-        url: https://chinavolunteer.mca.gov.cn/
-      - title: 高校毕业生到国际组织实习岗位信息
-        body: 任职信息服务平台
-        tag: 教育部学生服务与素质发展中心
-        url: https://gj.ncss.cn/job.html
-      - title: 小木虫论坛研究生招生
-        body: 几乎仅理工科
-        tag: 有广告
-        url: https://muchong.com/f-430-1
-      - title: 中国公共招聘网
-        body: 可跳转到各省招聘网
-        tag: 人力资源和社会保障部
-        url: http://job.mohrss.gov.cn/
       - title: ASD 就诊地图
         body: 青衫 Aspie 提供
         tag: 分省查询

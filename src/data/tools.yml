@@ -69,6 +69,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: 框框大学
+        body: 辞海式学习建议条目聚合－bilibili「取景框看世界」创建
+        tag: 有搜索框和条件筛选
+        url: https://www.kkdaxue.com/
       - title: 异体字查询
         body: 可查单字、注音、汉语拼音、仓颉码、四角号码
         tag: 中华民国教育部提供
@@ -248,6 +252,272 @@ tools:
         body: AI 图片编辑工具 | 多个系列的多种工具，一平台通用
         tag: 五角人民币一个积分
         url: https://picpicai.com/zh
+  - title: 网页书
+    category: web-book
+    content:
+      - title: 看见（统计）理论
+        body: 可视化概率统计入门
+        tag: 小学生就能看
+        url: https://seeing-theory.brown.edu/cn.html
+      - title: 清华大学飞跃手册
+        body: 校内传帮带的留学经验文档
+        tag: 用 MkDocs 做的
+        url: https://feiyue.online/
+      - title: 上海交大飞跃手册
+        body: 上海交通大学生存手册的延伸版本，前者很知名
+        tag: 2016 级以后暂无更新
+        url: https://survivesjtu.github.io/SJTU-Application/
+
+      - title: 深度学习从入门到面试
+        body: 学习文档｜网页形式
+        tag: 百度飞桨社区提供
+        url: https://paddlepedia.readthedocs.io
+
+      - title: Typst 中文教程
+        body: 又称「小蓝书」
+        tag: 网页在线版
+        url: https://typst-doc-cn.github.io/tutorial
+
+      - title: Palmer Penguins
+        body: 用企鹅数据集快速入门 Stata 可视化操作
+        tag: Rios-Avila 提供
+        url: https://friosavila.github.io/stataviz/stataviz5.html
+
+      - title: Using Quarto for Stata dynamic documents
+        body: sysuse auto 案例
+        tag: 基于 Jupyter 和 nbstata
+        url: https://friosavila.github.io/playingwithstata/quarto/dynstat
+
+      - title: Causal Inference for The Brave and True
+        body: Python 计量经济学网页书
+        tag: Matheus Facure｜另有中文翻译版
+        url: https://matheusfacure.github.io/python-causality-handbook
+
+      - title: Python 数据科学加速
+        body: 鲁蔚征、秦续业等人写的 Python 并行加速教程
+        tag: Data + AI Lab 的中文原版
+        url: https://scale-py.godaai.org
+
+      - title: momo 知乎笔记
+        body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
+        tag: 笔记－金融｜各种各样经济学
+        url: https://zhuanlan.zhihu.com/p/524823847
+
+      - title: AI－EDU
+        body: 微软亚洲研究院的公益性质人工智能学习网站，偏重神经网络
+        tag: 基础教程｜实践案例
+        url: https://microsoft.github.io/ai-edu
+
+      - title: Woop My Life 中文
+        body: Wish－Outcome－Obstacle－Plan
+        tag: Gabriele Oettingen 团队
+        url: https://woopmylife.org/zh-hans/home
+
+      - title: Pandas 中文教程
+        body: 耿远昊编写的开源 Joyful Pandas 教程－简体中文
+        tag: 注重动手实践 | 智海平台配套免费课
+        url: https://inter.joyfulpandas.datawhale.club
+
+      - title: 计算机教育缺失一课
+        body: The Missing Semester of Your CS Education 中文翻译
+        tag: 如何精通工具 | 在线学习材料
+        url: https://missing-semester-cn.github.io
+
+      - title: The Missing Semester of Your CS Education
+        body: 计算机教育缺失的一课英文原版
+        tag: 如何精通工具 | 在线学习材料
+        url: https://missing.csail.mit.edu
+
+      - title: Markdown 教程
+        body: 自称「Markdown 官方教程」，对新手友好，无广告
+        tag: 入门 | 速查 | 语法 | 工具
+        url: https://markdown.com.cn
+
+      - title: Quarto 学习笔记
+        body: 杜俊宏编写的中文教程 | 面向多编程语言的新一代 Rmarkdown
+        tag: 编辑内容 | 插入组件 | 输出发布
+        url: https://djhcod.github.io/Quarto-foundation.github.io
+
+      - title:  MkDocs 文档开发教程
+        body: MkDocs 曾经是最流行的简约 Markdown 目录结构网站框架
+        tag: 快速入门 | 进阶操作 | 附录
+        url: https://mkdocs-like-code.readthedocs.io/zh-cn/latest
+
+      - title: Coding for Economists
+        body: 针对经济类学科的 Python 教程，从零基础开始教
+        tag: Arthur Turrell 等写的在线网页书
+        url: https://aeturrell.github.io/coding-for-economists
+
+      - title: Julia 语言入门
+        body: 北大数院统计学 Faculty 李东风撰写的在线教程，已有 26 章
+        tag: 界面很漂亮 | 可调字体 | 有 PDF
+        url: https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book
+
+      - title: 现代科学计算
+        body: 港科大（广州）计算物理 Faculty 刘金国撰写
+        tag: Julia 编程语言 | 知乎专栏
+        url: https://www.zhihu.com/column/c_1706037360360304641
+
+      - title: QuantEcon
+        body: 网页学习经济学建模计算工具
+        tag: 课程 | 代码 | 书 | 偏重金融
+        url: https://quantecon.org
+
+      - title: CS 自学指南
+        body: 仲殷旻编写计算机自学指南，受到北大信科院友强烈反响
+        tag: 2021 年已完稿 | 中英双语
+        url: https://csdiy.wiki
+
+      - title: The Effect
+        body: Nick C. Huntington-Klein 写的因果研究设计
+        tag: 网页形式｜在线免费
+        url: https://theeffectbook.net
+
+      - title: Introduction to Economic Analysis
+        body: 出版社将这本书「匿名开源」
+        tag: McAfee, Lewis and Dale
+        url: https://saylordotorg.github.io/text_introduction-to-economic-analysis
+
+      - title: Solutions to Linear Algebra Done Right 3rd Edition
+        body: 
+        tag: 还有 Baby Rudin 等其他教材答案
+        url: https://web.archive.org/web/20250128231029/https://linearalgebras.com
+
+      - title: Immersive Linear Algebra
+        body: 沉浸式线性代数教程
+        tag: 网页在线免费 | 交互式动态图像
+        url: https://immersivemath.com
+
+      - title: Neural Networks and Deep Learning
+        body: Michael Nielsen 撰写
+        tag: 开源网页书 | 2019 年完稿
+        url: http://neuralnetworksanddeeplearning.com
+
+      - title: 动手学深度学习
+        body: PyTorch | NumPy / MXNet | TensorFlow | PaddlePaddle
+        tag: 网页在线简体中文 | 多种实现 
+        url: https://zh.d2l.ai
+
+      - title: 机器学习因果推断教程
+        body: 斯坦福 AI Faculty Undral Byambadalai 编写
+        tag: 全英文 | Bookdown 在线书
+        url: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial
+
+      - title: Causal Inference The Mixtape
+        body: Scott Cunningham 写的
+        tag: 全英文网页免费 | 中文版纸质收费
+        url: https://mixtape.scunning.com
+
+      - title: Python for Data Analysis, 3E
+        body: Wes McKinney
+        tag: 网页开源书 | 有数据和代码
+        url: https://wesmckinney.com/book
+  - title: 资料库
+    category: materialbase
+    content:
+      - title: Cool Papers
+        body: 信科领域最新预印本 AI 推荐
+        tag: Powerd by Kimi
+        url: https://papers.cool/
+      - title: American Literature
+        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
+        tag: 有广告 | 有搜索栏
+        url: https://americanliterature.com/
+      - title: sssr.su
+        body: 苏联研究
+        tag: 非盈利档案网站
+        url: https://sssr.su/
+      - title: 互联网档案馆
+        body: 一切互联网站点数字形式文物的存档馆，不局限于网页
+        tag: 全英文 | Internet Archive
+        url: https://archive.org/
+      - title: 网页存档
+        body: 用户输入网页地址，自动保存网页 | 匿名独立个人自费运营
+        tag: Archive.today | 网页史料保存
+        url: https://archive.ph/
+      - title: 国家图书馆
+        body: 提供众多网址，可跳转到各个书库的网站
+        tag: 文津搜索 | 古籍库
+        url: https://www.nlc.cn/
+      - title: Online Library of Liberty
+        body: 偏重自由主义的网上公开图书馆
+        tag: 自由基金会 Liberty Fund
+        url: https://oll.libertyfund.org/
+      - title: Anna’s Archive
+        body: The largest truly open library in human history
+        tag: 解放了一系列影子图书馆
+        url: https://zh.annas-archive.org/
+      - title: Find Economic Articles with Data
+        body: 搜索经济学论文｜带数据和代码
+        tag: 简洁搜索页面
+        url: https://ejd.econ.mathematik.uni-ulm.de/
+      - title: Replication Wiki
+        body: 社会科学经验分析应用计量研究复现，尤其是经济学
+        tag: 具有 Wiki 标准形式的一切功能
+        url: https://replication.uni-goettingen.de/
+      - title: 识典古籍
+        body: 有精校，有粗校，还有在线参与整理
+        tag: 北大中文系－字节跳动
+        url: https://www.shidianguji.com/
+      - title: 谭其骧版地图
+        body: 网页浏览，由「古今文字集成」项目提供服务
+        tag: 图片大，加载可能慢
+        url: http://ccamc.co/chinese_historical_map/
+      - title: 中国哲学书电子化计划
+        body: 用 Unicode 字体（尤其是 CJK 扩展 A 区至 D 区的字）显示
+        tag: 从先秦到民国 | 原典可搜索
+        url: https://ctext.org/zhs
+      - title: 中文马克思主义文库
+        body: 传播马克思主义和共产主义历史文献和参考资料 | 2006 年始
+        tag: HTML | PDF | 招募志愿者整理
+        url: https://www.marxists.org/chinese/
+      - title: 绵阳日报数字报
+        body: 原有日历查询功能因不明原因消失，只能更改网址中的日期跳转
+        tag: 点击版面分区跳出电子文字页面
+        url: http://epaper.myrb.net/
+      - title: 绵阳市政协网上文史馆
+        body: 书是图片扫描本，无目录，网页在线翻阅，无 OCR
+        tag: 分书籍和帖子两部分
+        url: http://zx.my.gov.cn/lib/
+  - title: 文艺
+    category: la
+    content:
+      - title: Donna M. Campbell
+        body: 华盛顿州立大学 英文系 Faculty
+        tag: 美国文学研究与教学
+        url: https://public.wsu.edu/~campbelld/
+      - title: Ethan Reed
+        body: Just Play 玩具设计师
+        tag: 玲娜贝儿的创作人
+        url: https://www.ethanreed.net/
+      - title: 黎云波
+        body: 聚味轩酒楼（彭州）总经理 & 总厨 | 四分钟以下竖视频
+        tag: 川西平原传统菜
+        url: https://space.bilibili.com/61690678
+      - title: 里下河文学网
+        body: 泰州文联主办－与汉地其他区域有明显不同的独特地域文学审美
+        tag: 名家名作 | 文学评论 | 特别专栏
+        url: http://www.lxhwx.cn/
+      - title: American Literature
+        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
+        tag: 有广告 | 有搜索栏
+        url: https://americanliterature.com/
+      - title: 中国川剧文化实景地图
+        body: Firefox 内核浏览器显示效果比 Chrome 内核浏览器好
+        tag: 「成都全景网络」公司
+        url: http://zgcj.cd168.cn/Map
+      - title: 不列颠百科全书
+        body: 英美文化的一切分支和交叉知识查询
+        tag: 大型商业品牌－文化教育巨头
+        url: https://www.britannica.com/
+      - title: Online Etymology Dictionary
+        body: 查询英语词汇的来源和演变
+        tag: 业余爱好独立作者的项目
+        url: https://www.etymonline.com/
+      - title: Thesaurus.com
+        body: 英语同义词查询、词林｜英文「小学」常识
+        tag: 有广告
+        url: https://www.thesaurus.com/
   - title: 社科人
     category: pss
     content:
@@ -824,9 +1094,17 @@ tools:
         body: 北大信科本科 | 北京大学 信息科学技术学院 PhD
         tag: 深度学习 | 大语言模型
         url: https://www.yinminzhong.com/
-  - title: 理工机构
+  - title: 理工
     category: isc
     content:
+      - title: 医学微视
+        body: 北京博彧维康公司提供的临床医学科普平台
+        tag: 按科室区分专栏 | 有盈利性质
+        url: https://www.mvyxws.cn/
+      - title: Examine
+        body: 查询营养保健品有效与否，引用和循证较完善
+        tag: 全英文 | 可按物品和功能查询
+        url: https://examine.com/
       - title: Конструкторское бюро специального машиностроения
         body: 
         tag: 原苏联海军炮兵中央设计局
@@ -867,29 +1145,6 @@ tools:
         body: Piotr Wozniak 创办的 Wiki，创作关于记忆和学习原理的内容
         tag: 目前尚仅有极少数翻译成简体中文
         url: https://supermemo.guru/
-  - title: 文学＆艺术
-    category: la
-    content:
-      - title: Donna M. Campbell
-        body: 华盛顿州立大学 英文系 Faculty
-        tag: 美国文学研究与教学
-        url: https://public.wsu.edu/~campbelld/
-      - title: Ethan Reed
-        body: Just Play 玩具设计师
-        tag: 玲娜贝儿的创作人
-        url: https://www.ethanreed.net/
-      - title: 黎云波
-        body: 聚味轩酒楼（彭州）总经理 & 总厨 | 四分钟以下竖视频
-        tag: 川西平原传统菜
-        url: https://space.bilibili.com/61690678
-      - title: 里下河文学网
-        body: 泰州文联主办－与汉地其他区域有明显不同的独特地域文学审美
-        tag: 名家名作 | 文学评论 | 特别专栏
-        url: http://www.lxhwx.cn/
-      - title: American Literature
-        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
-        tag: 有广告 | 有搜索栏
-        url: https://americanliterature.com/
   - title: 商科人
     category: pbs
     content:
@@ -941,7 +1196,7 @@ tools:
         body: 自由职业人（成都）| 网络营销技术咨询
         tag: 英文网站运营 | 外贸 | 流量变现
         url: https://tomhello.com/
-  - title: Web 开发
+  - title: Web
     category: web-dev
     content:
       - title: NameSilo
@@ -1017,7 +1272,7 @@ tools:
         body: 大规模中文字体网络化工具和解决方案－Web Font 形式开源
         tag: 免费可商用的 Web 字体文件
         url: https://chinese-font.netlify.app/zh-cn/
-  - title: 事务综合
+  - title: 事务
     category: iga
     content:
       - title: 中国志愿服务网
@@ -1048,163 +1303,6 @@ tools:
         body: 从瑞典发源的高校教职招聘平台
         tag: 暂时不支持简体中文
         url: https://academicpositions.com/
-  - title: 网页书
-    category: web-book
-    content:
-
-      - title: 清华大学飞跃手册
-        body: 校内传帮带的留学经验文档
-        tag: 用 MkDocs 做的
-        url: https://feiyue.online/
-      - title: 上海交大飞跃手册
-        body: 上海交通大学生存手册的延伸版本，前者很知名
-        tag: 2016 级以后暂无更新
-        url: https://survivesjtu.github.io/SJTU-Application/
-
-      - title: 深度学习从入门到面试
-        body: 学习文档｜网页形式
-        tag: 百度飞桨社区提供
-        url: https://paddlepedia.readthedocs.io
-
-      - title: Typst 中文教程
-        body: 又称「小蓝书」
-        tag: 网页在线版
-        url: https://typst-doc-cn.github.io/tutorial
-
-      - title: Palmer Penguins
-        body: 用企鹅数据集快速入门 Stata 可视化操作
-        tag: Rios-Avila 提供
-        url: https://friosavila.github.io/stataviz/stataviz5.html
-
-      - title: Using Quarto for Stata dynamic documents
-        body: sysuse auto 案例
-        tag: 基于 Jupyter 和 nbstata
-        url: https://friosavila.github.io/playingwithstata/quarto/dynstat
-
-      - title: Causal Inference for The Brave and True
-        body: Python 计量经济学网页书
-        tag: Matheus Facure｜另有中文翻译版
-        url: https://matheusfacure.github.io/python-causality-handbook
-
-      - title: Python 数据科学加速
-        body: 鲁蔚征、秦续业等人写的 Python 并行加速教程
-        tag: Data + AI Lab 的中文原版
-        url: https://scale-py.godaai.org
-
-      - title: momo 知乎笔记
-        body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
-        tag: 笔记－金融｜各种各样经济学
-        url: https://zhuanlan.zhihu.com/p/524823847
-
-      - title: AI－EDU
-        body: 微软亚洲研究院的公益性质人工智能学习网站，偏重神经网络
-        tag: 基础教程｜实践案例
-        url: https://microsoft.github.io/ai-edu
-
-      - title: Woop My Life 中文
-        body: Wish－Outcome－Obstacle－Plan
-        tag: Gabriele Oettingen 团队
-        url: https://woopmylife.org/zh-hans/home
-
-      - title: Pandas 中文教程
-        body: 耿远昊编写的开源 Joyful Pandas 教程－简体中文
-        tag: 注重动手实践 | 智海平台配套免费课
-        url: https://inter.joyfulpandas.datawhale.club
-
-      - title: 计算机教育缺失一课
-        body: The Missing Semester of Your CS Education 中文翻译
-        tag: 如何精通工具 | 在线学习材料
-        url: https://missing-semester-cn.github.io
-
-      - title: The Missing Semester of Your CS Education
-        body: 计算机教育缺失的一课英文原版
-        tag: 如何精通工具 | 在线学习材料
-        url: https://missing.csail.mit.edu
-
-      - title: Markdown 教程
-        body: 自称「Markdown 官方教程」，对新手友好，无广告
-        tag: 入门 | 速查 | 语法 | 工具
-        url: https://markdown.com.cn
-
-      - title: Quarto 学习笔记
-        body: 杜俊宏编写的中文教程 | 面向多编程语言的新一代 Rmarkdown
-        tag: 编辑内容 | 插入组件 | 输出发布
-        url: https://djhcod.github.io/Quarto-foundation.github.io
-
-      - title:  MkDocs 文档开发教程
-        body: MkDocs 曾经是最流行的简约 Markdown 目录结构网站框架
-        tag: 快速入门 | 进阶操作 | 附录
-        url: https://mkdocs-like-code.readthedocs.io/zh-cn/latest
-
-      - title: Coding for Economists
-        body: 针对经济类学科的 Python 教程，从零基础开始教
-        tag: Arthur Turrell 等写的在线网页书
-        url: https://aeturrell.github.io/coding-for-economists
-
-      - title: Julia 语言入门
-        body: 北大数院统计学 Faculty 李东风撰写的在线教程，已有 26 章
-        tag: 界面很漂亮 | 可调字体 | 有 PDF
-        url: https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book
-
-      - title: 现代科学计算
-        body: 港科大（广州）计算物理 Faculty 刘金国撰写
-        tag: Julia 编程语言 | 知乎专栏
-        url: https://www.zhihu.com/column/c_1706037360360304641
-
-      - title: QuantEcon
-        body: 网页学习经济学建模计算工具
-        tag: 课程 | 代码 | 书 | 偏重金融
-        url: https://quantecon.org
-
-      - title: CS 自学指南
-        body: 仲殷旻编写计算机自学指南，受到北大信科院友强烈反响
-        tag: 2021 年已完稿 | 中英双语
-        url: https://csdiy.wiki
-
-      - title: The Effect
-        body: Nick C. Huntington-Klein 写的因果研究设计
-        tag: 网页形式｜在线免费
-        url: https://theeffectbook.net
-
-      - title: Introduction to Economic Analysis
-        body: 出版社将这本书「匿名开源」
-        tag: McAfee, Lewis and Dale
-        url: https://saylordotorg.github.io/text_introduction-to-economic-analysis
-
-      - title: Solutions to Linear Algebra Done Right 3rd Edition
-        body: 
-        tag: 还有 Baby Rudin 等其他教材答案
-        url: https://web.archive.org/web/20250128231029/https://linearalgebras.com
-
-      - title: Immersive Linear Algebra
-        body: 沉浸式线性代数教程
-        tag: 网页在线免费 | 交互式动态图像
-        url: https://immersivemath.com
-
-      - title: Neural Networks and Deep Learning
-        body: Michael Nielsen 撰写
-        tag: 开源网页书 | 2019 年完稿
-        url: http://neuralnetworksanddeeplearning.com
-
-      - title: 动手学深度学习
-        body: PyTorch | NumPy / MXNet | TensorFlow | PaddlePaddle
-        tag: 网页在线简体中文 | 多种实现 
-        url: https://zh.d2l.ai
-
-      - title: 机器学习因果推断教程
-        body: 斯坦福 AI Faculty Undral Byambadalai 编写
-        tag: 全英文 | Bookdown 在线书
-        url: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial
-
-      - title: Causal Inference The Mixtape
-        body: Scott Cunningham 写的
-        tag: 全英文网页免费 | 中文版纸质收费
-        url: https://mixtape.scunning.com
-
-      - title: Python for Data Analysis, 3E
-        body: Wes McKinney
-        tag: 网页开源书 | 有数据和代码
-        url: https://wesmckinney.com/book
   - title: 离线书
     category: pdf-etc
     content:
@@ -1303,108 +1401,3 @@ tools:
         body: 昆山杜克 Faculty 李佩源提供
         tag: 一系列网址链接
         url: https://www.oscarpeiyuanl.com/code
-  - title: 论文库
-    category: paperbase
-    content:
-      - title: Cool Papers
-        body: 信科领域最新预印本 AI 推荐
-        tag: Powerd by Kimi
-        url: https://papers.cool/
-  - title: 资料库
-    category: material
-    content:
-      - title: American Literature
-        body: 美国经典文学作品文本分类分作者收录，特意照顾中小学教师
-        tag: 有广告 | 有搜索栏
-        url: https://americanliterature.com/
-      - title: sssr.su
-        body: 苏联研究
-        tag: 非盈利档案网站
-        url: https://sssr.su/
-      - title: 互联网档案馆
-        body: 一切互联网站点数字形式文物的存档馆，不局限于网页
-        tag: 全英文 | Internet Archive
-        url: https://archive.org/
-      - title: 网页存档
-        body: 用户输入网页地址，自动保存网页 | 匿名独立个人自费运营
-        tag: Archive.today | 网页史料保存
-        url: https://archive.ph/
-      - title: 国家图书馆
-        body: 提供众多网址，可跳转到各个书库的网站
-        tag: 文津搜索 | 古籍库
-        url: https://www.nlc.cn/
-      - title: Online Library of Liberty
-        body: 偏重自由主义的网上公开图书馆
-        tag: 自由基金会 Liberty Fund
-        url: https://oll.libertyfund.org/
-      - title: Anna’s Archive
-        body: The largest truly open library in human history
-        tag: 解放了一系列影子图书馆
-        url: https://zh.annas-archive.org/
-      - title: Find Economic Articles with Data
-        body: 搜索经济学论文｜带数据和代码
-        tag: 简洁搜索页面
-        url: https://ejd.econ.mathematik.uni-ulm.de/
-      - title: Replication Wiki
-        body: 社会科学经验分析应用计量研究复现，尤其是经济学
-        tag: 具有 Wiki 标准形式的一切功能
-        url: https://replication.uni-goettingen.de/
-      - title: 识典古籍
-        body: 有精校，有粗校，还有在线参与整理
-        tag: 北大中文系－字节跳动
-        url: https://www.shidianguji.com/
-      - title: 谭其骧版地图
-        body: 网页浏览，由「古今文字集成」项目提供服务
-        tag: 图片大，加载可能慢
-        url: http://ccamc.co/chinese_historical_map/
-      - title: 中国哲学书电子化计划
-        body: 用 Unicode 字体（尤其是 CJK 扩展 A 区至 D 区的字）显示
-        tag: 从先秦到民国 | 原典可搜索
-        url: https://ctext.org/zhs
-      - title: 中文马克思主义文库
-        body: 传播马克思主义和共产主义历史文献和参考资料 | 2006 年始
-        tag: HTML | PDF | 招募志愿者整理
-        url: https://www.marxists.org/chinese/
-      - title: 绵阳日报数字报
-        body: 原有日历查询功能因不明原因消失，只能更改网址中的日期跳转
-        tag: 点击版面分区跳出电子文字页面
-        url: http://epaper.myrb.net/
-      - title: 绵阳市政协网上文史馆
-        body: 书是图片扫描本，无目录，网页在线翻阅，无 OCR
-        tag: 分书籍和帖子两部分
-        url: http://zx.my.gov.cn/lib/
-  - title: 知识普及
-    category: childedu
-    content:
-      - title: 看见（统计）理论
-        body: 可视化概率统计入门
-        tag: 小学生就能看
-        url: https://seeing-theory.brown.edu/cn.html
-      - title: 中国川剧文化实景地图
-        body: Firefox 内核浏览器显示效果比 Chrome 内核浏览器好
-        tag: 「成都全景网络」公司
-        url: http://zgcj.cd168.cn/Map
-      - title: 框框大学
-        body: 辞海式学习建议条目聚合－bilibili「取景框看世界」创建
-        tag: 有搜索框和条件筛选
-        url: https://www.kkdaxue.com/
-      - title: 不列颠百科全书
-        body: 英美文化的一切分支和交叉知识查询
-        tag: 大型商业品牌－文化教育巨头
-        url: https://www.britannica.com/
-      - title: Online Etymology Dictionary
-        body: 查询英语词汇的来源和演变
-        tag: 业余爱好独立作者的项目
-        url: https://www.etymonline.com/
-      - title: Thesaurus.com
-        body: 英语同义词查询、词林｜英文「小学」常识
-        tag: 有广告
-        url: https://www.thesaurus.com/
-      - title: 医学微视
-        body: 北京博彧维康公司提供的临床医学科普平台
-        tag: 按科室区分专栏 | 有盈利性质
-        url: https://www.mvyxws.cn/
-      - title: Examine
-        body: 查询营养保健品有效与否，引用和循证较完善
-        tag: 全英文 | 可按物品和功能查询
-        url: https://examine.com/

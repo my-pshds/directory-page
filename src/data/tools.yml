@@ -1094,7 +1094,7 @@ tools:
         body: 北大信科本科 | 北京大学 信息科学技术学院 PhD
         tag: 深度学习 | 大语言模型
         url: https://www.yinminzhong.com/
-  - title: 理工
+  - title: 理工机构
     category: isc
     content:
       - title: 医学微视

@@ -521,6 +521,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 马弘
+        body: 清华大学 经济与管理学院 经济系 Faculty
+        tag: 产业｜贸易
+        url: https://mahong.weebly.com/
       - title: 王成军
         body: 南京大学 新闻传播学院 计算传播学实验中心 Faculty
         tag: 信息扩散｜注意力流动｜计算叙事
@@ -1196,7 +1200,7 @@ tools:
         body: 自由职业人（成都）| 网络营销技术咨询
         tag: 英文网站运营 | 外贸 | 流量变现
         url: https://tomhello.com/
-  - title: Web
+  - title: Web 开发
     category: web-dev
     content:
       - title: NameSilo

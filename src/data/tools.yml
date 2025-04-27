@@ -1233,7 +1233,7 @@ tools:
         tag: 浏览翻阅比官网更方便
         url: https://www.astrothemes.dev/
       - title: Transfonter
-        body: Alexey Ilyaskin 提供的服务，生成整套 font-face 文件夹和 css 语句
+        body: Alexey Ilyaskin 提供服务，生成整套 font-face 文件夹和 css 语句
         tag: 字体文件转换
         url: https://transfonter.org/
       - title: 中国传统颜色拾取器

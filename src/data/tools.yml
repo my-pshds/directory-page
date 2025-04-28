@@ -255,6 +255,10 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: Rust 教程
+        body: Henry Huang 提供的从易到难的教程
+        tag: 尚在编写中
+        url: https://rs.trybetter.app/
       - title: 看见（统计）理论
         body: 可视化概率统计入门
         tag: 小学生就能看

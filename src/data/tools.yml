@@ -1315,6 +1315,11 @@ tools:
     category: pdf-etc
     content:
 
+      - title: 概率论和随机过程
+        body: UC－San Diego 数学系 Todd Kemp 公布的课程材料
+        tag: 研究生｜全年｜视频和 Slides
+        url: https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/
+
       - title: Cambridge Notes
         body: 剑桥数学本科的一号狠人，老师讲课他实时用 LaTeX 敲笔记
         tag: 从大一到研一，几千页

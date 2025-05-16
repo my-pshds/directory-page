@@ -525,6 +525,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: Mauricio M. Caceres Bravo
+        body: 布朗大学 经济学系 2025届 PhD（gtools 作者）
+        tag: 犯罪｜医疗｜Stata 扩展包创作
+        url: https://mcaceresb.github.io/
       - title: 马弘
         body: 清华大学 经济与管理学院 经济系 Faculty
         tag: 产业｜贸易

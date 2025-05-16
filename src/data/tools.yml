@@ -525,7 +525,11 @@ tools:
   - title: 社科人
     category: pss
     content:
-      - title: Mauricio M. Caceres Bravo
+      - title: 杨娇娇
+        body: 香港中文大学 经济学系 2025届 PhD
+        tag: 发展｜政治｜历史
+        url: https://yangjiaojiaoeco.github.io/
+      - title: Mauricio Cáceres
         body: 布朗大学 经济学系 2025届 PhD（gtools 作者）
         tag: 犯罪｜医疗｜Stata 扩展包创作
         url: https://mcaceresb.github.io/

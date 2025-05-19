@@ -2,6 +2,10 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: DiD 命令目录
+        body: Asjad Naqvi 维护 Stata，Grant McDermott 维护 R
+        tag: 跟踪双重差分最新软件包
+        url: https://asjadnaqvi.github.io/DiD/
       - title: Lean 中文文档
         body: 微软研究院发布维护的数学证明语言
         tag: 从安装开始教
@@ -77,6 +81,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: VVQuest
+        body: 自然语言处理技术，查询所需的张维为表情图
+        tag: 若不开 LLM 增强则无限制
+        url: https://zvv.quest/
       - title: 框框大学
         body: 辞海式学习建议条目聚合－bilibili「取景框看世界」创建
         tag: 有搜索框和条件筛选
@@ -128,6 +136,11 @@ tools:
   - title: 工具
     category: app
     content:
+
+      - title: MathWrite
+        body: 智能识别数学手稿转换成 LaTeX 排版
+        tag: 订阅制
+        url: https://www.mathwrite.com/
       - title: GitHub 文件加速
         body: 用来转化下载链接对跨境访问加速
         tag: 输入原网址生成加速 url
@@ -267,6 +280,10 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: 小时百科
+        body: 数学、物理、计算机，本科和硕士核心课，注重知识系统连贯
+        tag: 广州小时科技提供
+        url: https://wuli.wiki/
       - title: Rust 教程
         body: Henry Huang 提供的从易到难的教程
         tag: 尚在编写中
@@ -541,6 +558,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 张鹏
+        body: 香港中文大学（深圳）经管学院 Faculty
+        tag: 环境｜劳动｜发展
+        url: https://pengzhang.weebly.com/
       - title: 张伊妍
         body: 中国人民大学 新闻学院 Faculty｜计传岛联合创始人
         tag: 移动互联网社交媒体计算传播学
@@ -952,6 +973,10 @@ tools:
   - title: 社科机构
     category: iss
     content:
+      - title: 经济史协会
+        body: 主办 The Journal of Economic History
+        tag: 经济学范式较多
+        url: https://eh.net/
       - title: 电子信息产业网
         body: 《中国电子报》同位网站，工信部主管
         tag: 行业智库媒体

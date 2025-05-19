@@ -518,6 +518,10 @@ tools:
   - title: 文艺
     category: la
     content:
+      - title: 素生
+        body: 网友「Arlmy」的 Blog
+        tag: 文艺笔记为主
+        url: https://z.arlmy.me/
       - title: Lana Del Rey
         body: Elizabeth Woolridge Grant
         tag: 流行音乐

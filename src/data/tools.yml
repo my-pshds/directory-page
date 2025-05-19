@@ -136,7 +136,10 @@ tools:
   - title: 工具
     category: app
     content:
-
+      - title: MHTML 到 HTML 转换器
+        body: Convertise 提供服务
+        tag: 完全免费
+        url: https://products.convertise.app/zh/mhtml-to-html/
       - title: MathWrite
         body: 智能识别数学手稿转换成 LaTeX 排版
         tag: 订阅制

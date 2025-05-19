@@ -2,6 +2,14 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: Lean 中文文档
+        body: 微软研究院发布维护的数学证明语言
+        tag: 从安装开始教
+        url: https://www.leanprover.cn/
+      - title: Gtools
+        body: Mauricio M. Cáceres Bravo 开发的 Stata 命令包，更快
+        tag: 针对大规模数据集优化
+        url: https://gtools.readthedocs.io/en/stable/
       - title: EconML
         body: 微软提供的机器学习因果效应估计包
         tag: 技术文档
@@ -120,6 +128,10 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: GitHub 文件加速
+        body: 用来转化下载链接对跨境访问加速
+        tag: 输入原网址生成加速 url
+        url: https://github.moeyy.xyz/
       - title: Qwerty Learner
         body: 双手键盘输入背英语单词，练打字速度，可选常用词库
         tag: 有语音提示 | 可选 VSCode 插件版
@@ -486,6 +498,10 @@ tools:
   - title: 文艺
     category: la
     content:
+      - title: Lana Del Rey
+        body: Elizabeth Woolridge Grant
+        tag: 流行音乐
+        url: https://www.lanadelrey.com/
       - title: Donna M. Campbell
         body: 华盛顿州立大学 英文系 Faculty
         tag: 美国文学研究与教学
@@ -525,6 +541,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 张伊妍
+        body: 中国人民大学 新闻学院 Faculty｜计传岛联合创始人
+        tag: 移动互联网社交媒体计算传播学
+        url: https://yiyanzhang.com/
+      - title: 孟克
+        body: 对外经济贸易大学 中国世界贸易组织研究院 2025届 PhD
+        tag: 技术博客｜国际贸易
+        url: https://mengke25.github.io/
       - title: 杨娇娇
         body: 香港中文大学 经济学系 2025届 PhD
         tag: 发展｜政治｜历史
@@ -646,7 +670,7 @@ tools:
         tag: 城市经济学
         url: https://www.zhanchangwei.com/
       - title: 卢樱丹
-        body: 美国西北大学 传播学 Faculty
+        body: 美国西北大学 传播学 Faculty｜计传岛联合创始人
         tag: 社会计算｜互联网传播
         url: https://yingdanlu.com/
       - title: 王绍达
@@ -928,6 +952,14 @@ tools:
   - title: 社科机构
     category: iss
     content:
+      - title: 电子信息产业网
+        body: 《中国电子报》同位网站，工信部主管
+        tag: 行业智库媒体
+        url: https://www.cena.com.cn/
+      - title: 经济观察网 
+        body: 《经济观察报》同位网站
+        tag: 通俗媒体
+        url: https://www.eeo.com.cn/
       - title: Polisci Speaker Series
         body: 有美国背景的若干中国政治学者发起的线上会议交流
         tag: 也包括政治经济学、政治传播等
@@ -1299,6 +1331,10 @@ tools:
   - title: 事务
     category: iga
     content:
+      - title: Zenodo
+        body: 将 GitHub 仓库发布为 doi
+        tag: 欧洲非盈利组织
+        url: https://zenodo.org/
       - title: 中国志愿服务网
         body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台
         tag: 全国站－可切换到各省

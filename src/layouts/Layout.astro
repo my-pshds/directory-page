@@ -28,6 +28,9 @@ const { site, title, tagline } = Astro.props;
 			<div class="logo">
 				<a href="/" aria-label="home page" tabindex="-1"><img id="logo" src="/logo.svg" width="24" height="24" alt="Roffi Roffe" aria-hidden="true"></a>
 			</div>
+
+
+
       <div class="btn-group">
 				<a
 					href="https://github.com/my-pshds/directory-page/issues/new"
@@ -57,7 +60,7 @@ const { site, title, tagline } = Astro.props;
 						></path></svg
 					>
 				</button>
-			</div>
+      </div>
     </div>
 
     <header class="nu-u-mb-10 nu-u-mt-10">
@@ -68,8 +71,11 @@ const { site, title, tagline } = Astro.props;
         
         <hr style="margin: 0.3rem 0; width: 50%; border-color: transparent;" />
 
-        <p style="font-weight: 600; line-height: normal;">按照先中文后外文，拼音字母表从 Z 到 A 的顺序排列</p>
-
+        <p style="font-weight: 600; line-height: 1.5;">按照先中文后外文，拼音字母表从 Z 到 A 的顺序排列<br>或
+          <a 
+          href="/time" style="text-decoration: none; color: var(--link-color)">
+          各分类下时间顺序</a>
+        </p>
         <hr style="margin: 0.3rem 0; width: 50%; border-color: transparent;" />
 
         <p class="nu-c-fs-normal nu-u-text--secondary description-text">{tagline}</p>

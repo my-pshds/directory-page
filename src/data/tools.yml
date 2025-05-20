@@ -136,6 +136,14 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: MyScript Webdemo
+        body: 手写识别，可导出为 PowerPoint
+        tag: LaTeX｜MathML｜pptx
+        url: https://webdemo.myscript.com/
+      - title: Snip Web
+        body: 识别技术转化为 LaTeX 为核心的笔记软件 SnipNotes 的网页版
+        tag: 设置可调成中文
+        url: https://snip.mathpix.com/
       - title: MHTML 到 HTML 转换器
         body: Convertise 提供服务
         tag: 完全免费
@@ -197,7 +205,7 @@ tools:
         tag: 法国最大的云服务商免费托管
         url: https://nbviewer.org/
       - title: 萝卜工坊
-        body: 在线生成模仿自己笔记的字体
+        body: 在线生成模仿自己笔迹的字体
         tag: 手写字体 | AI 定制
         url: https://www.beautifulcarrot.com/
       - title: Open Files Online
@@ -984,6 +992,18 @@ tools:
   - title: 社科机构
     category: iss
     content:
+      - title: 全球智库洞察平台
+        body: 国务院发展研究中心
+        tag: 首页排版特别难看
+        url: https://thinktank.drcnet.com.cn/
+      - title: 人大当代报刊资源服务平台
+        body: 党政报｜都市生活报｜行业专业报
+        tag: 凭机构 IP 地址准入
+        url: http://rdbk.ejiaoshi.net/
+      - title: Coherent Digital
+        body: 数字化索引资料库，全球历史和全球政策
+        tag: 2019 创业
+        url: https://coherentdigital.net/
       - title: 经济史协会
         body: 主办 The Journal of Economic History
         tag: 经济学范式较多
@@ -1367,6 +1387,10 @@ tools:
   - title: 事务
     category: iga
     content:
+      - title: 新浪微博应用管理
+        body: 新浪微博应用广场－我的应用｜管理第三方登录授权
+        tag: 2010 年代早期 UI
+        url: https://app.weibo.com/my
       - title: Zenodo
         body: 将 GitHub 仓库发布为 doi
         tag: 欧洲非盈利组织

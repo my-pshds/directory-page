@@ -2,6 +2,10 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: RSSHub
+        body: 万物皆可 RSS｜世界上最大的 RSS 网络
+        tag: 社区合作开发路由
+        url: https://docs.rsshub.app/zh/
       - title: DiD 命令目录
         body: Asjad Naqvi 维护 Stata，Grant McDermott 维护 R
         tag: 跟踪双重差分最新软件包
@@ -81,6 +85,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: 寰宇世界
+        body: 你见过功能最全的现代地图阅览，没有之一
+        tag: 高位替代大厂 PC 端地图 App
+        url: https://huawei.com.tw/
       - title: VVQuest
         body: 自然语言处理技术，查询所需的张维为表情图
         tag: 若不开 LLM 增强则无限制
@@ -573,6 +581,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 谢斌
+        body: 暨南大学 经济与社会研究院 Faculty
+        tag: 劳动｜发展｜历史
+        url: https://binxie.weebly.com/
       - title: 包特
         body: 南洋理工大学 社会科学院 经济学系 Faculty
         tag: 行为经济学实验｜行为金融
@@ -1142,6 +1154,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 顾佳凯
+        body: 广西民族大学 计算机 2025届 学术型硕士
+        tag: 网络日志
+        url: https://blog.gujiakai.top/
       - title: Wayne Small
         body: Wisconsin-Madison 量化金融 MSc
         tag: 量化交易｜移动开发｜人工智能
@@ -1209,6 +1225,14 @@ tools:
   - title: 理工机构
     category: isc
     content:
+      - title: 香蕉空间
+        body: 将 MediaWiki 与 TeX 语法结合的中文数学社区
+        tag: 百科｜讲义｜小文章
+        url: https://www.bananaspace.org/
+      - title: MathAcademy
+        body: 交互式教辅产品，在线学数学
+        tag: 价格略贵｜口碑很好
+        url: https://www.mathacademy.com/
       - title: 医学微视
         body: 北京博彧维康公司提供的临床医学科普平台
         tag: 按科室区分专栏 | 有盈利性质

@@ -1506,7 +1506,7 @@ tools:
         tag: 数据驱动｜最新版本修订
         url: https://phdmacrobook.org/
 
-      - title: 因果推断－从概念到实践
+      - title: 因果推断从概念到实践
         body: Causal Inference for the Brave and True 的中文翻译版
         tag: ipynb 格式｜Gitee 和 GitHub 都有
         url: https://gitee.com/xieliaing/causal-inference-intro-gitee

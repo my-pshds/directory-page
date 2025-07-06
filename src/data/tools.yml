@@ -75,7 +75,7 @@ tools:
         tag: 依赖 scikit-learn 和 mlr3
         url: https://docs.doubleml.org/
       - title: nbstata (jupyter)
-        body: Wisconsin-Madison 经济 PhD Tim Huegerich 开发内核插件
+        body: Wisconsin-Madison 经济学 PhD Tim Huegerich 开发内核插件
         tag: Jupyter | 一站式调用 Stata
         url: https://hugetim.github.io/nbstata/
       - title: pyecharts 文档
@@ -581,6 +581,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 尤炜
+        body: 北京大学 新结构经济学研究院 Faculty
+        tag: 城市｜发展｜历史
+        url: https://sites.google.com/site/youweilucky/
+      - title: Zheng Zhong
+        body: 密歇根大学 罗斯商学院 2024级 经济学 PhD
+        tag: 发展｜环境｜劳动
+        url: https://sites.google.com/view/zhengzhong
       - title: 谢斌
         body: 暨南大学 经济与社会研究院 Faculty
         tag: 劳动｜发展｜历史
@@ -730,7 +738,7 @@ tools:
         tag: 环境和发展中的政治经济学
         url: http://www.sdwang.org/
       - title: 朱逸飞
-        body: 香港大学 社会科学学院 政治系 PhD
+        body: 香港大学 社会科学院 政治系 PhD
         tag: 当代中国的分配政治学
         url: https://sites.google.com/view/frank-yifei/
       - title: 何国俊
@@ -974,7 +982,7 @@ tools:
         tag: 比较政治经济学
         url: https://www.alicezxu.com/
       - title: 张宇
-        body: 华中师大本科 南京大学硕士 上海交大经管院 PhD
+        body: 华中师大本科 南京大学硕士 上海交大国务学院 PhD
         tag: 发展和政治经济学 | 政治科学
         url: https://www.yuzhang.net/
       - title: 范昕宇
@@ -1076,7 +1084,7 @@ tools:
         tag: 数值代数｜科学计算
         url: https://math.ecnu.edu.cn/~jypan/
       - title: 陈乐偲
-        body: 清华大学交叉信息研究院 PhD
+        body: 清华大学 交叉信息研究院 PhD
         tag: 最优化算法｜研究＆助教
         url: https://truenobility303.github.io/
       - title: 黄正华
@@ -1154,6 +1162,14 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 张智恒
+        body: 上海财经大学 统计与数据科学院 Faculty
+        tag: 因果推断的机器学习
+        url: https://zhzhang01.github.io/
+      - title: 苏宁馨
+        body: 香港科技大学（广州）信息枢纽 物联网学域 Faculty
+        tag: 摇滚｜长跑｜旅行
+        url: https://ningxinsu.github.io/
       - title: 顾佳凯
         body: 广西民族大学 计算机 2025届 学术型硕士
         tag: 网络日志
@@ -1203,7 +1219,7 @@ tools:
         tag: Python 教学
         url: https://ehmatthes.github.io/
       - title: 邱锡鹏
-        body: 复旦大学 计算机科学技术学院 Faculty
+        body: 复旦大学 计算与智能创新学院 Faculty
         tag: NLP | LLM | 神经网络教学
         url: https://xpqiu.github.io/
       - title: 唐松

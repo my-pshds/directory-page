@@ -1166,10 +1166,10 @@ tools:
         body: 上海财经大学 统计与数据科学院 Faculty
         tag: 因果推断的机器学习
         url: https://zhzhang01.github.io/
-      # - title: 苏宁馨
-      #   body: 香港科技大学（广州）信息枢纽 物联网学域 Faculty
-      #   tag: 摇滚｜长跑｜旅行
-      #   url: https://ningxinsu.github.io/
+      - title: 苏宁馨
+        body: 多伦多大学 电子与计算机工程系 PhD
+        tag: 摇滚｜长跑｜旅行
+        url: https://ningxinsu.github.io/
       - title: 顾佳凯
         body: 广西民族大学 计算机 2025届 学术型硕士
         tag: 网络日志

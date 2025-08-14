@@ -477,7 +477,7 @@ tools:
         url: https://americanliterature.com/
       - title: sssr.su
         body: 苏联研究
-        tag: 非盈利档案网站
+        tag: 非营利档案网站
         url: https://sssr.su/
       - title: 互联网档案馆
         body: 一切互联网站点数字形式文物的存档馆，不局限于网页
@@ -581,6 +581,22 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: Cai, Christine 
+        body: 非营利组织 Prosperity Now 研究员
+        tag: 劳动和人口经济学
+        url: https://christinecai.github.io/
+      - title: 丁瑜
+        body: 中山大学 社会学与社会工作系 Faculty
+        tag: 女性社会学｜女性社会工作
+        url: https://ssa.sysu.edu.cn/teacher/2443
+      - title: 赵丽秋
+        body: 中国人民大学 劳动人事学院 Faculty
+        tag: 区域｜人口｜移民
+        url: https://liqiuzhaoecon.weebly.com/
+      - title: 陈滢
+        body: 厦门大学 经济学院 Faculty
+        tag: 城市｜环境｜数字平台
+        url: https://yingnehc.com/
       - title: 蔡熙乾
         body: 厦门大学 经济学院 Faculty
         tag: 行为｜实验｜劳动
@@ -1449,7 +1465,7 @@ tools:
         url: https://app.weibo.com/my
       - title: Zenodo
         body: 将 GitHub 仓库发布为 doi
-        tag: 欧洲非盈利组织
+        tag: 欧洲非营利组织
         url: https://zenodo.org/
       - title: 中国志愿服务网
         body: 共青团信息化支持平台 | 志愿者活动信息发布和展示平台

@@ -189,7 +189,7 @@ tools:
         tag: 参考文献 | 引证格式
         url: https://zbib.org/
       - title: TeX to Typst
-        body: 将 LaTeX 代码转化为 Typst 语言
+        body: LaTeX 代码和 Typst 语言互相转换
         tag: Web App
         url: https://qwinsi.github.io/tex2typst-webapp/
       - title: 云库工具
@@ -581,6 +581,22 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 蔡熙乾
+        body: 厦门大学 经济学院 Faculty
+        tag: 行为｜实验｜劳动
+        url: https://xiqiancai.weebly.com/
+      - title: 张宁
+        body: 香港中文大学 经济学系 Faculty
+        tag: 劳动｜家庭｜人口
+        url: https://sites.google.com/view/ningzhangecon/
+      - title: 郭汝飞
+        body: 武汉大学 经济与管理学院 世界经济系 Faculty
+        tag: 人口｜劳动｜健康｜国际
+        url: https://www.rufeiguo.com/
+      - title: Gao, Pei
+        body: 新加坡国立大学 李光耀公共政策学院 Faculty
+        tag: 发展经济学｜经济史
+        url: https://sites.google.com/site/gaopei11/
       - title: 尤炜
         body: 北京大学 新结构经济学研究院 Faculty
         tag: 城市｜发展｜历史
@@ -710,7 +726,7 @@ tools:
         tag: 发展｜政治｜中国经济史
         url: https://sites.google.com/view/congliu/
       - title: 石襄禺
-        body: 耶鲁大学 经济系 PhD
+        body: 复旦大学 管理学院 经济学 Faculty
         tag: 发展｜政治｜贸易｜环境｜产业
         url: https://sites.google.com/site/xiangyushi1/
       - title: 雷宇翔
@@ -905,10 +921,6 @@ tools:
         body: 华东师范大学 经管学院 Faculty
         tag: 机制设计研究｜微观理论教学
         url: https://pengliusmu.weebly.com/
-      - title: Sergio Correia
-        body: 美联储 金融稳定司 | 杜克 金融 PhD | Stata 命令 reghdfe 作者 
-        tag: 在拉丁语族国家教过书 | 宏观数据
-        url: https://scorreia.com/
       - title: 徐轶青
         body: 斯坦福大学 政治系 Faculty | 传播政治学
         tag: 量化社科方法
@@ -1300,6 +1312,10 @@ tools:
   - title: 商科人
     category: pbs
     content:
+      - title: Sergio Correia
+        body: 美联储 金融稳定司 | 杜克 金融 PhD | Stata 命令 reghdfe 作者 
+        tag: 在拉丁语族国家教过书 | 宏观数据
+        url: https://scorreia.com/
       - title: 钱军辉
         body: 上海交通大学 经管院 Faculty | 本科教学
         tag: 经济计量理论 | 国际金融

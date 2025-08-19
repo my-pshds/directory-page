@@ -299,6 +299,14 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: Stata 基本操作
+        body: GitHub 用户「czxb」在 2019 年编写的 stata 超快入门概览
+        tag: 仅仅一张网页
+        url: https://czxb.github.io/ar/Stata%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.html
+      - title: IPA Cleaning Guide
+        body: 非营利组织 Innovations for Poverty Action 提供的 Stata 数据清理指南
+        tag: stata｜网页书｜英文
+        url: https://povertyaction.github.io/guides/cleaning/readme/
       - title: 小时百科
         body: 数学、物理、计算机，本科和硕士核心课，注重知识系统连贯
         tag: 广州小时科技提供
@@ -1365,7 +1373,7 @@ tools:
         tag: 金融市场 | 宏观金融
         url: https://zhiguohe.net/
       - title: 左祥太
-        body: 厦门大学 会计系 PhD
+        body: 厦门大学 管理学院 会计学系 PhD
         tag: Stata 和 Python 教学
         url: https://shutterzor.cn/
       - title: 裘菊
@@ -1561,26 +1569,26 @@ tools:
   - title: 条目集
     category: link-sets
     content:
+      - title: 品葱*精选
+        body: 匿名网友在 GitHub 创建的网络帖子存档库
+        tag: 从品葱论坛发源拓展
+        url: https://project-gutenberg.github.io/Pincong/
       - title: AMS－STML
         body: 美国数学会－学生数学图书馆 | ISSN 1520-9121
         tag: 当代数学教材推荐
         url: https://bookstore.ams.org/content?PageName=stml
-
       - title: 虫部落－快搜
         body: 虫部落社区提供搜索引擎聚合
         tag: 虫部落 | 搜索引擎
         url: https://search.chongbuluo.com/
-
       - title: 集知盒子
         body: 微信公众号「集知盒子」提供的网址导航
         tag: 境内主流大平台——大网站
         url: https://www.jizhihezi.com/
-
       - title: Giffox
         body: 虫部落社区提供电子书搜索聚合
         tag: 虫部落 | 书籍 | 电子档
         url: https://www.giffox.com/
-
       - title: 虫部落－学术搜索
         body: 虫部落社区提供的学术搜索聚合
         tag: 虫部落 | Scholar
@@ -1593,7 +1601,6 @@ tools:
         body: 基于爬虫的网盘搜索聚合，但可能面临收费或其他门槛
         tag: 第三方网盘搜索
         url: http://www.chaonengso.com/
-
       - title: NLP of Chinese Text Data (with code)
         body: 昆山杜克 Faculty 李佩源提供
         tag: 一系列网址链接

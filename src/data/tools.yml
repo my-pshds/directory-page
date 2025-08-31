@@ -252,10 +252,10 @@ tools:
         body: 4cite Labs 提供在线检验工具，检查文章中的引用是否完整规范
         tag: 引证检查 | 论文格式
         url: https://reciteworks.com/
-      - title: Meshcapade Me
-        body: Meshcapade 提供的身形模拟参照，在线调整参数实时预览
+      - title: 身体可视化工具
+        body: WebHek 提供 | 在线调整参数实时预览 | 有广告
         tag: 仅供参考 | 谨防不切实际的身材焦虑
-        url: https://me.meshcapade.com/editor
+        url: https://www.webhek.com/post/body-visualizer-female/
       - title: Integral Calculator
         body: Calculate integrals online — with steps and graphing!
         tag: 积分计算器
@@ -1053,7 +1053,7 @@ tools:
         tag: 首页排版特别难看
         url: https://thinktank.drcnet.com.cn/
       - title: 人大当代报刊资源服务平台
-        body: 党政报｜都市生活报｜行业专业报
+        body: 党政报｜都市生活报｜行业报
         tag: 凭机构 IP 地址准入
         url: http://rdbk.ejiaoshi.net/
       - title: Coherent Digital

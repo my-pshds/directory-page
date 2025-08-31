@@ -144,12 +144,20 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: 能不能好好说话？
+        body: 将拼音首字缩写转回汉语词汇｜卜卜口提供
+        tag: 神奇海螺试验场
+        url: 
+      - title: Bingo 游戏生成器
+        body: 卜卜口提供
+        tag: 神奇海螺试验场
+        url: https://lab.magiconch.com/bingo/
       - title: MyScript Webdemo
         body: 手写识别，可导出为 PowerPoint
         tag: LaTeX｜MathML｜pptx
         url: https://webdemo.myscript.com/
       - title: Snip Web
-        body: 识别技术转化为 LaTeX 为核心的笔记软件 SnipNotes 的网页版
+        body: 识别转化为 LaTeX 为核心的笔记软件 SnipNotes 的网页版
         tag: 设置可调成中文
         url: https://snip.mathpix.com/
       - title: MHTML 到 HTML 转换器

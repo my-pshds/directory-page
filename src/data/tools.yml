@@ -553,7 +553,7 @@ tools:
         url: http://epaper.myrb.net/
       - title: 绵阳市政协网上文史馆
         body: 书是图片扫描本，无目录，网页在线翻阅，无 OCR
-        tag: 分书籍和帖子两部分
+        tag: 网址失效
         url: http://zx.my.gov.cn/lib/
   - title: 文艺
     category: la

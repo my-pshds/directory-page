@@ -307,6 +307,10 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: Thoughts Memo 合集
+        body: Thoughts Memo 是叶峻骁牵头创办的非营利公益翻译小组
+        tag: 认知科学 | 教育制度 | 儿童权利
+        url: https://l-m-sherlock.github.io/thoughts-memo-translation/
       - title: Stata 基本操作
         body: GitHub 用户「czxb」在 2019 年编写的 stata 超快入门概览
         tag: 仅仅一张网页
@@ -601,10 +605,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 方敏
+        body: 佛罗里达大学 经济学系 Faculty
+        tag: 宏观 | 金融 | 城市 | 科技
+        url: https://www.minfang.info/
       - title: Stefanie Stantcheva
         body: 哈佛大学 经济学系 Faculty
         tag: 税收 | 对自然人的调查实验
-        url: 
+        url: https://www.stefanie-stantcheva.com/
       - title: Cai, Christine 
         body: 非营利组织 Prosperity Now 研究员
         tag: 劳动和人口经济学

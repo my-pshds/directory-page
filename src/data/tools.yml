@@ -3,7 +3,7 @@ tools:
     category: doc
     content:
       - title: RSSHub
-        body: 万物皆可 RSS｜世界上最大的 RSS 网络
+        body: 万物皆可 RSS | 世界上最大的 RSS 网络
         tag: 社区合作开发路由
         url: https://docs.rsshub.app/zh/
       - title: DiD 命令目录
@@ -23,7 +23,7 @@ tools:
         tag: 技术文档
         url: https://econml.azurewebsites.net/
       - title: AiDocZh
-        body: 类别｜介绍｜工具名称｜中文文档｜英文文档｜Github｜星标
+        body: 类别 | 介绍 | 工具名称 | 中文文档 | 英文文档 | Github | 星标
         tag: AI 工具中文文档库
         url: https://www.aidoczh.com/
       - title: KaTeX
@@ -145,7 +145,7 @@ tools:
     category: app
     content:
       - title: 能不能好好说话？
-        body: 将拼音首字缩写转回汉语词汇｜卜卜口提供
+        body: 将拼音首字缩写转回汉语词汇 | 卜卜口提供
         tag: 神奇海螺试验场
         url: https://lab.magiconch.com/nbnhhsh/
       - title: Bingo 游戏生成器
@@ -154,7 +154,7 @@ tools:
         url: https://lab.magiconch.com/bingo/
       - title: MyScript Webdemo
         body: 手写识别，可导出为 PowerPoint
-        tag: LaTeX｜MathML｜pptx
+        tag: LaTeX | MathML | pptx
         url: https://webdemo.myscript.com/
       - title: Snip Web
         body: 识别转化为 LaTeX 为核心的笔记软件 SnipNotes 的网页版
@@ -180,8 +180,8 @@ tools:
         body: 专为简中互联网上玩网小登设计的意识形态测试
         tag: 并不文雅
         url: https://cnzv.github.io/
-      - title: 扣子｜Coze
-        body: API 调用大语言模型｜让用户自己搭建应用
+      - title: 扣子 | Coze
+        body: API 调用大语言模型 | 让用户自己搭建应用
         tag: 字节跳动旗下平台
         url: https://www.coze.cn/
       - title: CloudConvert
@@ -190,7 +190,7 @@ tools:
         url: https://cloudconvert.com/
       - title: Snippet Generator
         body: Paweł Grzybek 开发的在线工具，代码段转成 snippet 格式
-        tag: VS Code｜Sublime Text｜Atom
+        tag: VS Code | Sublime Text | Atom
         url: https://snippet-generator.app/
       - title: ZoteroBib
         body: Zotero 提供的网页在线轻量引文生成工具
@@ -312,8 +312,8 @@ tools:
         tag: 仅仅一张网页
         url: https://czxb.github.io/ar/Stata%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.html
       - title: IPA Cleaning Guide
-        body: 非营利组织 Innovations for Poverty Action 提供的 Stata 数据清理指南
-        tag: stata｜网页书｜英文
+        body: 英文 | 非营利组织 Innovations for Poverty Action 提供
+        tag: Stata 数据清理指南
         url: https://povertyaction.github.io/guides/cleaning/readme/
       - title: 小时百科
         body: 数学、物理、计算机，本科和硕士核心课，注重知识系统连贯
@@ -337,7 +337,7 @@ tools:
         url: https://survivesjtu.github.io/SJTU-Application/
 
       - title: 深度学习从入门到面试
-        body: 学习文档｜网页形式
+        body: 学习文档 | 网页形式
         tag: 百度飞桨社区提供
         url: https://paddlepedia.readthedocs.io
 
@@ -358,7 +358,7 @@ tools:
 
       - title: Causal Inference for The Brave and True
         body: Python 计量经济学网页书
-        tag: Matheus Facure｜另有中文翻译版
+        tag: Matheus Facure | 另有中文翻译版
         url: https://matheusfacure.github.io/python-causality-handbook
 
       - title: Python 数据科学加速
@@ -368,12 +368,12 @@ tools:
 
       - title: momo 知乎笔记
         body: momo 是中央财经大学金融专业在读博士生，学习兴趣广泛
-        tag: 笔记－金融｜各种各样经济学
+        tag: 笔记－金融 | 各种各样经济学
         url: https://zhuanlan.zhihu.com/p/524823847
 
       - title: AI－EDU
         body: 微软亚洲研究院的公益性质人工智能学习网站，偏重神经网络
-        tag: 基础教程｜实践案例
+        tag: 基础教程 | 实践案例
         url: https://microsoft.github.io/ai-edu
 
       - title: Woop My Life 中文
@@ -438,7 +438,7 @@ tools:
 
       - title: The Effect
         body: Nick C. Huntington-Klein 写的因果研究设计
-        tag: 网页形式｜在线免费
+        tag: 网页形式 | 在线免费
         url: https://theeffectbook.net
 
       - title: Introduction to Economic Analysis
@@ -483,6 +483,10 @@ tools:
   - title: 资料库
     category: materialbase
     content:
+      - title: 中华文史学术论著库
+        body: 籍合网提供
+        tag: 付费产品 | 有搜索栏
+        url: https://academic.ancientbooks.cn/
       - title: Cool Papers
         body: 信科领域最新预印本 AI 推荐
         tag: Powerd by Kimi
@@ -516,7 +520,7 @@ tools:
         tag: 解放了一系列影子图书馆
         url: https://zh.annas-archive.org/
       - title: Find Economic Articles with Data
-        body: 搜索经济学论文｜带数据和代码
+        body: 搜索经济学论文 | 带数据和代码
         tag: 简洁搜索页面
         url: https://ejd.econ.mathematik.uni-ulm.de/
       - title: Replication Wiki
@@ -591,91 +595,95 @@ tools:
         tag: 业余爱好独立作者的项目
         url: https://www.etymonline.com/
       - title: Thesaurus.com
-        body: 英语同义词查询、词林｜英文「小学」常识
+        body: 英语同义词查询、词林 | 英文「小学」常识
         tag: 有广告
         url: https://www.thesaurus.com/
   - title: 社科人
     category: pss
     content:
+      - title: Stefanie Stantcheva
+        body: 哈佛大学 经济学系 Faculty
+        tag: 税收 | 
+        url: 
       - title: Cai, Christine 
         body: 非营利组织 Prosperity Now 研究员
         tag: 劳动和人口经济学
         url: https://christinecai.github.io/
       - title: 丁瑜
         body: 中山大学 社会学与社会工作系 Faculty
-        tag: 女性社会学｜女性社会工作
+        tag: 女性社会学 | 女性社会工作
         url: https://ssa.sysu.edu.cn/teacher/2443
       - title: 赵丽秋
         body: 中国人民大学 劳动人事学院 Faculty
-        tag: 区域｜人口｜移民
+        tag: 区域 | 人口 | 移民
         url: https://liqiuzhaoecon.weebly.com/
       - title: 陈滢
         body: 厦门大学 经济学院 Faculty
-        tag: 城市｜环境｜数字平台
+        tag: 城市 | 环境 | 数字平台
         url: https://yingnehc.com/
       - title: 蔡熙乾
         body: 厦门大学 经济学院 Faculty
-        tag: 行为｜实验｜劳动
+        tag: 行为 | 实验 | 劳动
         url: https://xiqiancai.weebly.com/
       - title: 张宁
         body: 香港中文大学 经济学系 Faculty
-        tag: 劳动｜家庭｜人口
+        tag: 劳动 | 家庭 | 人口
         url: https://sites.google.com/view/ningzhangecon/
       - title: 郭汝飞
         body: 武汉大学 经济与管理学院 世界经济系 Faculty
-        tag: 人口｜劳动｜健康｜国际
+        tag: 人口 | 劳动 | 健康 | 国际
         url: https://www.rufeiguo.com/
       - title: Gao, Pei
         body: 新加坡国立大学 李光耀公共政策学院 Faculty
-        tag: 发展经济学｜经济史
+        tag: 发展经济学 | 经济史
         url: https://sites.google.com/site/gaopei11/
       - title: 尤炜
         body: 北京大学 新结构经济学研究院 Faculty
-        tag: 城市｜发展｜历史
+        tag: 城市 | 发展 | 历史
         url: https://sites.google.com/site/youweilucky/
       - title: Zheng Zhong
         body: 密歇根大学 罗斯商学院 2024级 经济学 PhD
-        tag: 发展｜环境｜劳动
+        tag: 发展 | 环境 | 劳动
         url: https://sites.google.com/view/zhengzhong
       - title: 谢斌
         body: 暨南大学 经济与社会研究院 Faculty
-        tag: 劳动｜发展｜历史
+        tag: 劳动 | 发展 | 历史
         url: https://binxie.weebly.com/
       - title: 包特
         body: 南洋理工大学 社会科学院 经济学系 Faculty
-        tag: 行为经济学实验｜行为金融
+        tag: 行为经济学实验 | 行为金融
         url: https://baote.weebly.com/
       - title: 张鹏
         body: 香港中文大学（深圳）经管学院 Faculty
-        tag: 环境｜劳动｜发展
+        tag: 环境 | 劳动 | 发展
         url: https://pengzhang.weebly.com/
       - title: 张伊妍
-        body: 中国人民大学 新闻学院 Faculty｜计传岛联合创始人
+        body: 中国人民大学 新闻学院 Faculty | 计传岛联合创始人
         tag: 移动互联网社交媒体计算传播学
         url: https://yiyanzhang.com/
       - title: 孟克
         body: 对外经济贸易大学 中国世界贸易组织研究院 2025届 PhD
-        tag: 技术博客｜国际贸易
+        tag: 技术博客 | 国际贸易
         url: https://mengke25.github.io/
       - title: 杨娇娇
         body: 武汉大学 经济与管理学院 Faculty
-        tag: 发展｜政治｜历史
+        tag: 发展 | 政治 | 历史
         url: https://yangjiaojiaoeco.github.io/
       - title: Mauricio Cáceres
         body: 布朗大学 经济学系 2025届 PhD（gtools 作者）
-        tag: 犯罪｜医疗｜Stata 扩展包创作
+        tag: 犯罪 | 医疗 | Stata 扩展包创作
         url: https://mcaceresb.github.io/
       - title: 马弘
         body: 清华大学 经济与管理学院 经济系 Faculty
-        tag: 产业｜贸易
+        tag: 产业 | 贸易
         url: https://mahong.weebly.com/
       - title: 王成军
         body: 南京大学 新闻传播学院 计算传播学实验中心 Faculty
-        tag: 信息扩散｜注意力流动｜计算叙事
+        tag: 信息扩散 | 注意力流动 | 计算叙事
         url: https://chengjunwang.com/
       - title: 杜宣莹
         body: 北京大学 历史学系 Faculty
-        tag: 英国＆欧洲｜档案古文献｜政治史
+        tag: 英国＆欧洲 | 档案古文献 | 政治史
         url: https://www.history.pku.edu.cn/jszy/dxy/index.htm
       - title: 周兢
         body: 华东师范大学 教育学部 学前教育系 Faculty
@@ -687,18 +695,18 @@ tools:
         url: https://friosavila.github.io/
       - title: Francis J. DiTraglia
         body: 牛津大学 经济系 Faculty
-        tag: 应用计量教学｜联储智库
+        tag: 应用计量教学 | 联储智库
         url: https://ditraglia.com/
       - title: Yuting Huang
         body: 新加坡国立大学 统计和数据科学系 Faculty
-        tag: 技术教学｜劳动经济学｜国际贸易
+        tag: 技术教学 | 劳动经济学 | 国际贸易
         url: https://yhuangyt.weebly.com/
       - title: 胡志安
-        body: 中央财经大学 经济学院 Faculty｜解放後的中国大陆经济政策史
-        tag: 发展经济学｜政治经济学
+        body: 中央财经大学 经济学院 Faculty | 解放後的中国大陆经济政策史
+        tag: 发展经济学 | 政治经济学
         url: https://zhianhu.weebly.com/
       - title: 滑翔闪
-        body: 发展经济学｜经济增长
+        body: 发展经济学 | 经济增长
         tag: 混合 Blog
         url: https://blog.huaxiangshan.com/
       - title: Finneas
@@ -707,11 +715,11 @@ tools:
         url: https://blog.econfinny.com/
       - title: 王洋
         body: 上海交通大学 经管院 经济系 Faculty
-        tag: 劳动｜发展｜城市｜区域
+        tag: 劳动 | 发展 | 城市 | 区域
         url: https://sites.google.com/view/econyang/
       - title: 欧声亮
         body: 上海交通大学 经管院 经济系 Faculty
-        tag: 货币｜宏观
+        tag: 货币 | 宏观
         url: https://shengliangou.weebly.com/
       - title: 郭士祺
         body: 上海交通大学 经管院 经济系 Faculty
@@ -719,19 +727,19 @@ tools:
         url: https://sites.google.com/site/stevenshiqiguo/
       - title: 段伊戈
         body: 上海交通大学 经管院 经济系 Faculty
-        tag: 劳动＆城市｜通勤＆工资
+        tag: 劳动＆城市 | 通勤＆工资
         url: https://sites.google.com/view/yige-duan/
       - title: 王润楠
         body: 武汉大学 经济与管理学院 经济系 Faculty
-        tag: 经济史｜地理＆政治＆发展
+        tag: 经济史 | 地理＆政治＆发展
         url: https://sites.google.com/view/rnwang/
       - title: 白营
         body: 香港中文大学 经济系 Faculty
-        tag: 发展｜政治｜中国经济史
+        tag: 发展 | 政治 | 中国经济史
         url: https://yingbai.org/
       - title: 魏金霖
         body: 香港科技大学 社会科学部 经济学 Faculty
-        tag: 区域空间经济史｜发展经济学
+        tag: 区域空间经济史 | 发展经济学
         url: https://www.jinlinwei.com/
       - title: Felix S.F. Schaff
         body: EUI 经济系 Faculty
@@ -739,35 +747,35 @@ tools:
         url: https://sites.google.com/view/felixschaff
       - title: Vicky Fouka
         body: 斯坦福大学 政治学 Faculty
-        tag: 人类生物学｜历史政治经济学
+        tag: 人类生物学 | 历史政治经济学
         url: https://sites.google.com/stanford.edu/fouka/
       - title: 奚锡灿
         body: 复旦大学 经济学院 Faculty
-        tag: 宏观｜发展｜环境
+        tag: 宏观 | 发展 | 环境
         url: https://sites.google.com/site/xicanxi/
       - title: Xinde "James" Ji
-        body: 佛罗里达大学 食品和资源经济学系 Faculty｜复旦本科 07 级
-        tag: 环境经济学｜地理空间数据
+        body: 佛罗里达大学 食品和资源经济学系 Faculty | 复旦本科 07 级
+        tag: 环境经济学 | 地理空间数据
         url: https://sites.google.com/site/xindejamesji
       - title: 张宇
         body: 北京大学 光华管理学院 Faculty
-        tag: 家庭金融｜宏观金融
+        tag: 家庭金融 | 宏观金融
         url: http://www.yu-zhang-econ.com/
       - title: 刘丛
         body: 暨南大学 经济与社会研究院 经济学 Faculty
-        tag: 发展｜政治｜中国经济史
+        tag: 发展 | 政治 | 中国经济史
         url: https://sites.google.com/view/congliu/
       - title: 石襄禺
         body: 复旦大学 管理学院 经济学 Faculty
-        tag: 发展｜政治｜贸易｜环境｜产业
+        tag: 发展 | 政治 | 贸易 | 环境 | 产业
         url: https://sites.google.com/site/xiangyushi1/
       - title: 雷宇翔
         body: 香港科技大学 社会科学部 经济学 Faculty
-        tag: 发展｜公共｜政治
+        tag: 发展 | 公共 | 政治
         url: https://sites.google.com/site/leiyhecon
       - title: 龚启圣
         body: 墨尔本大学 经济史 Faculty
-        tag: 制度｜发展｜政治
+        tag: 制度 | 发展 | 政治
         url: https://www.jameskung.net/
       - title: 李思遥
         body: 匹兹堡大学 政治系 Faculty
@@ -778,8 +786,8 @@ tools:
         tag: 城市经济学
         url: https://www.zhanchangwei.com/
       - title: 卢樱丹
-        body: 美国西北大学 传播学 Faculty｜计传岛联合创始人
-        tag: 社会计算｜互联网传播
+        body: 美国西北大学 传播学 Faculty | 计传岛联合创始人
+        tag: 社会计算 | 互联网传播
         url: https://yingdanlu.com/
       - title: 王绍达
         body: 芝加哥大学 公共政策学院 Faculty
@@ -799,7 +807,7 @@ tools:
         url: https://www.yimingcao.com/
       - title: 左雪静
         body: 复旦大学 经济学院 公共经济学系 Faculty
-        tag: 劳动经济学｜行为和实验经济学
+        tag: 劳动经济学 | 行为和实验经济学
         url: https://sites.google.com/site/sharonxuejingzuo/
       - title: 杜正贞
         body: 浙江大学 历史学院 Faculty
@@ -811,7 +819,7 @@ tools:
         url: https://www.lizhiliu.com/
       - title: 李莉
         body: 华东师范大学 经济系 Faculty
-        tag: 劳动和发展经济学｜水资源
+        tag: 劳动和发展经济学 | 水资源
         url: https://liliecon.weebly.com/
       - title: 张俊森
         body: 香港中文大学 经济系 Faculty
@@ -839,7 +847,7 @@ tools:
         url: https://fanghaochen.github.io/homepage/
       - title: 袁松
         body: 浙江大学 经济学院 Faculty
-        tag: 发展和政治经济学｜经济史
+        tag: 发展和政治经济学 | 经济史
         url: http://www.song-yuan.net/
       - title: 杨端程
         body: 华东政法大学政府管理学院 Faculty
@@ -871,7 +879,7 @@ tools:
         url: https://kevinhong.home.blog/
       - title: 胡思捷
         body: 中国人民大学 经济学院 经济系 经济史教研室 Faculty
-        tag: 中国中古＆近古经济史｜历史社会学
+        tag: 中国中古＆近古经济史 | 历史社会学
         url: https://www.ehsijiehu.com/
       - title: 郝煜
         body: 北京大学 经济学院 经济史学系 Faculty
@@ -883,11 +891,11 @@ tools:
         url: https://sites.google.com/view/tsng/
       - title: 贾瑞雪
         body: UCSD 经济学 Faculty
-        tag: 发展和政治经济学｜经济史
+        tag: 发展和政治经济学 | 经济史
         url: https://www.ruixuejia.com/
       - title: 刁文天
         body: 上海财经大学 经济学院 经济史学系 Faculty
-        tag: 中国经济史｜非正式制度
+        tag: 中国经济史 | 非正式制度
         url: https://sites.google.com/view/wentiandiao/
       - title: 田源
         body: NUS 中国研究系 历史 Faculty
@@ -895,7 +903,7 @@ tools:
         url: https://fass.nus.edu.sg/cs/people/tian-yuan-%E7%94%B0%E6%BA%90/
       - title: 李嘉楠
         body: 厦门大学 经济学院 经济系 Faculty
-        tag: 发展和国际经济学｜中国近代经济史
+        tag: 发展和国际经济学 | 中国近代经济史
         url: https://faculty.xmu.edu.cn/LJN/zh_CN/index/569565/
       - title: 张晓鸣
         body: 浙江大学 社会学系 Faculty
@@ -907,7 +915,7 @@ tools:
         url: https://faculty.sdu.edu.cn/zhouxiaolan1/
       - title: 陈婷
         body: 香港浸会大学 经济系 Faculty
-        tag: 政治和发展经济学｜计量经济史
+        tag: 政治和发展经济学 | 计量经济史
         url: https://www.chenting.info/
       - title: 李明
         body: 香港中文大学（深圳）经管学院 Faculty
@@ -919,7 +927,7 @@ tools:
         url: https://www.hanyu-zhu.com/
       - title: 林友宏
         body: 厦门大学 经济学 Faculty
-        tag: 发展经济学｜计量史学
+        tag: 发展经济学 | 计量史学
         url: https://linyouhong.com/
       - title: 连宸
         body: UC－Berkeley 经济系 Faculty | 北大数院本科
@@ -947,11 +955,11 @@ tools:
         url: http://43.143.158.120/
       - title: Gabriel Zucman
         body: 巴黎高等师范学校 经济 Faculty
-        tag: 公共经济学｜国际宏观
+        tag: 公共经济学 | 国际宏观
         url: https://gabriel-zucman.eu/
       - title: 刘鹏
         body: 华东师范大学 经管学院 Faculty
-        tag: 机制设计研究｜微观理论教学
+        tag: 机制设计研究 | 微观理论教学
         url: https://pengliusmu.weebly.com/
       - title: 徐轶青
         body: 斯坦福大学 政治系 Faculty | 传播政治学
@@ -979,7 +987,7 @@ tools:
         url: http://www.niehuihua.com/
       - title: 陈强
         body: 山东大学 经济学院 Faculty
-        tag: 经济计量理论｜机器学习 | 中国史
+        tag: 经济计量理论 | 机器学习 | 中国史
         url: http://econometrics-stata.com/
       - title: 牟晓生
         body: 普林斯顿大学 经济系 Faculty | 2008 年 IMO 满分
@@ -1056,12 +1064,16 @@ tools:
   - title: 社科机构
     category: iss
     content:
+      - title: Social Economics Lab
+        body: 大规模调查和实验理解人们如何思考和处理经济问题及政策
+        tag: Stefanie Stantcheva 牵头创办
+        url: https://socialeconomicslab.org/
       - title: 全球智库洞察平台
         body: 国务院发展研究中心
         tag: 首页排版特别难看
         url: https://thinktank.drcnet.com.cn/
       - title: 人大当代报刊资源服务平台
-        body: 党政报｜都市生活报｜行业报
+        body: 党政报 | 都市生活报 | 行业报
         tag: 凭机构 IP 地址准入
         url: http://rdbk.ejiaoshi.net/
       - title: Coherent Digital
@@ -1085,10 +1097,10 @@ tools:
         tag: 也包括政治经济学、政治传播等
         url: http://polisciworkshopchina.cn/
       - title: 美国战略和国际研究院
-        body: CSIS｜从乔治城大学分离出的跨党派智库单位
-        tag: 外交政策｜国家安全
+        body: CSIS | 从乔治城大学分离出的跨党派智库单位
+        tag: 外交政策 | 国家安全
         url: https://www.csis.org/
-      - title: CLHM｜华东师大民间记忆与地方文献中心
+      - title: CLHM | 华东师大民间记忆与地方文献中心
         body: Local History & Memory
         tag: 历史系平台单位之一
         url: http://www.clhm.ecnu.edu.cn/
@@ -1121,15 +1133,15 @@ tools:
         url: https://terrytao.wordpress.com/
       - title: Jollyup
         body: 中学数学老师的呢喃细语
-        tag: 数学｜艺术｜求是
+        tag: 数学 | 艺术 | 求是
         url: https://jollyup.asia/
       - title: 潘建瑜
-        body: 华东师范大学 数学科学学院 Faculty｜页面有很多教学课件和资料可下载
-        tag: 数值代数｜科学计算
+        body: 华东师范大学 数学科学学院 Faculty | 页面有很多教学课件和资料可下载
+        tag: 数值代数 | 科学计算
         url: https://math.ecnu.edu.cn/~jypan/
       - title: 陈乐偲
         body: 清华大学 交叉信息研究院 PhD
-        tag: 最优化算法｜研究＆助教
+        tag: 最优化算法 | 研究＆助教
         url: https://truenobility303.github.io/
       - title: 黄正华
         body: 武汉大学 数学与统计学院 信息与计算科学系 Faculty
@@ -1145,7 +1157,7 @@ tools:
         url: https://www.psantanna.com/
       - title: 张思亮
         body: 华东师范大学 统计学院 Faculty
-        tag: 应用统计理论｜最优化教学
+        tag: 应用统计理论 | 最优化教学
         url: https://www.slzhang.com/
       - title: 史震涛
         body: 香港中文大学 经济系 Faculty
@@ -1212,7 +1224,7 @@ tools:
         url: https://zhzhang01.github.io/
       - title: 苏宁馨
         body: 多伦多大学 电子与计算机工程系 PhD
-        tag: 摇滚｜长跑｜旅行
+        tag: 摇滚 | 长跑 | 旅行
         url: https://ningxinsu.github.io/
       - title: 顾佳凯
         body: 广西民族大学 计算机 2025届 学术型硕士
@@ -1220,7 +1232,7 @@ tools:
         url: https://blog.gujiakai.top/
       - title: Wayne Small
         body: Wisconsin-Madison 量化金融 MSc
-        tag: 量化交易｜移动开发｜人工智能
+        tag: 量化交易 | 移动开发 | 人工智能
         url: https://waynemystir.github.io/
       - title: 周靖宇
         body: 上海交通大学 人工智能 本科生 2023级
@@ -1231,20 +1243,20 @@ tools:
         tag: 正式网站「Kinnari's Site」
         url: https://kinnariyamamatanha.github.io/
       - title: SunMaple
-        body: 独立前端开发者｜2024 年创作了 Astro 最完整的中文主题
+        body: 独立前端开发者 | 2024 年创作了 Astro 最完整的中文主题
         tag: 2026 年应届高考
         url: https://www.saroprock.com/
       - title: 赵世钰
         body: 西湖大学 工学院 人工智能系 Faculty
-        tag: 机器人系统｜强化学习教学
+        tag: 机器人系统 | 强化学习教学
         url: https://www.shiyuzhao.net/
       - title: 郭飞
         body: 旧式网红 蚂蚁金服 算法岗
         tag: GitHub＆知乎
         url: https://www.guofei.site/
       - title: Vincent Herrmann
-        body: Lugano 大学 IDSIA PhD｜本硕学钢琴 博士学 AI
-        tag: 机器学习｜信息论
+        body: Lugano 大学 IDSIA PhD | 本硕学钢琴 博士学 AI
+        tag: 机器学习 | 信息论
         url: https://vincentherrmann.github.io/
       - title: Anish Athalye
         body: MIT CSAIL－PhD
@@ -1285,13 +1297,17 @@ tools:
   - title: 理工机构
     category: isc
     content:
+      - title: 多物理场仿真技术
+        body: 微信公众号文章合集
+        tag: 邓子平提供
+        url: http://fasbridge.com/
       - title: 香蕉空间
         body: 将 MediaWiki 与 TeX 语法结合的中文数学社区
-        tag: 百科｜讲义｜小文章
+        tag: 百科 | 讲义 | 小文章
         url: https://www.bananaspace.org/
       - title: MathAcademy
         body: 交互式教辅产品，在线学数学
-        tag: 价格略贵｜口碑很好
+        tag: 价格略贵 | 口碑很好
         url: https://www.mathacademy.com/
       - title: 医学微视
         body: 北京博彧维康公司提供的临床医学科普平台
@@ -1318,7 +1334,7 @@ tools:
         tag: 中文版 | 从前端到 Python
         url: https://www.freecodecamp.org/chinese/
       - title: Datawhale
-        body: 非盈利组织｜人工智能学习资料
+        body: 非盈利组织 | 人工智能学习资料
         tag: 提供课程认证
         url: https://www.datawhale.cn/
       - title: QuantStart
@@ -1333,7 +1349,7 @@ tools:
         body: 众多编程语言和技能，教程、参考双用
         tag: 另有几种主流语言的测验题
         url: https://www.runoob.com/
-      - title: COS｜统计之都
+      - title: COS | 统计之都
         body: 旨在推广与应用统计学知识的网站，由志愿者社区维护
         tag: Capital of Statistics
         url: https://cosx.org/
@@ -1374,7 +1390,7 @@ tools:
         url: https://pages.stern.nyu.edu/~adamodar/
       - title: 刘岩
         body: 武汉大学 金融系 Faculty
-        tag: 商业银行｜宏观经济
+        tag: 商业银行 | 宏观经济
         url: http://www.liuyanecon.com/
       - title: 何治国
         body: 斯坦福大学 商学院 金融 Faculty
@@ -1453,7 +1469,7 @@ tools:
         tag: Freepik 提供
         url: https://www.flaticon.com/
       - title: Boxicons
-        body: SVG｜CSS｜Web 元素｜NPM｜CDN
+        body: SVG | CSS | Web 元素 | NPM | CDN
         tag: 开源图标库
         url: https://boxicons.com/
       - title: Bootswatch
@@ -1476,7 +1492,7 @@ tools:
     category: iga
     content:
       - title: 新浪微博应用管理
-        body: 新浪微博应用广场－我的应用｜管理第三方登录授权
+        body: 新浪微博应用广场－我的应用 | 管理第三方登录授权
         tag: 2010 年代早期 UI
         url: https://app.weibo.com/my
       - title: Zenodo
@@ -1517,7 +1533,7 @@ tools:
 
       - title: 概率论和随机过程
         body: UC－San Diego 数学系 Todd Kemp 公布的课程材料
-        tag: 研究生｜全年｜视频和 Slides
+        tag: 研究生 | 全年 | 视频和 Slides
         url: https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/
 
       - title: Cambridge Notes
@@ -1542,7 +1558,7 @@ tools:
 
       - title: Speech and Language Processing
         body: 自然语言计算机处理教材
-        tag: PDF 格式｜已更新到第三版
+        tag: PDF 格式 | 已更新到第三版
         url: https://web.stanford.edu/~jurafsky/slp3/
 
       - title: 鸢尾花书
@@ -1552,7 +1568,7 @@ tools:
 
       - title: Treatment Effects
         body: Francis J. DiTraglia 提供的处置效应课程材料
-        tag: 讲义｜幻灯片｜代码教学
+        tag: 讲义 | 幻灯片 | 代码教学
         url: https://www.treatment-effects.com/
 
       - title: 因果推断实用计量方法
@@ -1567,12 +1583,12 @@ tools:
 
       - title: Macro Book
         body: 写给学硕或直博一年级学生的宏观教材
-        tag: 数据驱动｜最新版本修订
+        tag: 数据驱动 | 最新版本修订
         url: https://phdmacrobook.org/
 
       - title: 因果推断从概念到实践
         body: Causal Inference for the Brave and True 的中文翻译版
-        tag: ipynb 格式｜Gitee 和 GitHub 都有
+        tag: ipynb 格式 | Gitee 和 GitHub 都有
         url: https://gitee.com/xieliaing/causal-inference-intro-gitee
   - title: 条目集
     category: link-sets

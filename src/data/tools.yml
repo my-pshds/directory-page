@@ -2,6 +2,10 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: RobustiPy
+        body: Python 库 | 花样线性回归
+        tag: 从主页点进文档页面
+        url: https://robustipy.github.io/
       - title: RSSHub
         body: 万物皆可 RSS | 世界上最大的 RSS 网络
         tag: 社区合作开发路由
@@ -85,6 +89,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: CNBC
+        body: 商业新闻媒体
+        tag: 伦敦和新加坡双总部
+        url: https://www.cnbc.com/
       - title: 寰宇世界
         body: 你见过功能最全的现代地图阅览，没有之一
         tag: 高位替代大厂 PC 端地图 App
@@ -144,6 +152,14 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: FlashAI
+        body: 多模态版本地大模型工作台
+        tag: 内置常见开源模型
+        url: https://v.flashai.com.cn/
+      - title: Alhomora
+        body: 自媒体 @econ_wind 开发的网页应用合集
+        tag: 阅读和查询 | 论文和公共品
+        url: https://alohomora.live/
       - title: 能不能好好说话？
         body: 将拼音首字缩写转回汉语词汇 | 卜卜口提供
         tag: 神奇海螺试验场
@@ -1262,6 +1278,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: Chen Chenghao
+        body: 上海交通大学 计算机学院 信息安全与密码学研究所 2027届 硕士生
+        tag: 电子信息工程 | 密码学
+        url: https://luminolt.cn/
       - title: 罗雅丹
         body: 昆士兰大学 电气工程和计算机科学院 Faculty
         tag: 稳健机器学习 & 现实立体视觉
@@ -1341,7 +1361,7 @@ tools:
   - title: 理工机构
     category: isc
     content:
-      - title: Machine Learning Systems
+      - title: ML Systems
         body: 卡内基梅隆大学 计算机科学院《机器学习系统》课程
         tag: 程序 | 时间表 | 材料
         url: https://mlsyscourse.org/

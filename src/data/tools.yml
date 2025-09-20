@@ -307,8 +307,12 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: ML Systems
+        body: 《机器学习系统》教科书 | Vijay Janapa Reddi 独著
+        tag: 完整物料
+        url: https://www.mlsysbook.ai/
       - title: Thoughts Memo 合集
-        body: Thoughts Memo 是叶峻骁牵头创办的非营利公益翻译小组
+        body: Thoughts Memo 是叶峻峣牵头创办的非营利公益翻译小组
         tag: 认知科学 | 教育制度 | 儿童权利
         url: https://l-m-sherlock.github.io/thoughts-memo-translation/
       - title: Stata 基本操作
@@ -605,6 +609,18 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: Zhu Xuanli
+        body: 资源丰富 | 庆应义塾大学 经济学部 Faculty
+        tag: 劳动 | 宏观 | 历史
+        url: https://www.zhuxuanli.com/
+      - title: 苏立君
+        body: 南开大学 经济学院 经济学系 Faculty
+        tag: 马克思主义经济学
+        url: https://www.researchgate.net/profile/Su-Lijun
+      - title: 梁俊尚
+        body: 南开大学 经济学院 经济学系 Faculty
+        tag: 现代马克思主义经济学
+        url: https://www.researchgate.net/profile/Junshang-Liang
       - title: 方敏
         body: 佛罗里达大学 经济学系 Faculty
         tag: 宏观 | 金融 | 城市 | 科技
@@ -613,7 +629,7 @@ tools:
         body: 哈佛大学 经济学系 Faculty
         tag: 税收 | 对自然人的调查实验
         url: https://www.stefanie-stantcheva.com/
-      - title: Cai, Christine 
+      - title: Cai Christine 
         body: 非营利组织 Prosperity Now 研究员
         tag: 劳动和人口经济学
         url: https://christinecai.github.io/
@@ -641,7 +657,7 @@ tools:
         body: 武汉大学 经济与管理学院 世界经济系 Faculty
         tag: 人口 | 劳动 | 健康 | 国际
         url: https://www.rufeiguo.com/
-      - title: Gao, Pei
+      - title: Gao Pei
         body: 新加坡国立大学 李光耀公共政策学院 Faculty
         tag: 发展经济学 | 经济史
         url: https://sites.google.com/site/gaopei11/
@@ -1131,6 +1147,10 @@ tools:
   - title: 理学人
     category: psc
     content:
+      - title: 叶峻峣
+        body: 哈尔滨工业大学（深圳）计算机科学与技术学院 2022届 学士
+        tag: 认知科学｜教育技术
+        url: https://l-m-sherlock.github.io/
       - title: 张庆垚
         body: 宁夏大学 教师教育学院 心理系 Faculty
         tag: 网站有众多技术经验可查
@@ -1305,6 +1325,10 @@ tools:
   - title: 理工机构
     category: isc
     content:
+      - title: Machine Learning Systems
+        body: 卡内基梅隆大学 计算机科学院《机器学习系统》课程
+        tag: 程序 | 时间表 | 材料
+        url: https://mlsyscourse.org/
       - title: 多物理场仿真技术
         body: 微信公众号文章合集
         tag: 邓子平提供
@@ -1499,6 +1523,10 @@ tools:
   - title: 事务
     category: iga
     content:
+      - title: ParaTranz
+        body: 地球上最权威的外译中翻译合作平台
+        tag: 最初为了翻译 CK2
+        url: https://paratranz.cn/
       - title: 新浪微博应用管理
         body: 新浪微博应用广场－我的应用 | 管理第三方登录授权
         tag: 2010 年代早期 UI

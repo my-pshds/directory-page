@@ -34,12 +34,12 @@ const reflectPreference = () => {
 
     if (theme.value === 'dark') {
       document.documentElement.style.setProperty('--background', '#21373d');
-      document.documentElement.style.setProperty('--support-info', '#fffef9');
-      document.documentElement.style.setProperty('--text-secondary', '#FFFFFF');
+      document.documentElement.style.setProperty('--support-info', '#e9f2f1');
+      document.documentElement.style.setProperty('--text-secondary', '#e9f2f1');
       document.documentElement.style.setProperty('--text-primary', '#d0deaa');
-      document.documentElement.style.setProperty('--background-secondary', '#15231b');
-      document.documentElement.style.setProperty('--background-selected', '#4b2e2b');
-      document.documentElement.style.setProperty('--text-secondary-alt', '#FFFFFF');
+      document.documentElement.style.setProperty('--background-secondary', '#21373d');
+      document.documentElement.style.setProperty('--background-selected', '#395e69ff');
+      document.documentElement.style.setProperty('--text-secondary-alt', '#e9f2f1');
       document.documentElement.style.setProperty('--link-color', 'Plum');
       if (logo) logo.src = '/logo-dark.svg';
     } else {

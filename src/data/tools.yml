@@ -1246,6 +1246,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 罗雅丹
+        body: 昆士兰大学 电气工程和计算机科学院 Faculty
+        tag: 稳健机器学习 & 现实立体视觉
+        url: https://luoyadan.github.io/
       - title: 张智恒
         body: 上海财经大学 统计与数据科学院 Faculty
         tag: 因果推断的机器学习
@@ -1255,7 +1259,7 @@ tools:
         tag: 摇滚 | 长跑 | 旅行
         url: https://ningxinsu.github.io/
       - title: 顾佳凯
-        body: 广西民族大学 计算机 2025届 学术型硕士
+        body: 广西民族大学 人工智能学院 计算机科学与技术（自然语言处理） 2025届 学术型硕士
         tag: 网络日志
         url: https://blog.gujiakai.top/
       - title: Wayne Small
@@ -1266,10 +1270,6 @@ tools:
         body: 上海交通大学 人工智能 本科生 2023级
         tag: 博客网站「Kinnari's Blog」
         url: https://kinnari-blog.vercel.app/
-      - title: 周靖宇
-        body: 上海交通大学 人工智能 本科生 2023级
-        tag: 正式网站「Kinnari's Site」
-        url: https://kinnariyamamatanha.github.io/
       - title: SunMaple
         body: 独立前端开发者 | 2024 年创作了 Astro 最完整的中文主题
         tag: 2026 年应届高考

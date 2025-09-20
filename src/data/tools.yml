@@ -609,6 +609,22 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 石爽
+        body: 南开大学 经济学院 经济研究所 Faculty
+        tag: 发展 | 政治 | 历史
+        url: https://orcid.org/0000-0001-7729-149X
+      - title: 孙程九
+        body: 南开大学 经济学院 经济研究所 Faculty
+        tag: 发展 | 政治 | 历史
+        url: https://orcid.org/0000-0001-9226-6364
+      - title: 王军
+        body: 河北师范大学 法政与公共管理学院 政治学系 Faculty
+        tag: 西方政党 | 华约党治
+        url: https://fzyggxy.hebtu.edu.cn/a/2021/10/15/A2C0AF067CEC4F7C863E5A08715FE0C5.html
+      - title: 何石军
+        body: 武汉大学 经济与管理学院 经济学系 Faculty
+        tag: 发展经济学 | 货币金融史
+        url: https://www.researchgate.net/profile/Shijun-He-3
       - title: Zhu Xuanli
         body: 资源丰富 | 庆应义塾大学 经济学部 Faculty
         tag: 劳动 | 宏观 | 历史
@@ -698,7 +714,7 @@ tools:
         tag: 犯罪 | 医疗 | Stata 扩展包创作
         url: https://mcaceresb.github.io/
       - title: 马弘
-        body: 清华大学 经济与管理学院 经济系 Faculty
+        body: 清华大学 经济与管理学院 经济学系 Faculty
         tag: 产业 | 贸易
         url: https://mahong.weebly.com/
       - title: 王成军
@@ -718,7 +734,7 @@ tools:
         tag: 应用计量软件操作技术教学
         url: https://friosavila.github.io/
       - title: Francis J. DiTraglia
-        body: 牛津大学 经济系 Faculty
+        body: 牛津大学 经济学系 Faculty
         tag: 应用计量教学 | 联储智库
         url: https://ditraglia.com/
       - title: Yuting Huang
@@ -738,27 +754,27 @@ tools:
         tag: 混合 Blog
         url: https://blog.econfinny.com/
       - title: 王洋
-        body: 上海交通大学 经管院 经济系 Faculty
+        body: 上海交通大学 经管院 经济学系 Faculty
         tag: 劳动 | 发展 | 城市 | 区域
         url: https://sites.google.com/view/econyang/
       - title: 欧声亮
-        body: 上海交通大学 经管院 经济系 Faculty
+        body: 上海交通大学 经管院 经济学系 Faculty
         tag: 货币 | 宏观
         url: https://shengliangou.weebly.com/
       - title: 郭士祺
-        body: 上海交通大学 经管院 经济系 Faculty
+        body: 上海交通大学 经管院 经济学系 Faculty
         tag: 发展＆政治＆环境
         url: https://sites.google.com/site/stevenshiqiguo/
       - title: 段伊戈
-        body: 上海交通大学 经管院 经济系 Faculty
+        body: 上海交通大学 经管院 经济学系 Faculty
         tag: 劳动＆城市 | 通勤＆工资
         url: https://sites.google.com/view/yige-duan/
       - title: 王润楠
-        body: 武汉大学 经济与管理学院 经济系 Faculty
+        body: 武汉大学 经济与管理学院 经济学系 Faculty
         tag: 经济史 | 地理＆政治＆发展
         url: https://sites.google.com/view/rnwang/
       - title: 白营
-        body: 香港中文大学 经济系 Faculty
+        body: 香港中文大学 经济学系 Faculty
         tag: 发展 | 政治 | 中国经济史
         url: https://yingbai.org/
       - title: 魏金霖
@@ -766,7 +782,7 @@ tools:
         tag: 区域空间经济史 | 发展经济学
         url: https://www.jinlinwei.com/
       - title: Felix S.F. Schaff
-        body: EUI 经济系 Faculty
+        body: EUI 经济学系 Faculty
         tag: 欧洲近古的收入与财富不平等
         url: https://sites.google.com/view/felixschaff
       - title: Vicky Fouka
@@ -826,7 +842,7 @@ tools:
         tag: 环境和发展经济学
         url: https://www.guojunhe.com/
       - title: 曹一鸣
-        body: 香港大学 经管学院 经济系 Faculty
+        body: 香港大学 经管学院 经济学系 Faculty
         tag: 发展和政治经济学
         url: https://www.yimingcao.com/
       - title: 左雪静
@@ -842,11 +858,11 @@ tools:
         tag: 当代发展政治经济学
         url: https://www.lizhiliu.com/
       - title: 李莉
-        body: 华东师范大学 经济系 Faculty
+        body: 华东师范大学 经济学系 Faculty
         tag: 劳动和发展经济学 | 水资源
         url: https://liliecon.weebly.com/
       - title: 张俊森
-        body: 香港中文大学 经济系 Faculty
+        body: 香港中文大学 经济学系 Faculty
         tag: 发展和家庭经济学
         url: https://www.cuhk.edu.hk/eco/staff/jszhang/jzhang.htm
       - title: 魏宇辰
@@ -858,11 +874,11 @@ tools:
         tag: 历史文化影响现代经济
         url: https://ife.sufe.edu.cn/23/da/c3530a74714/page.htm
       - title: 孙圣民
-        body: 中国人民大学 经济学院 经济系 经济史教研室 Faculty
+        body: 中国人民大学 经济学院 经济学系 经济史教研室 Faculty
         tag: 发展＆农业＆经济史学科思想
         url: http://econ.ruc.edu.cn/jszy/38e856abc20543fe9cf22f0699aaf73a.htm
       - title: 黄天宇
-        body: 广西大学 中国－东盟经济学院 经济系 Faculty 边疆经济学
+        body: 广西大学 中国－东盟经济学院 经济学系 Faculty 边疆经济学
         tag: 发展和农业经济学 经济史
         url: https://sef.gxu.edu.cn/info/10775/88506.htm
       - title: 陈方豪
@@ -890,11 +906,11 @@ tools:
         tag: 计量中国社会文化经济史
         url: https://sites.google.com/view/yiling-zhao/
       - title: 武玲蔚
-        body: 复旦大学 经济学院 经济系 Faculty
+        body: 复旦大学 经济学院 经济学系 Faculty
         tag: 发展和性别及家庭社会学＆经济史
         url: https://sites.google.com/view/coonecon/
       - title: 林雨晨
-        body: 华威大学 经济系 PhD
+        body: 华威大学 经济学系 PhD
         tag: 历史女性社会学＆发展经济史
         url: https://www.yuchenlin.com/
       - title: 洪泽
@@ -902,7 +918,7 @@ tools:
         tag: 澳门大学 社会学系 Faculty
         url: https://kevinhong.home.blog/
       - title: 胡思捷
-        body: 中国人民大学 经济学院 经济系 经济史教研室 Faculty
+        body: 中国人民大学 经济学院 经济学系 经济史教研室 Faculty
         tag: 中国中古＆近古经济史 | 历史社会学
         url: https://www.ehsijiehu.com/
       - title: 郝煜
@@ -910,7 +926,7 @@ tools:
         tag: 计量中国史
         url: https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjsxx/327572.htm
       - title: 孙传炜
-        body: 新加坡国立大学 经济系 Faculty
+        body: 新加坡国立大学 经济学系 Faculty
         tag: 计量历史地理＆计量政治经济
         url: https://sites.google.com/view/tsng/
       - title: 贾瑞雪
@@ -926,7 +942,7 @@ tools:
         tag: 近代微观商业法律史
         url: https://fass.nus.edu.sg/cs/people/tian-yuan-%E7%94%B0%E6%BA%90/
       - title: 李嘉楠
-        body: 厦门大学 经济学院 经济系 Faculty
+        body: 厦门大学 经济学院 经济学系 Faculty
         tag: 发展和国际经济学 | 中国近代经济史
         url: https://faculty.xmu.edu.cn/LJN/zh_CN/index/569565/
       - title: 张晓鸣
@@ -938,7 +954,7 @@ tools:
         tag: 产业组织 Empirical
         url: https://faculty.sdu.edu.cn/zhouxiaolan1/
       - title: 陈婷
-        body: 香港浸会大学 经济系 Faculty
+        body: 香港浸会大学 经济学系 Faculty
         tag: 政治和发展经济学 | 计量经济史
         url: https://www.chenting.info/
       - title: 李明
@@ -954,7 +970,7 @@ tools:
         tag: 发展经济学 | 计量史学
         url: https://linyouhong.com/
       - title: 连宸
-        body: UC－Berkeley 经济系 Faculty | 北大数院本科
+        body: UC－Berkeley 经济学系 Faculty | 北大数院本科
         tag: 行为经济学 | 宏观经济
         url: https://sites.google.com/view/chenlian/
       - title: 朱志韬
@@ -970,11 +986,11 @@ tools:
         tag: 官僚与国家 | 政治经济史
         url: https://www.xitianyang.com/
       - title: 陈硕
-        body: 复旦大学 经济学院 经济系 Faculty
+        body: 复旦大学 经济学院 经济学系 Faculty
         tag: 发展和政治经济学 | 中国经济史
         url: https://www.frankchenshuo.com/
       - title: 李永涛
-        body: 辽宁大学 经济系 Faculty
+        body: 辽宁大学 经济学系 Faculty
         tag: 发展和政治经济学 | 经济史
         url: http://43.143.158.120/
       - title: Gabriel Zucman
@@ -1014,7 +1030,7 @@ tools:
         tag: 经济计量理论 | 机器学习 | 中国史
         url: http://econometrics-stata.com/
       - title: 牟晓生
-        body: 普林斯顿大学 经济系 Faculty | 2008 年 IMO 满分
+        body: 普林斯顿大学 经济学系 Faculty | 2008 年 IMO 满分
         tag: 高中数竞 | 微观经济理论 | 机制设计
         url: https://www.xiaoshengmu.com/
       - title: Walter E. Nicholson 沃尔特 · 尼科尔森
@@ -1022,24 +1038,24 @@ tools:
         tag: 微观经济教学 | 劳动经济学
         url: https://wenicholson.people.amherst.edu/
       - title: Ariel Rubinstein
-        body: 鲁宾斯坦，纽约大学 经济系 Faculty
+        body: 鲁宾斯坦，纽约大学 经济学系 Faculty
         tag: 微观经济理论 | 微观经济教学
         url: https://arielrubinstein.tau.ac.il/
       - title: 中村惠美
-        body: EmiNakamura | 日裔加拿大人 | UC－Berkeley 经济系 Faculty
+        body: EmiNakamura | 日裔加拿大人 | UC－Berkeley 经济学系 Faculty
         tag: 宏观经济 Empirical | 货币财政
         url: https://eml.berkeley.edu/~enakamura/
       - title: Jón Steinsson
-        body: UC－Berkeley 经济系 Faculty | 美籍冰岛人
+        body: UC－Berkeley 经济学系 Faculty | 美籍冰岛人
         tag: 宏观经济学 Empirical | 货币财政
         url: https://eml.berkeley.edu/~jsteinsson/
       - title: 陈伟凯
         body: 中国人民大学 经济学院 Faculty
-        tag: 现代古典经济学（Marxist）
+        tag: 现代马克思主义经济学
         url: https://weikaichen.gitlab.io/
       - title: 冯志轩
-        body: 武汉大学 经济系 Faculty
-        tag: 现代古典经济学（Marxist）
+        body: 武汉大学 经济与管理学院 经济学系 Faculty
+        tag: 现代马克思主义经济学
         url: https://ems.whu.edu.cn/info/1680/25938.htm
       - title: 雷蕾
         body: 西南财经大学 经济与管理研究院 Faculty | 家庭金融
@@ -1050,7 +1066,7 @@ tools:
         tag: 劳动、教育与发展经济学
         url: https://lizhangecon.github.io/
       - title: 姚羽欣
-        body: 华东师范大学 经济系 Faculty
+        body: 华东师范大学 经济学系 Faculty
         tag: 劳动、教育与家庭经济学
         url: https://yuxinyao.weebly.com/
       - title: Alice Z. Xu
@@ -1176,11 +1192,11 @@ tools:
         tag: 本科数学基础课教学
         url: http://aff.whu.edu.cn/huangzh/
       - title: Bruce E. Hansen
-        body: Wisconsin-Madison 经济系 Faculty
+        body: Wisconsin-Madison 经济学系 Faculty
         tag: 经济计量理论 | 计量经济教学
         url: https://users.ssc.wisc.edu/~bhansen/
       - title: Pedro H. C. SantAnna
-        body: 埃默里大学 经济系 Faculty
+        body: 埃默里大学 经济学系 Faculty
         tag: 双重差分法 研究和教学
         url: https://www.psantanna.com/
       - title: 张思亮
@@ -1188,15 +1204,15 @@ tools:
         tag: 应用统计理论 | 最优化教学
         url: https://www.slzhang.com/
       - title: 史震涛
-        body: 香港中文大学 经济系 Faculty
+        body: 香港中文大学 经济学系 Faculty
         tag: 经济计量理论 | 机器学习
         url: https://zhentaoshi.github.io/
       - title: A. Colin Cameron
-        body: UC－Davis 经济系 Faculty | 截面数据计量理论
+        body: UC－Davis 经济学系 Faculty | 截面数据计量理论
         tag: Microeconometrics Using Stata
         url: https://cameron.econ.ucdavis.edu/
       - title: Pravin K. Trivedi
-        body: IU-Bloomington 经济系 Faculty
+        body: IU-Bloomington 经济学系 Faculty
         tag: 微观经济计量理论
         url: https://www.pravinktrivedi.com/
       - title: Martin Hairer
@@ -1314,7 +1330,7 @@ tools:
         body: 介绍 Typst 到中国 | 南京大学 AI 专业 2020 级本科生
         tag: Typst 开发 | Web 技术
         url: https://blog.orangex4.workers.dev/
-      - title: UinIO 电子技术实验室－Hank
+      - title: UinIO－Hank
         body: 不透露就职单位（成都）
         tag: 电子软硬件开发 | 研发团队管理
         url: http://www.uinio.com/
@@ -1401,7 +1417,7 @@ tools:
         tag: 经济计量理论 | 国际金融
         url: https://www.jhqian.org/
       - title: 莊太量
-        body: 香港中文大学 经济系 Faculty
+        body: 香港中文大学 经济学系 Faculty
         tag: 经济计量理论 | 计量金融
         url: https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm
       - title: 中村信弘
@@ -1421,7 +1437,7 @@ tools:
         tag: Corporate Finance
         url: https://pages.stern.nyu.edu/~adamodar/
       - title: 刘岩
-        body: 武汉大学 金融系 Faculty
+        body: 中山大学（深圳）管理学院 Faculty
         tag: 商业银行 | 宏观经济
         url: http://www.liuyanecon.com/
       - title: 何治国

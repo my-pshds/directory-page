@@ -89,10 +89,6 @@ tools:
   - title: 查询
     category: lookfor
     content:
-      - title: CNBC
-        body: 商业新闻媒体
-        tag: 伦敦和新加坡双总部
-        url: https://www.cnbc.com/
       - title: 寰宇世界
         body: 你见过功能最全的现代地图阅览，没有之一
         tag: 高位替代大厂 PC 端地图 App
@@ -1120,6 +1116,10 @@ tools:
   - title: 社科机构
     category: iss
     content:
+      - title: CNBC
+        body: 商业新闻媒体
+        tag: 伦敦和新加坡双总部
+        url: https://www.cnbc.com/
       - title: Social Economics Lab
         body: 大规模调查和实验理解人们如何思考和处理经济问题及政策
         tag: Stefanie Stantcheva 牵头创办

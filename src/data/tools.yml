@@ -319,6 +319,10 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: stata2R
+        body: 让 Stata 用户快速迁移到 R 语言
+        tag: 用 Astro 做的
+        url: https://stata2r.github.io/
       - title: ML Systems
         body: 《机器学习系统》教科书 | Vijay Janapa Reddi 独著
         tag: 完整物料
@@ -657,7 +661,7 @@ tools:
         body: 哈佛大学 经济学系 Faculty
         tag: 税收 | 对自然人的调查实验
         url: https://www.stefanie-stantcheva.com/
-      - title: Cai Christine 
+      - title: Christine CAI
         body: 非营利组织 Prosperity Now 研究员
         tag: 劳动和人口经济学
         url: https://christinecai.github.io/
@@ -1428,6 +1432,10 @@ tools:
   - title: 商科人
     category: pbs
     content:
+      - title: Ernest P. CHAN
+        body: QTS Capital Management 创始人 | 康奈尔 物理 PhD
+        tag: 量化交易 | 畅销书作者
+        url: https://epchan.com/
       - title: Sergio Correia
         body: 美联储 金融稳定司 | 杜克 金融 PhD | Stata 命令 reghdfe 作者 
         tag: 在拉丁语族国家教过书 | 宏观数据

@@ -1112,6 +1112,10 @@ tools:
   - title: 社科机构
     category: iss
     content:
+      - title: Economics Mentoring Program
+        body: 面向经济学博士申请人的指导
+        tag: 咨询建议 | 参考信息资源
+        url: https://www.economicsmentoringprogram.com/
       - title: CNBC
         body: 商业新闻媒体
         tag: 伦敦和新加坡双总部

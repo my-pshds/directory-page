@@ -691,13 +691,13 @@ tools:
         url: https://www.rufeiguo.com/
       - title: Gao Pei
         body: 新加坡国立大学 李光耀公共政策学院 Faculty
-        tag: 发展经济学 | 经济史
+        tag: 发展经济学 | 社会经济史
         url: https://sites.google.com/site/gaopei11/
       - title: 尤炜
         body: 北京大学 新结构经济学研究院 Faculty
         tag: 城市 | 发展 | 历史
         url: https://sites.google.com/site/youweilucky/
-      - title: Zheng Zhong
+      - title: Zhong Zheng
         body: 密歇根大学 罗斯商学院 2024级 经济学 PhD
         tag: 发展 | 环境 | 劳动
         url: https://sites.google.com/view/zhengzhong
@@ -717,10 +717,6 @@ tools:
         body: 中国人民大学 新闻学院 Faculty | 计传岛联合创始人
         tag: 移动互联网社交媒体计算传播学
         url: https://yiyanzhang.com/
-      - title: 孟克
-        body: 对外经济贸易大学 中国世界贸易组织研究院 2025届 PhD
-        tag: 技术博客 | 国际贸易
-        url: https://mengke25.github.io/
       - title: 杨娇娇
         body: 武汉大学 经济与管理学院 Faculty
         tag: 发展 | 政治 | 历史
@@ -729,10 +725,6 @@ tools:
         body: 布朗大学 经济学系 2025届 PhD（gtools 作者）
         tag: 犯罪 | 医疗 | Stata 扩展包创作
         url: https://mcaceresb.github.io/
-      - title: 马弘
-        body: 清华大学 经济与管理学院 经济学系 Faculty
-        tag: 产业 | 贸易
-        url: https://mahong.weebly.com/
       - title: 王成军
         body: 南京大学 新闻传播学院 计算传播学实验中心 Faculty
         tag: 信息扩散 | 注意力流动 | 计算叙事
@@ -883,7 +875,7 @@ tools:
         url: https://www.cuhk.edu.hk/eco/staff/jszhang/jzhang.htm
       - title: 魏宇辰
         body: 香港大学 商学院 经济学 PhD
-        tag: 发展经济学 经济史
+        tag: 发展 | 历史
         url: https://ycwei99.weebly.com/
       - title: 杨嬛
         body: 上海财经大学 区域和城市经济学 Faculty
@@ -891,11 +883,11 @@ tools:
         url: https://ife.sufe.edu.cn/23/da/c3530a74714/page.htm
       - title: 孙圣民
         body: 中国人民大学 经济学院 经济学系 经济史教研室 Faculty
-        tag: 发展＆农业＆经济史学科思想
+        tag: 发展 | 农业 | 经济史学科思想
         url: http://econ.ruc.edu.cn/jszy/38e856abc20543fe9cf22f0699aaf73a.htm
       - title: 黄天宇
         body: 广西大学 中国－东盟经济学院 经济学系 Faculty 边疆经济学
-        tag: 发展和农业经济学 经济史
+        tag: 发展 | 农业 | 经济史
         url: https://sef.gxu.edu.cn/info/10775/88506.htm
       - title: 陈方豪
         body: 暨南大学 经济学院 Faculty
@@ -903,7 +895,7 @@ tools:
         url: https://fanghaochen.github.io/homepage/
       - title: 袁松
         body: 浙江大学 经济学院 Faculty
-        tag: 发展和政治经济学 | 经济史
+        tag: 发展 | 政治 | 历史
         url: http://www.song-yuan.net/
       - title: 杨端程
         body: 华东政法大学政府管理学院 Faculty
@@ -923,7 +915,7 @@ tools:
         url: https://sites.google.com/view/yiling-zhao/
       - title: 武玲蔚
         body: 复旦大学 经济学院 经济学系 Faculty
-        tag: 发展和性别及家庭社会学＆经济史
+        tag: 发展 | 性别 | 家庭 | 历史
         url: https://sites.google.com/view/coonecon/
       - title: 林雨晨
         body: 华威大学 经济学系 PhD
@@ -946,8 +938,8 @@ tools:
         tag: 计量历史地理＆计量政治经济
         url: https://sites.google.com/view/tsng/
       - title: 贾瑞雪
-        body: UCSD 经济学 Faculty
-        tag: 发展和政治经济学 | 经济史
+        body: UC－San Diego 经济学 Faculty
+        tag: 发展 | 政治 | 历史
         url: https://www.ruixuejia.com/
       - title: 刁文天
         body: 上海财经大学 经济学院 经济史学系 Faculty
@@ -965,10 +957,6 @@ tools:
         body: 浙江大学 社会学系 Faculty
         tag: 中国古代非正式制度史
         url: https://xiaoming-zhang.wixsite.com/academics
-      - title: 周晓岚
-        body: 山东大学 经济学院 Faculty
-        tag: 产业组织 Empirical
-        url: https://faculty.sdu.edu.cn/zhouxiaolan1/
       - title: 陈婷
         body: 香港浸会大学 经济学系 Faculty
         tag: 政治和发展经济学 | 计量经济史
@@ -1183,6 +1171,10 @@ tools:
   - title: 理学人
     category: psc
     content:
+      - title: 陶勇
+        body: 西南大学 经济管理学院 经济学系 Faculty
+        tag: 复杂系统 | 理论宏观 | 量子物理
+        url: https://cem.swu.edu.cn/info/1182/5453.htm
       - title: 叶峻峣
         body: 哈尔滨工业大学（深圳）计算机科学与技术学院 2022届 学士
         tag: 认知科学｜教育技术
@@ -1432,6 +1424,18 @@ tools:
   - title: 商科人
     category: pbs
     content:
+      - title: 马弘
+        body: 清华大学 经济与管理学院 经济学系 Faculty
+        tag: 产业 | 贸易
+        url: https://mahong.weebly.com/
+      - title: 袁哲
+        body: 浙江大学 经济学院 Faculty | 曾任职阿里系
+        tag: 互联网大平台市场
+        url: https://zheyuan.weebly.com/
+      - title: 孟克
+        body: 对外经济贸易大学 中国世界贸易组织研究院 2025届 PhD
+        tag: 技术博客 | 国际贸易
+        url: https://mengke25.github.io/
       - title: Ernest P. CHAN
         body: QTS Capital Management 创始人 | 康奈尔 物理 PhD
         tag: 量化交易 | 畅销书作者
@@ -1476,6 +1480,10 @@ tools:
         body: 厦门大学 管理学院 会计学系 PhD
         tag: Stata 和 Python 教学
         url: https://shutterzor.cn/
+      - title: 周晓岚
+        body: 山东大学 经济学院 Faculty
+        tag: 产业组织 Empirical
+        url: https://faculty.sdu.edu.cn/zhouxiaolan1/
       - title: 裘菊
         body: 中欧陆家嘴国际金融研究院 Faculty
         tag: 产业经济智库

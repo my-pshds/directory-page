@@ -2,6 +2,10 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: Qlib
+        body: 开源的量化投资平台，与传统机器学习和传统深度学习配合较好
+        tag: 微软 | 网页 / PDF / EPUB
+        url: 
       - title: RobustiPy
         body: Python 库 | 花样线性回归
         tag: 从主页点进文档页面
@@ -507,6 +511,10 @@ tools:
   - title: 资料库
     category: materialbase
     content:
+      - title: WeLib
+        body: 大致分类清晰的自由图书馆
+        tag: 界面 UI 好看
+        url: https://zh.welib.org/
       - title: 中华文史学术论著库
         body: 籍合网提供
         tag: 付费产品 | 有搜索栏
@@ -1365,6 +1373,10 @@ tools:
   - title: 理工机构
     category: isc
     content:
+      - title: WireMin
+        body: 完全去中心化的社交媒体
+        tag: 作为协议而非服务
+        url: https://wiremin.org/
       - title: ML Systems
         body: 卡内基梅隆大学 计算机科学院《机器学习系统》课程
         tag: 程序 | 时间表 | 材料

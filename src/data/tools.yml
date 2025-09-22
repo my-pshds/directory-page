@@ -5,7 +5,7 @@ tools:
       - title: Qlib
         body: 开源的量化投资平台，与传统机器学习和传统深度学习配合较好
         tag: 微软 | 网页 / PDF / EPUB
-        url: 
+        url: https://qlib.readthedocs.io/
       - title: RobustiPy
         body: Python 库 | 花样线性回归
         tag: 从主页点进文档页面
@@ -152,6 +152,14 @@ tools:
   - title: 工具
     category: app
     content:
+      - title: Bypass Paywalls Clean
+        body: Chrome 内核浏览器可用的插件，绕过诸平台媒体付费限制
+        tag: 存放在 GitFlic
+        url: https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean
+      - title: CTDP Momentum
+        body: 践行链式时延协议理论解决执行启动问题
+        tag: 知乎用户 @Blues 开发
+        url: https://momentumctdp.netlify.app/
       - title: FlashAI
         body: 多模态版本地大模型工作台
         tag: 内置常见开源模型
@@ -633,6 +641,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 范思源
+        body: UC San Diego 政治学系 博士生 | 人大经济本科
+        tag: 政治学模型 | 数学和经济教学
+        url: https://fansiyuan.weebly.com/
+      - title: 曹思盈
+        body: 香港中文大学 社会科学院 经济学系 Faculty
+        tag: 产业组织 | 法律 | 政治
+        url: https://sites.google.com/view/siyingc/
       - title: 黄子彬
         body: 上海财经大学 商学院 世界经济与国际贸易系 Faculty
         tag: 劳动 | 教育 | 城市
@@ -694,7 +710,7 @@ tools:
         tag: 行为 | 实验 | 劳动
         url: https://xiqiancai.weebly.com/
       - title: 张宁
-        body: 香港中文大学 经济学系 Faculty
+        body: 香港中文大学 社会科学院 经济学系 Faculty
         tag: 劳动 | 家庭 | 人口
         url: https://sites.google.com/view/ningzhangecon/
       - title: 郭汝飞
@@ -794,7 +810,7 @@ tools:
         tag: 经济史 | 地理＆政治＆发展
         url: https://sites.google.com/view/rnwang/
       - title: 白营
-        body: 香港中文大学 经济学系 Faculty
+        body: 香港中文大学 社会科学院 经济学系 Faculty
         tag: 发展 | 政治 | 中国经济史
         url: https://yingbai.org/
       - title: 魏金霖
@@ -882,7 +898,7 @@ tools:
         tag: 劳动和发展经济学 | 水资源
         url: https://liliecon.weebly.com/
       - title: 张俊森
-        body: 香港中文大学 经济学系 Faculty
+        body: 香港中文大学 社会科学院 经济学系 Faculty
         tag: 发展和家庭经济学
         url: https://www.cuhk.edu.hk/eco/staff/jszhang/jzhang.htm
       - title: 魏宇辰
@@ -1232,7 +1248,7 @@ tools:
         tag: 应用统计理论 | 最优化教学
         url: https://www.slzhang.com/
       - title: 史震涛
-        body: 香港中文大学 经济学系 Faculty
+        body: 香港中文大学 社会科学院 经济学系 Faculty
         tag: 经济计量理论 | 机器学习
         url: https://zhentaoshi.github.io/
       - title: A. Colin Cameron
@@ -1469,7 +1485,7 @@ tools:
         tag: 经济计量理论 | 国际金融
         url: https://www.jhqian.org/
       - title: 莊太量
-        body: 香港中文大学 经济学系 Faculty
+        body: 香港中文大学 社会科学院 经济学系 Faculty
         tag: 经济计量理论 | 计量金融
         url: https://www.cuhk.edu.hk/eco/staff/tlchong/tlchong3.htm
       - title: 中村信弘

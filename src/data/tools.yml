@@ -641,6 +641,10 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 
+        body: 
+        tag: 
+        url: 
       - title: 范思源
         body: UC San Diego 政治学系 博士生 | 人大经济本科
         tag: 政治学模型 | 数学和经济教学
@@ -926,7 +930,7 @@ tools:
         tag: 发展 | 政治 | 历史
         url: http://www.song-yuan.net/
       - title: 杨端程
-        body: 华东政法大学政府管理学院 Faculty
+        body: 华东政法大学 政府管理学院 Faculty
         tag: 中国历史政治学
         url: https://dcyeo.github.io/
       - title: 许志成

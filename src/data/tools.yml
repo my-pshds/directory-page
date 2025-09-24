@@ -93,6 +93,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: PeakJut
+        body: 用直观陡峭程度来衡量的世界山峰名录
+        tag: 有榜单和地图等多种形式
+        url: https://peakjut.com/
       - title: 寰宇世界
         body: 你见过功能最全的现代地图阅览，没有之一
         tag: 高位替代大厂 PC 端地图 App
@@ -331,6 +335,10 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: 广州外国餐厅一览表
+        body: 六十国餐厅 | 八十国菜式
+        tag: 仅一张表
+        url: https://docs.qq.com/sheet/DWmxFaU1ybHdRenVt
       - title: stata2R
         body: 让 Stata 用户快速迁移到 R 语言
         tag: 用 Astro 做的
@@ -641,6 +649,14 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 刘光临
+        body: 岭南大学（香港）经济学系 Faculty
+        tag: 中国军事和经济史
+        url: https://www.ln.edu.hk/history/people/liu
+      - title: 段理
+        body: 港大商学院 2020级博士生 | UCB史经双本 | 芝大MAPSS
+        tag: 历史上的人力资本＆创新＆技术
+        url: https://theduanli.com/
       - title: 卢文益
         body: 纽约大学 政治学系 博士生 | 人大PPE本科 | 北大经院博士退学
         tag: 中国发展政治经济学

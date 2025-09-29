@@ -2,6 +2,10 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: MiniMind
+        body: 特别小一套大语言模型，个人电脑也能训练
+        tag: 用的 PyTorch | 适合新手
+        url: https://jingyaogong.github.io/minimind/
       - title: Qlib
         body: 开源的量化投资平台，与传统机器学习和传统深度学习配合较好
         tag: 微软 | 网页 / PDF / EPUB
@@ -93,6 +97,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: Econ Paper Search
+        body: RePEc 论文库搜索，自定义期刊列表和年份范围搜索关键词
+        tag: Zhu Xuanli 开发
+        url: https://econ-paper-search.streamlit.app/
       - title: PeakJut
         body: 用直观陡峭程度来衡量的世界山峰名录
         tag: 有榜单和地图等多种形式
@@ -527,6 +535,10 @@ tools:
   - title: 资料库
     category: materialbase
     content:
+      - title: ADHD Resources
+        body: William (Bill) W. Dodson 主办
+        tag: 可修改分发
+        url: https://www.adhdresources.net/
       - title: WeLib
         body: 大致分类清晰的自由图书馆
         tag: 界面 UI 好看
@@ -649,6 +661,18 @@ tools:
   - title: 社科人
     category: pss
     content:
+      - title: 李仁渊
+        body: 中央研究院 历史语言研究所 Faculty
+        tag: 明清传播与出版社会史
+        url: https://www1.ihp.sinica.edu.tw/Fellows/Ren-yuan_Li
+      - title: Neil Cummins
+        body: 伦敦政经学院 经济史学系 Faculty
+        tag: 家庭和人口经济史
+        url: https://neilcummins.com/
+      - title: Gail Hershatter | 贺萧
+        body: UC－Santa Cruz 历史学系 Faculty
+        tag: 中国近现代劳工与女性
+        url: https://gailhershatter.sites.ucsc.edu/
       - title: 刘光临
         body: 岭南大学（香港）经济学系 Faculty
         tag: 中国军事和经济史

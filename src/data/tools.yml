@@ -2,6 +2,10 @@ tools:
   - title: 技术文档
     category: doc
     content:
+      - title: OpenDyslexic
+        body: 针对阅读障碍的拉丁字母字体
+        tag: 完全开源
+        url: https://opendyslexic.org/
       - title: MiniMind
         body: 特别小一套大语言模型，个人电脑也能训练
         tag: 用的 PyTorch | 适合新手
@@ -97,6 +101,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: 默沙东诊疗手册
+        body: 业内、业外、兽医，三版本
+        tag: 受营利机构控制的非营利项目
+        url: https://www.msdmanuals.cn/
       - title: Econ Paper Search
         body: RePEc 论文库搜索，自定义期刊列表和年份范围搜索关键词
         tag: Zhu Xuanli 开发
@@ -343,6 +351,10 @@ tools:
   - title: 网页书
     category: web-book
     content:
+      - title: "Rationality: From AI to Zombie"
+        body: Eliezer S. Yudkowsky 散文集
+        tag: UI 很漂亮
+        url: https://www.readthesequences.com/
       - title: 广州外国餐厅一览表
         body: 六十国餐厅 | 八十国菜式
         tag: 仅一张表
@@ -1350,6 +1362,10 @@ tools:
   - title: 工学人
     category: egn
     content:
+      - title: 姚权铭
+        body: 清华大学 电子工程系 Faculty
+        tag: 结构化关系数据学习 | 机器学习教学
+        url: https://lars-group.github.io/
       - title: Chen Chenghao
         body: 上海交通大学 计算机学院 信息安全与密码学研究所 2027届 硕士生
         tag: 电子信息工程 | 密码学
@@ -1599,7 +1615,6 @@ tools:
         body: 网站加载速度分析工具，生成网页的实际性能报告
         tag: 桌面端和移动端分开考察
         url: https://pagespeed.web.dev/
-
       - title: Astro Themes
         body: Built At Lightspeed 提供的主题模板列表
         tag: 浏览翻阅比官网更方便

@@ -101,6 +101,10 @@ tools:
   - title: 查询
     category: lookfor
     content:
+      - title: 华为 IP 知识百科
+        body: 是 Info-Finder（数小通）网站的一部分
+        tag: 五分钟掌握一个新名词
+        url: https://info.support.huawei.com/info-finder/encyclopedia/zh/index.html
       - title: 默沙东诊疗手册
         body: 业内、业外、兽医，三版本
         tag: 受营利机构控制的非营利项目

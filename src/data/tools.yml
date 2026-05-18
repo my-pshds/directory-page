@@ -1780,10 +1780,6 @@ tools:
   - title: 条目集
     category: link-sets
     content:
-      - title: 品葱*精选
-        body: 匿名网友在 GitHub 创建的网络帖子存档库
-        tag: 从品葱论坛发源拓展
-        url: https://project-gutenberg.github.io/Pincong/
       - title: AMS－STML
         body: 美国数学会－学生数学图书馆 | ISSN 1520-9121
         tag: 当代数学教材推荐

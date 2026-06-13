@@ -139,7 +139,7 @@ tools:
         url: https://qingshanasd.cn/medical-map/
       - title: 新冠病毒用药冲突查询
         body: 利物浦大学提供
-        tag: 新冠药物与同时用药的相互作用
+        tag: 新冠药物与其他药的相互作用
         url: https://covid19-druginteractions.org/checker
       - title: 中国疾病预防控制中心
         body: 有链接可跳转到相关查询页面
@@ -250,7 +250,7 @@ tools:
         url: https://qwinsi.github.io/tex2typst-webapp/
       - title: 云库工具
         body: 几十类在线文件格式转换，每类有几十到两千种不等
-        tag: 有功能无限免费，有功能有限免费
+        tag: 功能不完全无限免费
         url: https://libkit.cn/
       - title: QuillBot
         body: 英语写作辅助工具，有较弱的 AI 成分
@@ -384,7 +384,7 @@ tools:
         tag: Stata 数据清理指南
         url: https://povertyaction.github.io/guides/cleaning/readme/
       - title: 小时百科
-        body: 数学、物理、计算机，本科和硕士核心课，注重知识系统连贯
+        body: 数学、物理、计算机，本科和硕士核心课，知识系统连贯
         tag: 广州小时科技提供
         url: https://wuli.wiki/
       - title: Rust 教程
@@ -804,7 +804,7 @@ tools:
       - title: 张伊妍
         body: 中国人民大学 新闻学院 Faculty | 计传岛联合创始人
         tag: 移动互联网社交媒体计算传播
-        url: https://yiyanzhang.com/
+        url: http://jcr.ruc.edu.cn/zw/jzyg/js/9fe48f61aadb40698ef37b72213dd0b4.htm
       - title: 杨娇娇
         body: 武汉大学 经济与管理学院 Faculty
         tag: 发展 | 政治 | 历史
@@ -815,7 +815,7 @@ tools:
         url: https://mcaceresb.github.io/
       - title: 王成军
         body: 南京大学 新闻传播学院 计算传播学实验中心 Faculty
-        tag: 信息扩散 | 注意力流动 | 计算叙事
+        tag: 注意力流动 | 计算叙事
         url: https://chengjunwang.com/
       - title: 杜宣莹
         body: 北京大学 历史学系 Faculty
@@ -1368,7 +1368,7 @@ tools:
     content:
       - title: 姚权铭
         body: 清华大学 电子工程系 Faculty
-        tag: 结构化关系数据学习 | 机器学习教学
+        tag: 结构数据学习 | 机器学习教学
         url: https://lars-group.github.io/
       - title: Chen Chenghao
         body: 上海交通大学 计算机学院 信息安全与密码学研究所 2027届 硕士生
@@ -1775,7 +1775,7 @@ tools:
 
       - title: 因果推断从概念到实践
         body: Causal Inference for the Brave and True 的中文翻译版
-        tag: ipynb 格式 | Gitee 和 GitHub 都有
+        tag: ipynb 格式 | Gitee 和 GitHub
         url: https://gitee.com/xieliaing/causal-inference-intro-gitee
   - title: 条目集
     category: link-sets

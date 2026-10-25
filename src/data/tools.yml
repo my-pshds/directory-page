@@ -1702,10 +1702,6 @@ tools:
         body: 不属任何省级区划 | 处级及以下党员违纪、职务违法、申诉
         tag: 纪检监察工作委员会
         url: https://zygjjg.12388.gov.cn/
-      - title: SMS-Active
-        body: 俄罗斯网络服务商，在线租用指定地区手机号接收短信
-        tag: 没收到就不收钱
-        url: https://sms-activate.io/cn/
       - title: Academic Positions
         body: 从瑞典发源的高校教职招聘平台
         tag: 暂时不支持简体中文
